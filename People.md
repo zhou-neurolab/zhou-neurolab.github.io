@@ -5,7 +5,7 @@ permalink: /people/
 ---
 ## Principal Investigator
 
-<img align="left" height="200" src="/assets/jingfeng_head_shot.jpg" />
+<img align="left" height="200" hspace="50" src="/assets/jingfeng_head_shot.jpg" />
 
 **Jingfeng Zhou, Ph.D.**
 
