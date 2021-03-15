@@ -8,11 +8,11 @@ title: People
 
 ![jingfeng](/assets/jingfeng_head_shot.jpg){: width="200" }{: style="float: left"}
 
-**Jingfeng Zhou, Ph.D.**
+{::nomarkdown}**Jingfeng Zhou, Ph.D.**{::nomarkdown}  
 
 Principle Investigator at the Chinese Institute for Brain Research, Beijing
 
-Chinese Institute for Brain Research, Beijing(CIBR), Jianzan Building, No.26, Science Park Road, Zhongguancun Life Science Park, Changping District, Beijing, China
+Address: Jianzan Building, No.26, Science Park Road, Zhongguancun Life Science Park, Changping District, Beijing, China
 
 Phone: xxx-xxx-xxx, Email: zhou-neurolab@gmail.com
 
