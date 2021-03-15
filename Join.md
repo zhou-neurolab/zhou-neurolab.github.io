@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Join
+title: We are hiring!
 ---
 
-This is an about page about this awesome site.
+*Lab Manager*
 
-Reasons:
-- it's great.
-- it's a test.
+*Postdoctoral Fellow*
 
-## Other thoughts
+*Research Associate*
 
-This is really great.
+*Research Assistant*
+
+*Undergraduates*
