@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-\*Co-first authors, #Co-corresponding authors
+\*Co-first authors<br>#Co-corresponding authors
 
 ## 2013 — 2021
 
