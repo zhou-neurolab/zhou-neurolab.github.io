@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Join
+permalink: /join/
 ---
 ## We are hiring!
 
