@@ -36,4 +36,4 @@ title: Publications
 
 -	Liu, Z*., Zhou, J*., Li, Y., Hu, F., Lu, Y., Ma, M., Feng, Q., Zhang, J., Wang, D., Zeng, J., Bao, J., Kim, J., Chen, Z., Mestikawy, S., & Luo, M. (2014). Dorsal raphe neurons signal reward through 5-HT and glutamate. Neuron, 81(6), 1360-1374. (F1000 recommended)
 
--	Zhan, C*#., Zhou, J*., Feng, Q., Zhang, J. E., Lin, S., Bao, J., Wu, P., & Luo, M#. (2013). Acute and long-term suppression of feeding behavior by POMC neurons in the brainstem and hypothalamus, respectively. Journal of Neuroscience, 33(8), 3624-3632. (F1000 recommended)
+-	Zhan, C\*#., Zhou, J\*., Feng, Q., Zhang, J. E., Lin, S., Bao, J., Wu, P., & Luo, M#. (2013). Acute and long-term suppression of feeding behavior by POMC neurons in the brainstem and hypothalamus, respectively. Journal of Neuroscience, 33(8), 3624-3632. (F1000 recommended)
