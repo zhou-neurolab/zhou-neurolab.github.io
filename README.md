@@ -1,2 +1,2 @@
-# zhou-neurolab.github.io
+# Zhou Lab
 Behavioral and Systems Neuroscience
