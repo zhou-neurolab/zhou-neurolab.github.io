@@ -10,9 +10,9 @@ markdown: kramdown
 theme: minima
 
 header_pages:
+  - People.md
   - Research.md
   - Publications.md
-  - People.md
-  - News.md
+  - Links.md
   - Outreach.md
   - Join.md
