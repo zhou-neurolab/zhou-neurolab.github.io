@@ -1,7 +1,7 @@
 ---
-layout: page
 title: News
+layout: news
 permalink: /news/
 ---
 
-Waiting for news...
+Waiting for more news...
