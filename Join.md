@@ -1,7 +1,8 @@
 ---
 layout: page
-title: We are hiring!
+title: Join
 ---
+## We are hiring!
 
 *Lab Manager*
 
