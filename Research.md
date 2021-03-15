@@ -6,3 +6,5 @@ The research interest of the lab has coalesced around a desire to understand the
 
 
 ![schema](/assets/schema-1.jpg){: width="300" }
+
+![schema](/assets/spikes.png){: height="300" }
