@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Join
 ---
 
 This is an about page about this awesome site.
