@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Outreach
 ---
 
 This is an about page about this awesome site.
