@@ -8,7 +8,7 @@ title: People
 
 ![jingfeng](/assets/jingfeng_head_shot.jpg){: width="200" }{: style="float: left"}
 
-{::nomarkdown}**Jingfeng Zhou, Ph.D.**{::nomarkdown}  
+{%- ... -%}**Jingfeng Zhou, Ph.D.**
 
 Principle Investigator at the Chinese Institute for Brain Research, Beijing
 
