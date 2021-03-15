@@ -8,8 +8,9 @@ title: People
 
 Principle Investigator at the Chinese Institute for Brain Research, Beijing
 
-Phone: xxx-xxx-xxx/n
-Email: zhou-neurolab@gmail.com
+Chinese Institute for Brain Research, Beijing(CIBR), Jianzan Building, No.26, Science Park Road, Zhongguancun Life Science Park, Changping District, Beijing, China
+
+Phone: xxx-xxx-xxx / Email: zhou-neurolab@gmail.com
 
 
 
