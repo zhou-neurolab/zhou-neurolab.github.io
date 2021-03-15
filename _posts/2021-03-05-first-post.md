@@ -1,5 +1,5 @@
 ---
-title: Creating the Zhou Lab website
+title: Zhou Lab website created
 layout: post
 permalink: /2021/03/05/first-post/
 ---
