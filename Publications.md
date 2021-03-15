@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+permalink: /publications/
 ---
 \*Co-first authors, #Co-corresponding authors
 
