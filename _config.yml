@@ -1,9 +1,9 @@
 # basic options
-title: Zhou Lab
-author: Jingfeng
+# title: Zhou Lab
+% author: Jingfeng Zhou
 email: zhou.neurolab@gmail.com
-description: Behavioral and Systems Neuroscience
-github username: zhou-neurolab
+# description: Behavioral and Systems Neuroscience
+# github username: zhou-neurolab
 
 # Build settings
 markdown: kramdown
