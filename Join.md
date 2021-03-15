@@ -4,12 +4,12 @@ title: Join
 ---
 ## We are hiring!
 
-*Lab Manager*
+**Lab Manager**
 
-*Postdoctoral Fellow*
+**Postdoctoral Fellow**
 
-*Research Associate*
+**Research Associate**
 
-*Research Assistant*
+**Research Assistant**
 
-*Undergraduates*
+**Undergraduates**
