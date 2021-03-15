@@ -1,0 +1,10 @@
+# basic options
+title: Zhou Lab
+author: Jingfeng
+email: zhou.neurolab@gmail.com
+description: Behavioral and Systems Neuroscience
+github username: zhou-neurolab
+
+# Build settings
+markdown: kramdown
+theme: minima
