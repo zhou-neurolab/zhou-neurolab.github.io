@@ -4,10 +4,10 @@ title: People
 ---
 ## Principal Investigator
 
-![jingfeng](/assets/jingfeng_head_shot.jpg){: width="200" }{: style="float: left"}
+![jingfeng](/assets/jingfeng_head_shot.jpg){: width="200" }
 
   **Jingfeng Zhou, Ph.D.**
-
+  
   Principle Investigator at the Chinese Institute for Brain Research, Beijing
 
   Phone: xxx-xxx-xxx, Email: zhou-neurolab@gmail.com
