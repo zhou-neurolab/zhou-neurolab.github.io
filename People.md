@@ -4,8 +4,6 @@ title: People
 ---
 ## Principal Investigator
 
-
-
 ![jingfeng](/assets/jingfeng_head_shot.jpg){: width="200" }{: style="float: left"}
 
 {%- ... -%}**Jingfeng Zhou, Ph.D.**
