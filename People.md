@@ -8,7 +8,7 @@ title: People
 
 Principle Investigator at the Chinese Institute for Brain Research, Beijing
 
-Phone: xxx-xxx-xxx
+Phone: xxx-xxx-xxx/n
 Email: zhou-neurolab@gmail.com
 
 
