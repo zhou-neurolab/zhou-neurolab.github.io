@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating the Zhou Lab website.
+title: Creating the Zhou Lab website
 tags: News
 categories: News
 ---
