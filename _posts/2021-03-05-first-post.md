@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Creating the Zhou Lab website
+layout: default
 permalink: /2021/03/05/first-post/
 ---
 
