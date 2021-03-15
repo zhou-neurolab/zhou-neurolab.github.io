@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Creating the Zhou Lab website
 ---
 
