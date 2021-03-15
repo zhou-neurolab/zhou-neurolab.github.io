@@ -8,7 +8,7 @@ description: Laboratory of Behavioral and Systems Neuroscience at the Chinese In
 # Build settings
 markdown: kramdown
 theme: minima
-permalink: /:categories/: title/
+# permalink: /:categories/: title/
 
 header_pages:
   - People.md
