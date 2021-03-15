@@ -8,3 +8,11 @@ description: Behavioral and Systems Neuroscience
 # Build settings
 markdown: kramdown
 theme: minima
+
+header_pages:
+  - Research.md
+  - Publications.md
+  - People.md
+  - News.md
+  - Contact.md
+  - Join.md
