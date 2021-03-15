@@ -10,7 +10,7 @@ Principle Investigator at the Chinese Institute for Brain Research, Beijing
 
 Chinese Institute for Brain Research, Beijing(CIBR), Jianzan Building, No.26, Science Park Road, Zhongguancun Life Science Park, Changping District, Beijing, China
 
-Phone: xxx-xxx-xxx // Email: zhou-neurolab@gmail.com
+Phone: xxx-xxx-xxx, Email: zhou-neurolab@gmail.com
 
 
 
