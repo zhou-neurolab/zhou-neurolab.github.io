@@ -6,7 +6,7 @@ title: Publications
 
 ## 2013 — 2021
 
--	Zhou, J#., Gardner, M. P., & Schoenbaum, G#. (2021). Is the core function of orbitofrontal cortex to signal values or make predictions? Current Opinion in Behavioral Sciences. In revision. **Current Opinion in Behavioral Sciences** 41, 1-9
+-	Zhou, J#., Gardner, M. P., & Schoenbaum, G#. (2021). Is the core function of orbitofrontal cortex to signal values or make predictions? **Current Opinion in Behavioral Sciences** 41, 1-9
 
 -	Zhou, J#., Zong, W., Jia, C., Gardner, M.P.H., Schoenbaum, G#. (2021). Prospective representations in rat orbitofrontal ensembles. **Behavioral Neuroscience**. Accepted. [bioRxiv](https://doi.org/10.1101/2020.08.27.268391).
 
