@@ -5,7 +5,7 @@ title: People
 ## Principal Investigator
 
 **Jingfeng Zhou, Ph.D.**
-[jingfeng](https://drive.google.com/file/d/1to5qR6-yUj0JzKV6DEA2ETEhci02aiFF/view?usp=sharing)
+
 Principle Investigator at the Chinese Institute for Brain Research, Beijing
 
 Chinese Institute for Brain Research, Beijing(CIBR), Jianzan Building, No.26, Science Park Road, Zhongguancun Life Science Park, Changping District, Beijing, China
