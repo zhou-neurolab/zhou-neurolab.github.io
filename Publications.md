@@ -2,8 +2,7 @@
 layout: page
 title: Publications
 ---
-*Co-first authors
-
+\*Co-first authors
 #Co-corresponding authors
 
 ## 2013 - 2021
