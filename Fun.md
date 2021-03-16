@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fun
+title: Fun Staff
 ---
 
 Some fun staff, such as PHD comics...
