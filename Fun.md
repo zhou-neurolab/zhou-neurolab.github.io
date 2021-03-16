@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Fun Staff
+title: Fun Stuff
 ---
 
-Some fun staff, such as PHD comics...
+Some fun stuff, such as PHD comics...
 
 ## Academic Events
 
