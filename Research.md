@@ -8,5 +8,5 @@ The research interest of the lab has coalesced around a desire to understand the
 
 
 <p align="center">
-  <img height="250" src="/assets/methodology.png">
+  <img height="200" src="/assets/methodology.png">
 </p>
