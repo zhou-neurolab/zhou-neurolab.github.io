@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fun Stuff
+permalink: /fun/
 ---
 
 Some fun stuff, such as PHD comics...
