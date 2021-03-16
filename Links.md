@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Links
-permalink: /links/
+title: Resources
+permalink: /resources/
 ---
 
 This is a page for useful links.
