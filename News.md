@@ -1,6 +1,6 @@
 ---
 title: News
 layout: home
-list_title: 'Check out the lastest lab updates'
+list_title: ' '
 permalink: /news/
 ---
