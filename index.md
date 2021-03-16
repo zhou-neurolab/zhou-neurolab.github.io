@@ -9,5 +9,5 @@ Note: Jingfeng Zhou, Ph.D. is currently a postdoc at the National Institute on D
 </p>
 
 <p align="center">
-  <img height="200" src="/assets/rat3.png">
+  <img height="200" src="/assets/rat.svg">
 </p>
