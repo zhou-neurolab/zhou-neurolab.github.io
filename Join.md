@@ -11,6 +11,6 @@ Our lab is actively seeking one lab manager, postdoctoral fellows, research assi
 
 ## Graduate Students
 
-## Research Assistant
+## Research Assistants
 
 ## Undergraduates
