@@ -3,7 +3,7 @@ layout: page
 title: People
 permalink: /people/
 ---
-## Principal Investigator
+## Assistant Investigator
 
 <img align="left" height="190" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/assets/jingfeng_head_shot.jpg" />
 
