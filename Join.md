@@ -3,14 +3,14 @@ layout: page
 title: Join
 permalink: /join/
 ---
-## We are hiring!
+Our lab is actively seeking one lab manager, postdoctoral fellows, research assistants, and graduate students. Please get in touch if you're interested in joining our team.
 
-**Lab Manager**
+## Lab Manager
 
-**Postdoctoral Fellow**
+## Postdoctoral Fellow
 
-**Research Associate**
+## Graduate Students
 
-**Research Assistant**
+## Research Assistant
 
-**Undergraduates**
+## Undergraduates
