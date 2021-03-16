@@ -12,4 +12,7 @@ Note: Jingfeng Zhou, Ph.D. is currently a postdoc at the National Institute on D
   <img height="200" src="/assets/rat.svg">
 </p>
 
-<a id='hLiFbjlgQfJ1F9bqriJcmw' class='gie-single' href='http://www.gettyimages.co.uk/detail/1171617600' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'hLiFbjlgQfJ1F9bqriJcmw',sig:'K1caEknOx_WmWGyqzTUb9Z8yJ-ID5aCXZTZCwEuHe30=',w:'553px',h:'311px',items:'1171617600',caption: true ,tld:'co.uk',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+
+<p align="center">
+  <img height="200" src="http://www.gettyimages.co.uk/detail/1171617600">
+</p>
