@@ -7,5 +7,6 @@ permalink: /research/
 The research interest of the lab has coalesced around a desire to understand the neural circuit mechanisms of animal behavior and cognition. We use *in vivo* electrophysiology as a primary tool, combined with complex behavioral tasks, optogenetics, and computational tools, to map neural dynamics embedded in the neural population activities – primarily in the prefrontal cortex and hippocampus – to the hidden cognitive variables that underlie learning, memory, and decision-making. We also have a great interest in how these neural representations and their behavioral functions would be altered in neuropsychiatric disease conditions such as addiction, depression, and schizophrenia.
 
 
-![schema](/assets/schema-1.jpg){: height="200" }
-![spikes](/assets/spikes.png){: height="140" }
+<p align="center">
+  <img height="300" src="/assets/methodology.png">
+</p>
