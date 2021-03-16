@@ -12,7 +12,3 @@ Note: Jingfeng Zhou, Ph.D. is currently a postdoc at the National Institute on D
   <img height="200" src="/assets/rat.svg">
 </p>
 
-
-<p align="center">
-  <img height="200" src="http://www.gettyimages.co.uk/detail/1171617600">
-</p>
