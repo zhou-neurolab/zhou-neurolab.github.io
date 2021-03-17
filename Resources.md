@@ -15,10 +15,16 @@ permalink: /resources/
 
 * [**aRrgh**](http://arrgh.tim-smith.us/): a newcomer’s (angry) guide to R.
 
-<h4 style="color:gray">Figures</h4>
+<h4 style="color:gray">Plotting</h4>
 
 * [**ColorBrewer**](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3): Color Advice for Maps.<br>
 * Every [**ColorBrewer**](https://observablehq.com/@d3/color-schemes) Scale.
+
+<h4 style="color:gray">Writing and Speaking</h4>
+
+* [**The Craft of Writing Effectively**](https://www.youtube.com/watch?v=vtIzMaLkCaM) by Larry McEnerney.<br>
+* [**How To Speak by Patrick**](https://www.youtube.com/watch?v=Unzc731iCUY) by Patrick Winston.
+
 
 <h4 style="color:gray">Online Talks</h4>
 
