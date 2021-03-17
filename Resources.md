@@ -27,6 +27,7 @@ permalink: /resources/
 
 <h4 style="color:gray">Training</h4>
 
+* [**Scholarpedia**](http://www.scholarpedia.org/article/Main_Page), a peer-reviewed open-access encyclopedia.<br>
 * [**Online Resources for Systems and Computational Neuroscience**](https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/)<br>
 * [**Computational Neuroscience Resources**](http://neural-reckoning.org/comp-neuro-resources.html)
 
