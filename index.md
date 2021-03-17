@@ -3,10 +3,6 @@ layout: page
 ---
 
 <p align="center">
-  <img height="300" src="/assets/brain-rainbow.svg">
-</p>
-
-<p align="center">
   <img height="400" src="/assets/lego_blocks2.jpg">
 </p>
 
