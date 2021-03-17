@@ -20,3 +20,5 @@ permalink: /resources/
 * [**ColorBrewer**](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3): Color Advice for Maps.<br>
 * Every [**ColorBrewer**](https://observablehq.com/@d3/color-schemes) Scale.
 
+<h4 style="color:gray">Online Seminars</h4>
+* [**World Wide Neuro**](https://www.world-wide.org/Neuro/): a new initiative to bring seminars and talks online.
