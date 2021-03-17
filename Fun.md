@@ -10,3 +10,9 @@ permalink: /fun/
 * [Analysis of Correlation between Workload and Procrastination](http://phdcomics.com/comics/archive.php?comicid=1388)
 * [ANOVA: Analysis of Value](http://phdcomics.com/comics/archive.php?comicid=905)
 * [The Thesis of Repulsor Field](http://phdcomics.com/comics/archive.php?comicid=1354)
+
+<p style="color:gray">
+“Piled Higher and Deeper” by Jorge Cham www.phdcomics.com
+</p>
+
+
