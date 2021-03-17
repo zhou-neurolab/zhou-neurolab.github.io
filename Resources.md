@@ -21,4 +21,4 @@ permalink: /resources/
 * Every [**ColorBrewer**](https://observablehq.com/@d3/color-schemes) Scale.
 
 <h4 style="color:gray">Online Seminars</h4>
-* [**World Wide Neuro**](https://www.world-wide.org/Neuro/): a new initiative to bring seminars and talks online.
+* The [**World Wide Neuro**](https://www.world-wide.org/Neuro/): a new initiative to bring seminars and talks online.
