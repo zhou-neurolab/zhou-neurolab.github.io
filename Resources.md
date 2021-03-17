@@ -20,7 +20,9 @@ permalink: /resources/
 * [**ColorBrewer**](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3): Color Advice for Maps.<br>
 * Every [**ColorBrewer**](https://observablehq.com/@d3/color-schemes) Scale.
 
-<h4 style="color:gray">Online Seminars</h4>
+<h4 style="color:gray">Online Talks</h4>
 
 * [**World Wide Neuro**](https://www.world-wide.org/Neuro/): a new initiative to bring seminars and talks online.<br>
-* [**Cosyne Talks**](https://www.youtube.com/channel/UCzOTbZTHTubFNjANAR33AAg) on Youtube.
+* [**Cosyne Talks**](https://www.youtube.com/channel/UCzOTbZTHTubFNjANAR33AAg) on Youtube.<br>
+* [**Dimensionality Reduction and Population Dynamics in Neural Data**](https://www.youtube.com/playlist?list=PLonWNO9SywvIKGnlOVrc-6tAGyB14lXfy) on Youtube, 2020.<br>
+* [**Representation, Coding and Computation in Neural Circuits**](https://simons.berkeley.edu/workshops/schedule/5382), 2018
