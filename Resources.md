@@ -17,8 +17,8 @@ permalink: /resources/
 
 <h4 style="color:gray">Plotting</h4>
 
-* [**ColorBrewer**](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3): Color Advice for Maps.<br>
-* [**Color Schemes**](https://observablehq.com/@d3/color-schemes) including Every ColorBrewer Scale.
+* [**ColorBrewer**](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3): Color advice for maps.<br>
+* [**Color Schemes**](https://observablehq.com/@d3/color-schemes) including every ColorBrewer scale.
 
 <h4 style="color:gray">Writing and Speaking</h4>
 
