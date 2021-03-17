@@ -6,5 +6,5 @@ permalink: /resources/
 
 ## Useful Links
 
-Google [**AutoDraw**](https://www.autodraw.com/) Turns Your Rough Scribbles Into Beautiful Icons For Free.
+Google [**AutoDraw**](https://www.autodraw.com/) turns your rough scribbles into beautiful icons for free.
 
