@@ -12,7 +12,7 @@ permalink: /fun/
 * [The Thesis of Repulsor Field](http://phdcomics.com/comics/archive.php?comicid=1354)
 
 <p style="color:gray">
-“Piled Higher and Deeper” by Jorge Cham www.phdcomics.com
+“Piled Higher and Deeper” by Jorge Cham [www.phdcomics.com](www.phdcomics.com)
 </p>
 
 
