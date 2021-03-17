@@ -37,3 +37,4 @@ permalink: /resources/
 <h4 style="color:gray">Training</h4>
 
 * [**Online Resources for Systems and Computational Neuroscience**](https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/)<br>
+* [**Computational Neuroscience Resources**](http://neural-reckoning.org/comp-neuro-resources.html).
