@@ -34,4 +34,6 @@ permalink: /resources/
 * [**Representation, Coding and Computation in Neural Circuits**](https://simons.berkeley.edu/workshops/schedule/5382), 2018.<br>
 * [**Computational Theories of the Brain**](https://simons.berkeley.edu/workshops/schedule/5386), 2018.<br>
 
+<h4 style="color:gray">Training</h4>
 
+* [**Online Resources for Systems and Computational Neuroscience**](https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/)<br>
