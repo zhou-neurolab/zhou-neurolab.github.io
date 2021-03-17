@@ -13,7 +13,7 @@ permalink: /resources/
 
 <h4 style="color:gray">Programming</h4>
 
-* The [**aRrgh**](http://arrgh.tim-smith.us/): a newcomer’s (angry) guide to R.
+* [**aRrgh**](http://arrgh.tim-smith.us/): a newcomer’s (angry) guide to R.
 
 <h4 style="color:gray">Figures</h4>
 
@@ -22,4 +22,4 @@ permalink: /resources/
 
 <h4 style="color:gray">Online Seminars</h4>
 
-* The [**World Wide Neuro**](https://www.world-wide.org/Neuro/): a new initiative to bring seminars and talks online.
+* [**World Wide Neuro**](https://www.world-wide.org/Neuro/): a new initiative to bring seminars and talks online.
