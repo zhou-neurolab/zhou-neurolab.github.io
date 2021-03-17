@@ -9,5 +9,5 @@ Note: Jingfeng Zhou, Ph.D. is currently a postdoc at the National Institute on D
 </p>
 
 <p align="center">
-  <img height="200" src="/assets/brain-maze.svg">
+  <img height="500" src="/assets/brain-maze.svg">
 </p>
