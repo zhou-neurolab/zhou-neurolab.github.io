@@ -12,5 +12,5 @@ permalink: /resources/
 * [**SciDraw**](https://scidraw.io/) provides a free repository of high quality drawings that might be useful for scientific presentations and posters.<br>
 
 <h4 style="color:gray">Programming Languages</h4> 
-* [**aRrgh**](http://arrgh.tim-smith.us/): a newcomer’s (angry) guide to R.
+* The [**aRrgh**](http://arrgh.tim-smith.us/): a newcomer’s (angry) guide to R.
 
