@@ -4,28 +4,7 @@ title: Fun Stuff
 permalink: /fun/
 ---
 
-Some fun stuff, such as PHD comics...
 
 ## Academic Events
 
-<p align="left">
-  <img height="200" src="/assets/rat3.png">
-</p>
-
-## The Thesis Repulsor Field
-
-<p align="left">
-  <img height="200" src="/assets/rat3.png">
-</p>
-
-## ANOVA for Beginners
-
-<p align="left">
-  <img height="200" src="/assets/rat3.png">
-</p>
-
-## Procrastination Explained
-
-<p align="left">
-  <img height="200" src="/assets/rat3.png">
-</p>
+* [What to call your academic event](http://phdcomics.com/comics/archive.php?comicid=1704)
