@@ -22,4 +22,5 @@ permalink: /resources/
 
 <h4 style="color:gray">Online Seminars</h4>
 
-* [**World Wide Neuro**](https://www.world-wide.org/Neuro/): a new initiative to bring seminars and talks online.
+* [**World Wide Neuro**](https://www.world-wide.org/Neuro/): a new initiative to bring seminars and talks online.<br>
+* [**Cosyne Talks**](https://www.youtube.com/channel/UCzOTbZTHTubFNjANAR33AAg) on Youtube.
