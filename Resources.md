@@ -6,7 +6,7 @@ permalink: /resources/
 
 ## Useful Links
 
-<h2><b>Drawing Tools</b></h2> 
+<h3><b>Drawing Tools</b></h3> 
 
 Google [**AutoDraw**](https://www.autodraw.com/) turns your rough scribbles into beautiful icons for free.
 
