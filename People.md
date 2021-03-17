@@ -7,7 +7,7 @@ permalink: /people/
 
 <img align="left" height="190" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/assets/jingfeng_head_shot.jpg" />
 
-**Jingfeng Zhou, Ph.D.**
+**Jingfeng Zhou (周景峰), Ph.D.**
 
 Assistant Investigator<br>Chinese Institute for Brain Research, Beijing
 
