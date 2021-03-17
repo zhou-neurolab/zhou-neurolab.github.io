@@ -7,7 +7,7 @@ layout: page
 </p>
 
 <p align="center">
-  <img height="350" src="/assets/lego-blocks.jpg">
+  <img height="350" src="/assets/lego_blocks.jpg">
 </p>
 
 Welcome to the Zhou Lab of Behavioral and Systems Neuroscience at the Chinese Institute for Brain Research (CIBR), Beijing. We study neural circuit mechanisms of animal behavior and cognition. On this website, you can get to know [who we are](People.md) and [what we do](Research.md), check out the [publications](Publications.md) and [news](News.md) for the latest updates, or explore useful [resources](Resources.md), [fun stuff](Fun.md), and possible [positions](Join.md) in the lab.
