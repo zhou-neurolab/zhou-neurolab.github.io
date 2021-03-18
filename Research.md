@@ -33,4 +33,3 @@ To answer these questions, we use an integrative approach derived from behaviora
 * State-of-the-art multivariate analyses including machine learning to read specific information from both single-unit and neural-ensemble activities.
 * Neural perturbation methods such as optogenetics and chemogenetics for causal inference.
 * Computational modeling.
-
