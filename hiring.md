@@ -1,6 +1,7 @@
 ---
 title: 招聘实验室管理员、技术员和博士后
 layout: page
+permalink: /hiring/
 ---
 
 ## 课题组简介
