@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 \*Co-first authors<br>#Co-corresponding authors
 
-## 2013 — 2021
+## 2013—2021
 
 -	Zhou, J#., Gardner, M. P., & Schoenbaum, G#. (2021). Is the core function of orbitofrontal cortex to signal values or make predictions? **Current Opinion in Behavioral Sciences** 41, 1-9
 
