@@ -30,7 +30,7 @@ To answer these questions, we use an integrative approach from behavioral, syste
 
 * Carefully-designed complex behavioral tasks to isolate the task or cognitive variables of interest, independent of sensory and motor confounds.
 * Large-scale *in vivo* electrophysiological recording and calcium imaging.
-* State-of-the-art multivariate analyses including machine learning to read specific information from neural ensemble activities.
+* State-of-the-art multivariate analyses including machine learning to read specific information from both single-unit and neural-ensemble activities.
 * Neural perturbation methods such as optogenetics and chemogenetics for causal inference.
 * Computational modeling.
 
