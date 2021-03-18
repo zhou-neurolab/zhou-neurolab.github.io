@@ -26,7 +26,7 @@ The neural mechanisms of cognitive maps and schemas (i.e., generalized cognitive
 
 ## Methodology
 
-To answer these questions, we use an integrative approach derived from behavioral, systems, and computational neuroscience. 
+To answer these questions, we use an integrative approach derived from behavioral, cognitive, systems, and computational neurosciences. 
 
 * Carefully-designed complex behavioral tasks to isolate the task or cognitive variables of interest, independent of sensory and motor confounds.
 * Large-scale *in vivo* electrophysiological recording and calcium imaging.
