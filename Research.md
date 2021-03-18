@@ -20,7 +20,7 @@ Another important feature we can imagine about the cognitive map is that it must
 
 The neural mechanisms of cognitive maps and schemas (i.e., generalized cognitive maps) are still largely unknown, although many interesting hypotheses have been proposed, such as the mental models in the hippocampus are more episodic while those in the prefrontal cortex are more schematic. In testing these and other new ideas, there would be so much exciting work to be done! Moving forward, the lab will focus on the following questions.
 
-* How are different types of mental models (from episodic to schematic) learned and organized in the brain?
+* How are different types of mental models — from episodic to schematic — learned and organized in the brain?
 * How do prior experience and knowledge guide new learning and behavior through neural representations of these models?
 * How are these neural representations and their behavioral functions altered in neuropsychiatric disease conditions, such as addiction, depression, and schizophrenia?
 
