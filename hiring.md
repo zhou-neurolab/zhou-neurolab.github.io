@@ -21,7 +21,7 @@ permalink: /hiring/
 
 周景峰（北京脑中心研究员，博士生导师），2016年于北京大学和北京生命科学研究所获得博士学位，之后在美国国立卫生研究院药物滥用研究所从事博士后研究至2021年。研究成果以第一（或共同第一）作者以及共同通讯作者身份发表在*Nature*, *Neuron*, *Curr Biol*, *J Neurosci*等期刊。
 
-详细信息请查看实验室网站：[https://zhoulab.cibr.ac.cn](https://zhoulab.cibr.ac.cn)
+详细信息请查看实验室网站：[https://zhoulab.cibr.ac.cn](https://zhoulab.cibr.ac.cn) 。
 
 ## 实验室管理员
 
