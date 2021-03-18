@@ -23,3 +23,12 @@ The neural mechanisms of cognitive maps and schemas (i.e., generalized cognitive
 * How are different types of mental models learned and represented in the brain?
 * How do prior experience and knowledge guide new learning and behavior through these models?
 * How are these neural processes and behavioral functions altered in neuropsychiatric disease conditions, such as addiction, depression, and schizophrenia?
+
+## Methodology
+
+* Carefully-designed complex behavioral tasks to isolate the task or cognitive variables of interest, independent of sensory and motor confounds.
+* Large-scale *in vivo* electrophysiological recording and calcium imaging.
+* State-of-the-art multivariate analyses including machine learning to read specific information from neural ensemble activities.
+* Neural perturbation methods such as optogenetics and chemogenetics for causal inference.
+* Computational modeling.
+
