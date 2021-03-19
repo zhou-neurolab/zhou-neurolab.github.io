@@ -1,6 +1,6 @@
 ---
 title: Jingfeng Zhou
-layout: Page
+layout: page
 ---
 
 ## Education
