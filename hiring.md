@@ -1,5 +1,5 @@
 ---
-title: 周景峰实验室招聘管理员、技术员和博士后
+title: 周景峰实验室招聘管理员、技术员和博后
 layout: page
 permalink: /hiring/
 ---
