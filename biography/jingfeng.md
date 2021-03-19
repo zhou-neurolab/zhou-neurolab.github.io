@@ -8,7 +8,7 @@ permalink: /biography/jingfeng/
 
 <table style="width:100%" border="0">
      
-	<col style="width:20%">
+	<col style="width:15%">
 	<col style="width:100%">    
      
      <tr>
