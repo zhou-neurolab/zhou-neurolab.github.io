@@ -6,8 +6,17 @@ permalink: /biography/jingfeng/
 
 ## Education
 
-2011–2016  Ph.D., Biochemistry and Molecular Biology, Peking University (PKU) & National Institute of Biological Sciences (NIBS), Beijing, China<br>
-2006–2010  B.S., Biology, Nankai University (NKU), Tianjin, China
+<table>
+     <tr>
+          <td>2011–2016</td>
+          <td>2006–2010</td>
+     </tr>
+     
+     <tr>
+          <td>Ph.D., Biochemistry and Molecular Biology, Peking University (PKU) & National Institute of Biological Sciences (NIBS), Beijing, China</td>
+          <td>B.S., Biology, Nankai University (NKU), Tianjin, China</td>
+      </tr>
+</table>
 
 ## Positions
 
