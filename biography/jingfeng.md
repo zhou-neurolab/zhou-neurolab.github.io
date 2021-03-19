@@ -1,6 +1,7 @@
 ---
 title: Jingfeng Zhou
 layout: page
+permalink: /biography/jingfeng/
 ---
 
 ## Education
