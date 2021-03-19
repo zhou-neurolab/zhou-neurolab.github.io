@@ -4,6 +4,10 @@ layout: page
 permalink: /biography/jingfeng/
 ---
 
+table, th, td {
+  border: 0px;
+}
+
 ## Education
 
 <table>
