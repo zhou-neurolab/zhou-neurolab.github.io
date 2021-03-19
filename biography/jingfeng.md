@@ -62,7 +62,7 @@ permalink: /biography/jingfeng/
 
 <table style="width:100%" border="0">
 	
-	<col style="width:20%">
+	<col style="width:15%">
 	<col style="width:100%">
 
 	<tr>
@@ -76,7 +76,7 @@ permalink: /biography/jingfeng/
 
 <table style="width:100%" border="0">
 	
-	<col style="width:10%">
+	<col style="width:9%">
 	<col style="width:100%">
 
 	<tr>
@@ -172,7 +172,7 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 
 <table style="width:100%" border="0">
 	
-	<col style="width:10%">
+	<col style="width:9%">
 	<col style="width:100%">
 
 	<tr>
