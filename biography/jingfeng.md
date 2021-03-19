@@ -228,7 +228,7 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 
 	<tr>
 		<td>2018</td>
-		<td>NIDA IRP Cellular Neurobiology Research Branch Meeting<</td>
+		<td>NIDA IRP Cellular Neurobiology Research Branch Meeting</td>
 	</tr>
 	
 	<tr>
