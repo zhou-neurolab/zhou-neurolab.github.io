@@ -4,22 +4,18 @@ layout: page
 permalink: /biography/jingfeng/
 ---
 
-table, th, td {
-  border: 0px;
-}
-
 ## Education
 
-<table>
+<table style="width:100%" border="0px">
      
      <tr>
           <td>2006–2010</td>
-          <td>B.S., Biology, Nankai University (NKU), Tianjin, China</td>
+          <td colspan="5">B.S., Biology, Nankai University (NKU), Tianjin, China</td>
      </tr>
      
      <tr>
           <td>2011–2016</td>
-          <td>Ph.D., Biochemistry and Molecular Biology, Peking University (PKU) & National Institute of Biological Sciences (NIBS), Beijing, China</td>
+          <td colspan="5">Ph.D., Biochemistry and Molecular Biology, Peking University (PKU) & National Institute of Biological Sciences (NIBS), Beijing, China</td>
      </tr>
      
 </table>
