@@ -74,43 +74,186 @@ permalink: /biography/jingfeng/
 
 ## Honors and Awards
 
-2015  The First Prize of Heng-Yuan-Xiang Award<br>
-2015  China National Scholarship<br>
-2014  Academic Innovation Award, PKU<br>
-2014  Special Award for Excellent Outstanding Students, College of Life Sciences, PKU<br>
-2014  Excellent Students Award for the PTN program, NIBS, Beijing<br>
-2014  Excellent Students Award, NIBS, Beijing<br>
-2013  Merit Student, PKU<br>
-2013  China National Scholarship<br>
-2013  Excellent Students Award, NIBS, Beijing<br>
-2013  Proteintech Academic Award, College of Life Sciences, PKU
+<table style="width:100%" border="0">
+	
+	<col style="width:10%">
+	<col style="width:100%">
 
+	<tr>
+		<td>2015</td>
+		<td>The First Prize of Heng-Yuan-Xiang Award</td>
+	</tr>
+	
+	<tr>
+		<td>2015</td>
+		<td>China National Scholarship</td>
+	</tr>
+
+	<tr>
+		<td>2014</td>
+		<td>Academic Innovation Award, PKU</td>
+	</tr>
+	
+	<tr>
+		<td>2014</td>
+		<td>Special Award for Excellent Outstanding Students, College of Life Sciences, PKU</td>
+	</tr>
+	
+	<tr>
+		<td>2014</td>
+		<td>Excellent Students Award for the PTN program, NIBS, Beijing</td>
+	</tr>
+	
+	<tr>
+		<td>2014</td>
+		<td>Excellent Students Award, NIBS, Beijing</td>
+	</tr>
+	
+	<tr>
+		<td>2013</td>
+		<td>Merit Student, PKU</td>
+	</tr>
+	
+	<tr>
+		<td>2013</td>
+		<td>China National Scholarship</td>
+	</tr>
+	
+	<tr>
+		<td>2013</td>
+		<td>Excellent Students Award, NIBS, Beijing</td>
+	</tr>
+	
+	<tr>
+		<td>2013</td>
+		<td>Proteintech Academic Award, College of Life Sciences, PKU</td>
+	</tr>	
+	
+</table>
+  
 ## Ad-Hoc Reviewer or Co-Reviewer
 
 Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife, Journal of Neuroscience, Behavioral Neuroscience, Learning and Memory, PLOS One, Current Opinion in Behavioral Sciences, eNeuro
 
 ## Teaching and Mentorship
-2019-2021  Mentoring postdoctoral fellow Wenhui Zong at NIDA-IRP.<br>
-     2019  Teaching “In Vivo Electrophysiology” at NIDA-IRP.<br>
-     2018  Mentoring postbaccalaureate Marlian Montesinos at NIDA-IRP.<br>
-2015–2016  Teaching Practice (160 hours) at NIBS.<br>
-     2013  Teaching “Birdsong Learning and Underlying Neural Mechanism” as a part of the course “Neural Circuits” at Tsinghua University.
+
+<table style="width:100%" border="0">
+	
+	<col style="width:15%">
+	<col style="width:100%">
+
+	<tr>
+		<td>2019-2021</td>
+		<td>Mentoring postdoctoral fellow Wenhui Zong at NIDA-IRP</td>
+	</tr>
+	
+	<tr>
+		<td>2019</td>
+		<td>Teaching “In Vivo Electrophysiology” at NIDA-IRP</td>
+	</tr>
+
+	<tr>
+		<td>2018</td>
+		<td>Mentoring postbaccalaureate Marlian Montesinos at NIDA-IRP</td>
+	</tr>
+	
+	<tr>
+		<td>2015–2016</td>
+		<td>Teaching Practice (160 hours) at NIBS</td>
+	</tr>
+	
+	<tr>
+		<td>2013</td>
+		<td>Teaching “Birdsong Learning and Underlying Neural Mechanism” as a part of the course “Neural Circuits” at Tsinghua University.</td>
+	</tr>
+</table>
 
 ## Invited Talks and Poster Presentations
 
-2021  MIT Department of Brain and Cognitive Sciences<br>
-2020  Department of Neuroscience, University of Pittsburgh<br>
-2019  Society for Neuroscience, nanosymposium<br>
-2019 NIDA Research Fellow Research Meeting<br>
-2019  Winter Conference on Brain Research (poster)<br>
-2018  Society for Neuroscience, nanosymposium<br>
-2018  Chesapeake Area Memory and Learning (CAMAL) Meeting<br>
-2018  NIDA Research Fellow Research Meeting<br>
-2018  Computational and Systems Neuroscience (Cosyne) workshop<br>
-2018  Johns Hopkins Department of Neuroscience Lab Lunch<br>
-2018  NIDA IRP Cellular Neurobiology Research Branch Meeting<br>
-2017  Society for Neuroscience, nanosymposium<br>
-2017  Pavlovian Society Annual Meeting (poster)<br>
-2015  Society for Neuroscience (poster)<br>
-2014  Cold Spring Harbor Asia Conference (poster)<br>
-2013  Chinese Society for Neuroscience (poster)
+<table style="width:100%" border="0">
+	
+	<col style="width:10%">
+	<col style="width:100%">
+
+	<tr>
+		<td>2021</td>
+		<td>MIT Department of Brain and Cognitive Sciences</td>
+	</tr>
+	
+	<tr>
+		<td>2020</td>
+		<td>Department of Neuroscience, University of Pittsburgh</td>
+	</tr>
+
+	<tr>
+		<td>2019</td>
+		<td>Society for Neuroscience, nanosymposium</td>
+	</tr>
+	
+	<tr>
+		<td>2019</td>
+		<td>NIDA Research Fellow Research Meeting</td>
+	</tr>
+	
+	<tr>
+		<td>2019</td>
+		<td>Winter Conference on Brain Research (poster)</td>
+	</tr>
+	
+	<tr>
+		<td>2018</td>
+		<td>Society for Neuroscience, nanosymposium</td>
+	</tr>
+	
+	<tr>
+		<td>2018</td>
+		<td>Chesapeake Area Memory and Learning (CAMAL) Meeting</td>
+	</tr>
+	
+	<tr>
+		<td>2018</td>
+		<td>NIDA Research Fellow Research Meeting</td>
+	</tr>
+	
+	<tr>
+		<td>2018</td>
+		<td>Computational and Systems Neuroscience (Cosyne) workshop</td>
+	</tr>
+	
+	<tr>
+		<td>2018</td>
+		<td>Johns Hopkins Department of Neuroscience Lab Lunch</td>
+	</tr>	
+	
+
+	<tr>
+		<td>2018</td>
+		<td>NIDA IRP Cellular Neurobiology Research Branch Meeting<</td>
+	</tr>
+	
+	<tr>
+		<td>2017</td>
+		<td>Society for Neuroscience, nanosymposium</td>
+	</tr>
+
+	<tr>
+		<td>2017</td>
+		<td>Pavlovian Society Annual Meeting (poster)</td>
+	</tr>
+	
+	<tr>
+		<td>2015</td>
+		<td>Society for Neuroscience (poster)</td>
+	</tr>
+	
+	<tr>
+		<td>2014</td>
+		<td>Cold Spring Harbor Asia Conference (poster)</td>
+	</tr>
+	
+	<tr>
+		<td>2013</td>
+		<td>Chinese Society for Neuroscience (poster)</td>
+	</tr>
+	
+</table>
