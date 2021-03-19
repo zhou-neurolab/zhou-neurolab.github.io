@@ -13,7 +13,7 @@ Assistant Investigator<br>Chinese Institute for Brain Research, Beijing
 
 Phone: +86-010-1234567<br>Email: jingfeng.zhou@cibr.ac.cn
 
-[[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1-AMNoyoc62Qs/bibliography/public/?sortby=pubDate&sdirection=descending)] [[Google Scholar](https://scholar.google.com/citations?user=ZQD-fmcAAAAJ)] [[Faculty Page](https://www.researchgate.net/profile/Jingfeng-Zhou)] [[Biography](https://www.researchgate.net/profile/Jingfeng-Zhou)]
+[[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1-AMNoyoc62Qs/bibliography/public/?sortby=pubDate&sdirection=descending)] [[Google Scholar](https://scholar.google.com/citations?user=ZQD-fmcAAAAJ)] [[Faculty Page](https://irp.drugabuse.gov/staff-members/jingfeng-zhou-ph-d/)] [[Biography](https://www.researchgate.net/profile/Jingfeng-Zhou)]
 
 <br clear="left" />
 
