@@ -8,8 +8,8 @@ permalink: /biography/jingfeng/
 
 <table style="width:100%" border="0">
      
-	<col style="width:15%">
-	<col style="width:100%">    
+	<col style="width:15%; background-color:none">
+	<col style="width:100%; background-color:none">    
      
      <tr>
           <td>2006–2010</td>
