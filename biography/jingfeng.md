@@ -29,7 +29,12 @@ permalink: /biography/jingfeng/
 <table style="width:100%" border="0">
 	
 	<col style="width:20%">
-	<col style="width:100%">    
+	<col style="width:100%">
+	
+	<tr>
+		<td>2021–present</td>
+		<td>Postdoctoral Fellow, National Institute on Drug Abuse Intramural Research Program (NIDA-IRP), Baltimore, MD, Geoffrey Schoenbaum Lab</td>
+	</tr>	
 
 	<tr>
 		<td>2016–2021</td>
@@ -55,7 +60,17 @@ permalink: /biography/jingfeng/
 
 ## Grants
 
-2020–2021 K99/R00 (DA049888), “Cognitive map representations by orbitofrontal cortex and hippocampus”.
+<table style="width:100%" border="0">
+	
+	<col style="width:20%">
+	<col style="width:100%">
+
+	<tr>
+		<td>2020–2021</td>
+		<td>K99/R00 (DA049888), “Cognitive map representations by orbitofrontal cortex and hippocampus”.</td>
+	</tr>
+
+</table>
 
 ## Honors and Awards
 
