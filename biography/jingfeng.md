@@ -26,10 +26,32 @@ permalink: /biography/jingfeng/
 
 ## Positions
 
-2016–2021  Postdoctoral Fellow, National Institute on Drug Abuse Intramural Research Program (NIDA-IRP), Baltimore, MD, Geoffrey Schoenbaum Lab<br>
-2011–2016  Ph.D. Student, PKU & NIBS, Beijing, China, Minmin Luo lab<br>
-2010–2011  Technician, NIBS, Beijing, China, Minmin Luo lab<br>
-2008–2010  Undergraduate Researcher, NKU, Tianjin, China, Bai Gang Lab & Qingqiu Gong Lab
+<table style="width:100%" border="0">
+	
+	<col style="width:20%">
+	<col style="width:100%">    
+
+	<tr>
+		<td>2016–2021</td>
+		<td>Postdoctoral Fellow, National Institute on Drug Abuse Intramural Research Program (NIDA-IRP), Baltimore, MD, Geoffrey Schoenbaum Lab</td>
+	</tr>
+	
+	<tr>	
+		<td>2011–2016</td>
+		<td>Ph.D. Student, PKU & NIBS, Beijing, China, Minmin Luo lab</td>
+	</tr>
+	
+	<tr>
+		<td>2010–2011</td>
+		<td>Technician, NIBS, Beijing, China, Minmin Luo lab</td>
+	</tr>
+	
+	<tr>
+		<td>2008–2010</td>
+		<td>Undergraduate Researcher, NKU, Tianjin, China, Bai Gang Lab & Qingqiu Gong Lab</td>
+	</tr>
+
+</table>
 
 ## Grants
 
