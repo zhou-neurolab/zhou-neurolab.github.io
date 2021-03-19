@@ -6,14 +6,14 @@ permalink: /biography/jingfeng/
 
 ## Education
 
-<table style="width:100%" border="0px">
+<table style="width:100%" border="0">
+     
+	<col style="width:30%">
+	<col style="width:100%">    
      
      <tr>
           <td>2006–2010</td>
           <td colspan="5">B.S., Biology, Nankai University (NKU), Tianjin, China</td>
-          <td></td>
-          <td></td>
-          <td></td>
      </tr>
      
      <tr>
