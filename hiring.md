@@ -65,4 +65,4 @@ permalink: /hiring/
 
 ## 应聘方式
 
-请应聘者将求职信和简历发送电子邮件给周景峰（[jingfeng.zhou@cibr.ac.cn](jingfeng.zhou@cibr.ac.cn)）。另外，博士后申请人需要提供至少两位推荐人（包括博士生导师）的姓名、单位和联系方式。邮件主题请标明应聘岗位和姓名。
+请应聘者将求职信和简历发送电子邮件给周景峰（[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)）。另外，博士后申请人需要提供至少两位推荐人（包括博士生导师）的姓名、单位和联系方式。邮件主题请标明应聘岗位和姓名。
