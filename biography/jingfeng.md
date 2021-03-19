@@ -8,8 +8,8 @@ permalink: /biography/jingfeng/
 
 <table style="width:100%" border="0">
      
-	<col style="width:15%; background-color:none">
-	<col style="width:100%; background-color:none">    
+	<col style="width:15%">
+	<col style="width:100%">    
      
      <tr>
           <td>2006–2010</td>
@@ -32,8 +32,8 @@ permalink: /biography/jingfeng/
 	<col style="width:100%">
 	
 	<tr>
-		<td>2021–present</td>
-		<td>Postdoctoral Fellow, National Institute on Drug Abuse Intramural Research Program (NIDA-IRP), Baltimore, MD, Geoffrey Schoenbaum Lab</td>
+		<td>2021</td>
+		<td>Assistant Investigator, Chinese Institute for Brain Research (CIBR), Beijing</td>
 	</tr>	
 
 	<tr>
