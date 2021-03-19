@@ -19,7 +19,7 @@ permalink: /publications/
 
 -	Zhou, J#., Montesinos-Cartagena, M., Wikenheiser, A., Gardner, M., Niv, Y., & Schoenbaum, G#. (2019). Complementary task structure representations in hippocampus and orbitofrontal cortex during an odor sequence task. **Current Biology**, 29(20), 3402-3409. [LINK](https://www.sciencedirect.com/science/article/pii/S0960982219310905)
 
--	Zhou, J#., Gardner, M., Stalnaker, T., Ramus, S., Wikenheiser, A., Niv, Y., & Schoenbaum, G#. (2019). Rat orbitofrontal ensemble activity contains multiplexed but dissociable representations of value and task structure in an odor sequence task. **Current Biology**, 29(6), 897-907. (*F1000 recommended*) [LINK] (https://www.sciencedirect.com/science/article/pii/S0960982219300776)
+-	Zhou, J#., Gardner, M., Stalnaker, T., Ramus, S., Wikenheiser, A., Niv, Y., & Schoenbaum, G#. (2019). Rat orbitofrontal ensemble activity contains multiplexed but dissociable representations of value and task structure in an odor sequence task. **Current Biology**, 29(6), 897-907. (*F1000 recommended*) [LINK](https://www.sciencedirect.com/science/article/pii/S0960982219300776)
 
 -	Wang, D., Li, Y., Feng, Q., Guo, Q., Zhou, J., & Luo, M. (2017). Learning shapes the aversion and reward responses of lateral habenula neurons. **eLife**, 6, e23045.
 
