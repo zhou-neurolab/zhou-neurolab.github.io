@@ -13,7 +13,7 @@ permalink: /publications/
 
 -	Zhou, J#., Jia, C., Montesinos-Cartagena, M., Gardner, M.P.H., Zong, W., Schoenbaum, G#. (2020). Evolving schema representations in orbitofrontal ensembles during learning. **Nature**. (2020). [[LINK](https://doi.org/10.1038/s41586-020-03061-2)]
 
--	Gardner, M#., Sanchez, D., Conroy, J.S., Wikenheiser, A., Zhou, J., Schoenbaum, G#. (2020). Orbitofrontal processing is required for estimating subjective preference during initial but not established economic choice. **Neuron**, 108, 1-12. [[LINK](https://www.sciencedirect.com/science/article/abs/pii/S0896627320306413)]
+-	Gardner, M#., Sanchez, D., Conroy, J.S., Wikenheiser, A., Zhou, J., Schoenbaum, G#. (2020). Processing in lateral orbitofrontal cortex is required to estimate subjective preference during initial, but not established, economic choice. **Neuron**, 108, 1-12. [[LINK](https://www.sciencedirect.com/science/article/abs/pii/S0896627320306413)]
 
 -	Gardner, M#, Conroy, J., Sanchez, D., Zhou, J., Schoenbaum, G#. (2019). Real-time value integration during economic choice is regulated by orbitofrontal cortex. **Current Biology**, 29(24), 4315-4322. [[LINK](https://www.sciencedirect.com/science/article/pii/S0960982219314307)]
 
