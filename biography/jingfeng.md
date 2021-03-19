@@ -6,7 +6,7 @@ permalink: /biography/jingfeng/
 
 ## Education
 
-<table style="width:100%" border="0" background-color="none">
+<table style="width:100%" border="0" background-color="red">
      
 	<col style="width:15%">
 	<col style="width:100%">    
