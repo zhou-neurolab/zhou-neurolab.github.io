@@ -36,9 +36,12 @@ To answer these questions, we use an integrative approach derived from behaviora
 
 ## Units recorded from OFC of behaving rats
 
-<img align="left" height="120" style="margin-right:15px; margin-bottom:20px" src="/assets/huge-unit-1.gif" />
-<img align="left" height="120" style="margin-right:15px; margin-bottom:20px" src="/assets/huge-unit-2.gif" />
-<img align="left" height="120" style="margin-right:15px; margin-bottom:20px" src="/assets/huge-unit-3.gif" />
-<img align="left" height="120" style="margin-right:15px; margin-bottom:20px" src="/assets/huge-unit-4.gif" />
-<img align="left" height="120" style="margin-right:15px; margin-bottom:20px" src="/assets/huge-unit-5.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-1.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-2.gif" />
+
+<br>
+
+<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-5.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-3.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-4.gif" />
 
