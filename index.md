@@ -2,11 +2,6 @@
 layout: page
 ---
 
-div {
-    display:flex;
-    align-items:center;
-}
-
 
   <p align="center">
   <img width="800" src="/assets/lego_blocks_strip.jpg">
@@ -19,9 +14,3 @@ Welcome to the Zhou Lab of Behavioral and Systems Neuroscience at the Chinese In
 [周景峰实验室招聘实验室管理员、技术员和博士后](hiring.md)
 
 <br clear="left" />
-
-<div>
-    <img align="left" width="50" style="margin-right:20px" src="/assets/hiring_icon.png" />
-    <span>Lorem ipsum dolor sit amet</span>
-
-</div>
