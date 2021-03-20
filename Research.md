@@ -36,13 +36,13 @@ To answer these questions, we use an integrative approach derived from behaviora
 
 ## Units recorded from OFC of behaving rats
 
-<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-1.gif" />
-<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-2.gif" />
-<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-3.gif" />
-<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-4.gif" />
-<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-5.gif" />
-<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-b1.gif" />
-<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-b2.gif" />
-<img align="left" height="120" style="margin-right:10px; margin-bottom:20px" src="/assets/huge-unit-b3.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-1.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-2.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-3.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-4.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-5.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-b1.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-b2.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-b3.gif" />
 
 
