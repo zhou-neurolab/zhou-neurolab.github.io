@@ -22,6 +22,6 @@ Welcome to the Zhou Lab of Behavioral and Systems Neuroscience at the Chinese In
 
 <div>
     <img align="left" width="50" style="margin-right:20px" src="/assets/hiring_icon.png" />
-    <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non libero id augue vestibulum tempus. Maecenas ornare tincidunt porta.</span>
+    <span>Lorem ipsum dolor sit amet</span>
 
 </div>
