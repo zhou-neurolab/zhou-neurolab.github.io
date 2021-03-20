@@ -34,6 +34,12 @@ To answer these questions, we use an integrative approach derived from behaviora
 * Neural perturbation methods such as optogenetics and chemogenetics for causal inference.
 * Computational modeling.
 
+
+<img align="left" height="150" style="margin-right:25px" src="/assets/huge-unit-1.gif" />
+<img align="left" height="150" style="margin-right:25px" src="/assets/huge-unit-2.gif" />
+<img align="left" height="150" style="margin-right:25px" src="/assets/huge-unit-3.gif" />
+
+
 <div class="row">
   <div class="column">
     <img src="/assets/huge-unit-1.gif" style="height:100%">
