@@ -34,11 +34,11 @@ To answer these questions, we use an integrative approach derived from behaviora
 * Neural perturbation methods such as optogenetics and chemogenetics for causal inference.
 * Computational modeling.
 
-## Spikes recorded from the OFC of behaving rats
+## Units recorded from OFC of behaving rats
 
-<img align="left" height="150" style="margin-right:20px; margin-bottom:20px" src="/assets/huge-unit-1.gif" />
-<img align="left" height="150" style="margin-right:20px; margin-bottom:20px" src="/assets/huge-unit-2.gif" />
-<img align="left" height="150" style="margin-right:20px; margin-bottom:20px" src="/assets/huge-unit-3.gif" />
-<img align="left" height="150" style="margin-right:20px; margin-bottom:20px" src="/assets/huge-unit-4.gif" />
-<img align="left" height="150" style="margin-right:20px; margin-bottom:20px" src="/assets/huge-unit-5.gif" />
+<img align="left" height="120" style="margin-right:15px; margin-bottom:20px" src="/assets/huge-unit-1.gif" />
+<img align="left" height="120" style="margin-right:15px; margin-bottom:20px" src="/assets/huge-unit-2.gif" />
+<img align="left" height="120" style="margin-right:15px; margin-bottom:20px" src="/assets/huge-unit-3.gif" />
+<img align="left" height="120" style="margin-right:15px; margin-bottom:20px" src="/assets/huge-unit-4.gif" />
+<img align="left" height="120" style="margin-right:15px; margin-bottom:20px" src="/assets/huge-unit-5.gif" />
 
