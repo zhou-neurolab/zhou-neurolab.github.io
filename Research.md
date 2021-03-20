@@ -39,10 +39,10 @@ To answer these questions, we use an integrative approach derived from behaviora
     <img src="assets/huge-unit-1.gif" style="height:100%">
   </div>
   <div class="column">
-    <img src="assets/huge-unit-2" style="height:100%">
+    <img src="assets/huge-unit-2.gif" style="height:100%">
   </div>
   <div class="column">
-    <img src="assets/huge-unit-3" style="height:100%">
+    <img src="assets/huge-unit-3.gif" style="height:100%">
   </div>
 </div>
 
