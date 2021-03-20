@@ -34,7 +34,7 @@ To answer these questions, we use an integrative approach derived from behaviora
 * Neural perturbation methods such as optogenetics and chemogenetics for causal inference.
 * Computational modeling.
 
-**Single Units**
+## Spikes recorded from the OFC of behaving rats**
 
 <img align="left" height="60%" style="margin-right:20px" src="/assets/huge-unit-1.gif" />
 <img align="left" height="60%" style="margin-right:20px" src="/assets/huge-unit-2.gif" />
