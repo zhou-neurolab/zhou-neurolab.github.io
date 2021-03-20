@@ -36,7 +36,7 @@ To answer these questions, we use an integrative approach derived from behaviora
 
 **Single Units**
 
-<img align="left" height="200" style="margin-right:25px" src="/assets/huge-unit-1.gif" />
-<img align="left" height="200" style="margin-right:25px" src="/assets/huge-unit-2.gif" />
-<img align="left" height="200" style="margin-right:25px" src="/assets/huge-unit-3.gif" />
+<img align="left" height="60%" style="margin-right:20px" src="/assets/huge-unit-1.gif" />
+<img align="left" height="60%" style="margin-right:20px" src="/assets/huge-unit-2.gif" />
+<img align="left" height="60%" style="margin-right:20px" src="/assets/huge-unit-3.gif" />
 
