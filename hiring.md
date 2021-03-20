@@ -1,5 +1,5 @@
 ---
-title: 周景峰实验室招聘实验室管理员、技术员和博士后
+title: 北京脑中心周景峰实验室招聘实验室管理员、技术员和博士后
 layout: page
 permalink: /hiring/
 ---
