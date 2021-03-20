@@ -35,7 +35,8 @@ To answer these questions, we use an integrative approach derived from behaviora
 * Computational modeling.
 
 **Single Units**
-<img align="left" height="150" style="margin-right:25px" src="/assets/huge-unit-1.gif" />
-<img align="left" height="150" style="margin-right:25px" src="/assets/huge-unit-2.gif" />
-<img align="left" height="150" style="margin-right:25px" src="/assets/huge-unit-3.gif" />
+
+<img align="left" height="200" style="margin-right:25px" src="/assets/huge-unit-1.gif" />
+<img align="left" height="200" style="margin-right:25px" src="/assets/huge-unit-2.gif" />
+<img align="left" height="200" style="margin-right:25px" src="/assets/huge-unit-3.gif" />
 
