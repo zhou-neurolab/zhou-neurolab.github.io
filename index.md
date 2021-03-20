@@ -2,6 +2,12 @@
 layout: page
 ---
 
+div {
+    display:flex;
+    align-items:center;
+}
+
+
   <p align="center">
   <img width="800" src="/assets/lego_blocks_strip.jpg">
   </p>
@@ -15,6 +21,7 @@ Welcome to the Zhou Lab of Behavioral and Systems Neuroscience at the Chinese In
 <br clear="left" />
 
 <div>
-  <img align="left" width="50" style="vertical-align:middle; margin-right:25px" src="/assets/hiring_icon.png">
-  <span style="">works</span>
+    <img align="left" width="50" style="margin-right:20px" src="/assets/hiring_icon.png" />
+    <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non libero id augue vestibulum tempus. Maecenas ornare tincidunt porta.</span>
+
 </div>
