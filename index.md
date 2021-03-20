@@ -14,3 +14,13 @@ Welcome to the Zhou Lab of Behavioral and Systems Neuroscience at the Chinese In
 [周景峰实验室招聘实验室管理员、技术员和博士后](hiring.md)
 
 <br clear="left" />
+
+
+<div class="container">
+  <div class="image">
+    <img align="left" width="50" style="margin-right:20px" src="/assets/hiring_icon.png" />
+  </div>
+  <div class="text">
+    <h1>Paris is one of the most beautiful cities in France.</h1>
+  </div>
+</div>
