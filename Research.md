@@ -34,7 +34,7 @@ To answer these questions, we use an integrative approach derived from behaviora
 * Neural perturbation methods such as optogenetics and chemogenetics for causal inference.
 * Computational modeling.
 
-## Beautiful Units on the Oscilloscope
+## Beautiful units on the oscilloscope
 
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-1.gif" />
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-2.gif" />
