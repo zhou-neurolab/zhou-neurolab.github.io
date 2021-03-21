@@ -19,7 +19,7 @@ permalink: /hiring/
 * 过去经历和知识对新的学习和行为的影响；
 * 这些神经机制和功能在精神疾病状态下的改变。
 
-周景峰（北京脑中心研究员，博士生导师），2016年毕业于北京大学和北京生命科学研究所，并获得博士学位，之后在美国国立卫生研究院药物滥用研究所从事博士后研究至2021年。研究成果以第一（或共同第一）作者以及共同通讯作者身份发表在*Nature*, *Neuron*, *Curr Biol*, *J Neurosci*, *Behav Neurosci*, *Biomed Opt Express*, *Curr Opin Behav Sci*等期刊。周景峰博士即将加入北京脑中心，现开始组建团队，期待您的加入。
+周景峰（北京脑中心研究员，博士生导师），2016年毕业于北京大学和北京生命科学研究所，并获得博士学位，之后在美国国立卫生研究院药物滥用研究所从事博士后研究至2021年。研究成果以第一作者/通讯作者（含共同）身份发表在*Nature*, *Neuron*, *Curr Biol*, *J Neurosci*, *Behav Neurosci*, *Biomed Opt Express*, *Curr Opin Behav Sci*等期刊。周景峰博士即将加入北京脑中心，现开始组建团队，期待您的加入。
 
 详细信息请查看实验室网站：[https://zhoulab.cibr.ac.cn](https://zhoulab.cibr.ac.cn) 。
 
