@@ -13,7 +13,7 @@ permalink: /resources/
 
 <h4 style="color:gray">Programming</h4>
 
-* [aRrgh](http://arrgh.tim-smith.us/): a newcomer’s (angry) guide to R.
+* [Matlab Tutorial](https://www.mathworks.com/help/matlab/).
 
 <h4 style="color:gray">Plotting</h4>
 
