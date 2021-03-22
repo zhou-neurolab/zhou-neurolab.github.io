@@ -177,6 +177,11 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 
 	<tr>
 		<td>2021</td>
+		<td>NIDA IRP "Science for Nonscientists" Seminar Series</td>
+	</tr>
+
+	<tr>
+		<td>2021</td>
 		<td>MIT Department of Brain and Cognitive Sciences</td>
 	</tr>
 	
