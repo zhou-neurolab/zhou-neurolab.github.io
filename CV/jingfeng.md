@@ -32,7 +32,7 @@ permalink: /CV/jingfeng/
 	<col style="width:100%">
 	
 	<tr>
-		<td>2021</td>
+		<td>2021–</td>
 		<td>Assistant Investigator, Chinese Institute for Brain Research (CIBR), Beijing</td>
 	</tr>	
 
