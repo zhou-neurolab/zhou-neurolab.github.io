@@ -1,5 +1,5 @@
 ---
-title: 中文研究概述
+title: 研究概述
 layout: page
 permalink: /research/research_in_chinese/
 ---
