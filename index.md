@@ -3,6 +3,30 @@ layout: page
 ---
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
+.console-container {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 4vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.console-underscore {
+    display: inline-block;
+    position: relative;
+    color: white;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+}
+img {
+    width:100%;
+}
 
 </style>
 
