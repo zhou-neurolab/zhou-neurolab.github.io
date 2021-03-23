@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<div class="container">
+<div class="container" align="center">
         <img width="800" src="/assets/lego_blocks_strip.jpg" alt="build_to_understand">
         <div class='console-container'>
             <span id='text'></span>
