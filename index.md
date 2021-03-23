@@ -2,12 +2,10 @@
 layout: page
 ---
 
-<head>
-        <style>
-          h1 {color:red;}
-          p {color:blue;}
-        </style>
-</head>
+<style>
+
+</style>
+
 
 
 
