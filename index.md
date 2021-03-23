@@ -2,48 +2,9 @@
 layout: page
 ---
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
-
-.console-container {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 4vw;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.console-underscore {
-    display: inline-block;
-    position: relative;
-    color: white;
-}
-
-.container {
-    position: relative;
-    text-align: center;
-}
-img {
-    width:100%;
-}
-
-</style>
-
-
-
-
-
-<div class="container" align="center">
-        <img width="800" src="/assets/lego_blocks_strip.jpg" alt="build_to_understand">
-        <div class='console-container'>
-            <span id='text'></span>
-            <div class='console-underscore' id='cursor'>|</div>
-        </div>
-</div>
-
-
-
+  <p align="center">
+    <img width="800" src="/assets/lego_blocks_strip.jpg">
+  </p>
 
 Welcome to the Zhou Lab of Behavioral and Systems Neuroscience at the Chinese Institute for Brain Research (CIBR), Beijing. We study neural circuit mechanisms of animal behavior and cognition. On this website, you can get to know [who we are](People.md) and [what we do](Research.md), check out the [publications](Publications.md) and [news](News.md) for the latest updates, or explore useful [resources](Resources.md), [fun stuff](Fun.md), and possible [positions](Join.md) in the lab.
 
