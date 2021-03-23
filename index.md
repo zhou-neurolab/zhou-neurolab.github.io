@@ -2,6 +2,16 @@
 layout: page
 ---
 
+<head>
+        <style>
+          h1 {color:red;}
+          p {color:blue;}
+        </style>
+</head>
+
+
+
+
 <div class="container" align="center">
         <img width="800" src="/assets/lego_blocks_strip.jpg" alt="build_to_understand">
         <div class='console-container'>
