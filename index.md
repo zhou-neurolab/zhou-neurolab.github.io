@@ -10,7 +10,7 @@ Welcome to the Zhou Lab of Behavioral and Systems Neuroscience at the Chinese In
 
 <img align="left" width="40" style="margin-right:20px" src="/assets/hiring_icon.png" />
 
-北京脑科学与类脑研究中心周景峰实验室<br>
+北京脑中心周景峰实验室<br>
 [招聘实验室管理员、技术员和博士后](hiring.md)
 
 <br clear="left" />
