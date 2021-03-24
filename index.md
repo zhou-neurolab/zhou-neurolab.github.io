@@ -8,7 +8,7 @@ layout: page
  
   <p align="center">
   <img width="800" src="/assets/max_colored.png">
-  <figcaption style="color:##808080";>Image Coutesy of Qingchun Guo</figcaption>
+  <figcaption style="color:##808080";>Image Courtesy of Qingchun Guo</figcaption>
   </p>
   
 </figure>
