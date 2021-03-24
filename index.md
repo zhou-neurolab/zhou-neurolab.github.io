@@ -1,5 +1,4 @@
 ---
-title: Neurobiology of Behavior and Cognition
 layout: page
 ---
 
