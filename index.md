@@ -1,5 +1,4 @@
 ---
-list_title: 'Neuro'
 layout: page
 ---
 
