@@ -11,10 +11,12 @@ Our lab is actively seeking postdoctoral fellows and technicians. Please get in 
 
 
 <figure>
- 
+
   <p align="center">
-  <img width="800" src="/assets/CIBR-min.jpg">
-  <figcaption>Chinese Institute for Brain Research, Beijing</figcaption>
+   <a href="http://www.cibr.ac.cn/">
+    <img width="800" src="/assets/CIBR-min.jpg">
+    <figcaption>Chinese Institute for Brain Research, Beijing</figcaption>
+   </a>
   </p>
   
 </figure>
