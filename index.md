@@ -4,7 +4,7 @@ layout: page
 
 <p align="center">
   <a href="/cover_image/">
-    <img width="800" src="/assets/max_colored.png">
+    <img width="800" src="/assets/max_colored_text.png">
   </a>
 </p>
   
