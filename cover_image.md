@@ -5,6 +5,6 @@ permalink: /cover_image/
 ---
 
 Coronal section of cleared Thy1-GFP mouse brain;<br>
-Neurons at different depths coded with pseudo-color (superficial to deep: red --> purple).
+Neurons at different depths are coded with pseudo-color (superficial to deep: red --> purple).
 
 Image courtesy of [Qingchun Guo](http://www.cibr.ac.cn/#/science/team/detail/53). 
