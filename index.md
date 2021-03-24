@@ -3,7 +3,7 @@ layout: page
 ---
 
 <p align="center">
-  <a href="cover_image.md">
+  <a href="/cover_image/">
     <img width="800" src="/assets/max_colored.png">
   </a>
 </p>
