@@ -39,7 +39,7 @@ To answer these questions, we use an integrative approach derived from behaviora
 ## Beautiful units on the oscilloscope
 
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-1.gif" />
-<img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-2.gif" />
+<figcaption>A non-bursting neuron</figcaption>
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-3.gif" />
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-4.gif" />
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-5.gif" />
