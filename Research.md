@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <h4>
-  <a href="/research/research_in_chinese.md">研究概述</a>
+  <a href="/research/research_in_chinese/">研究概述</a>
 </h4>
 
 ## Overview
