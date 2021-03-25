@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 ---
 
+ ([中文研究概述](research/research_in_chinese.md))
 
-
-## Overview ([研究概述](research/research_in_chinese.md))
+## Overview
 The research interest of the lab has coalesced around a desire to understand the neural circuit mechanisms of animal behavior and cognition. We use *in vivo* electrophysiology as a primary tool, combined with complex behavioral tasks, optogenetics, and computational tools, to map neural dynamics embedded in the neural population activities—primarily in the prefrontal cortex and hippocampus—to the task or cognitive variables that underlie learning, memory, and decision-making. We also have a great interest in how these neural representations and their behavioral functions would be altered in neuropsychiatric disease conditions such as addiction, depression, and schizophrenia.
 
 
@@ -28,7 +28,6 @@ The neural mechanisms of cognitive maps and schemas (i.e., generalized cognitive
 * How are these neural representations and their behavioral functions altered in neuropsychiatric disease conditions, such as addiction, depression, and schizophrenia?
 
 ## Methodology
-
 To answer these questions, we use an integrative approach derived from behavioral, cognitive, systems and computational neurosciences. 
 
 * Carefully-designed complex behavioral tasks to isolate the task or cognitive variables of interest, independent of sensory and motor confounds.
