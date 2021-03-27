@@ -1,5 +1,5 @@
 ---
-title: Jingfeng Zhou
+title: Jingfeng Zhou, Ph.D.
 layout: page
 permalink: /CV/jingfeng/
 ---
