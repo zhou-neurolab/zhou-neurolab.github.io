@@ -35,7 +35,7 @@ Jingfeng Zhou is currently a postdoc at the National Institute on Drug Abuse Int
 
 <p> </p>
 
-## Technicians
+## Research Assistants
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
