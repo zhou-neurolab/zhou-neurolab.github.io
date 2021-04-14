@@ -20,7 +20,7 @@ Jingfeng Zhou is currently a postdoc at the National Institute on Drug Abuse Int
 </p>
 
 <br>
-<hr width="100%" color="##A9A9A9" size="2" align="center" noshade>
+<hr width="100%" color="#A9A9A9" size="2" align="center" noshade>
 <br>
 
 ## Lab Manager
