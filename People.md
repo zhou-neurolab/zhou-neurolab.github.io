@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 ## Principal Investigator
-<hr width="100%" color="#A9A9A9" size="1.5" align="center" noshade><br>
+<hr width="100%" color="#A9A9A9" size="2" align="center" noshade><br>
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_head_shot.jpg" />
 
@@ -23,7 +23,7 @@ Jingfeng Zhou is currently a postdoc at the National Institute on Drug Abuse Int
 
 
 ## Lab Manager
-<hr width="100%" color="#A9A9A9" size="1.5" align="center" noshade><br>
+<hr width="100%" color="#A9A9A9" size="2" align="center" noshade><br>
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
@@ -41,7 +41,7 @@ Jingfeng Zhou is currently a postdoc at the National Institute on Drug Abuse Int
 <p> </p>
 
 ## Research Assistants
-<hr width="100%" color="#A9A9A9" size="1.5" align="center" noshade><br>
+<hr width="100%" color="#A9A9A9" size="2" align="center" noshade><br>
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
@@ -50,6 +50,6 @@ Jingfeng Zhou is currently a postdoc at the National Institute on Drug Abuse Int
 <p> </p>
 
 ## Graduate Students
-<hr width="100%" color="#A9A9A9" size="1.5" align="center" noshade><br>
+<hr width="100%" color="#A9A9A9" size="2" align="center" noshade><br>
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
