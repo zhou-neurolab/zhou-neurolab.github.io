@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 ## Principal Investigator
-<hr align="left" width="100%" color="#A9A9A9">
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <br>
 
