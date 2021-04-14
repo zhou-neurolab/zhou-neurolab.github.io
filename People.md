@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 ## Principal Investigator
-<hr style="height:1px;border-width:1;color:gray;background-color:gray"><br>
+<hr style="height:1px;border-width:1;color:#D3D3D3;background-color:#D3D3D3"><br>
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_head_shot.jpg" />
 
