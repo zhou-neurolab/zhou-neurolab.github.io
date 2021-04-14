@@ -24,3 +24,13 @@ permalink: /resources/
 
 * [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM) by Larry McEnerney.<br>
 * [How To Speak](https://www.youtube.com/watch?v=Unzc731iCUY) by Patrick Winston.
+
+## Online Seminars
+
+<h4 style="color:gray">Neuro Zoom</h4>
+
+Monday 5PM (PDT), 8PM (EDT), +1 day 8AM (Beijing) 
+[LINK](https://sites.google.com/view/neurozoom/home) [ZOOM LINK](https://stanford.zoom.us/j/581081798?pwd=eVpMVVlucjVsQ2tZdy9TblRKVm9Wdz09) [YouTube Live](https://www.youtube.com/watch?v=Ov2ZQg4z-ZU )
+Zoom meeting ID: 581081798
+password: 8675309
+
