@@ -4,6 +4,7 @@ title: People
 permalink: /people/
 ---
 ## Principal Investigator
+<hr width="100%" color="#A9A9A9" size="2" align="center" noshade><br>
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_head_shot.jpg" />
 
@@ -19,27 +20,25 @@ Phone: +86-010-1234567<br>Email: [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou
 Jingfeng Zhou is currently a postdoc at the National Institute on Drug Abuse Intramural Research Program (NIDA-IRP), which is a part of the National Institutes of Health (NIH). He has accepted an offer of a tenure-track position as Assistant Investigator at the Chinese Institute for Brain Research (CIBR), Beijing. This lab website will be in use after he officially starts his lab, hopefully, this summer after his visiting postdoctoral fellow program at NIDA IRP ends in July.
 </p>
 
-<br><hr width="100%" color="#A9A9A9" size="2" align="center" noshade><br>
+
 
 ## Lab Manager
+<hr width="100%" color="#A9A9A9" size="2" align="center" noshade><br>
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
 <br clear="left" />
 
 <p> </p>
-
-<br><hr width="100%" color="#A9A9A9" size="2" align="center" noshade><br>
 
 ## Postdoctoral Fellows
+<hr width="100%" color="#A9A9A9" size="2" align="center" noshade><br>
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
 <br clear="left" />
 
 <p> </p>
-
-<br><hr width="100%" color="#A9A9A9" size="2" align="center" noshade><br>
 
 ## Research Assistants
 
@@ -48,8 +47,6 @@ Jingfeng Zhou is currently a postdoc at the National Institute on Drug Abuse Int
 <br clear="left" />
 
 <p> </p>
-
-<br><hr width="100%" color="#A9A9A9" size="2" align="center" noshade><br>
 
 ## Graduate Students
 
