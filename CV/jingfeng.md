@@ -143,7 +143,7 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 	<col style="width:100%">
 
 	<tr>
-		<td>2019-2021</td>
+		<td>2019–2021</td>
 		<td>Mentoring postdoctoral fellow Wenhui Zong at NIDA-IRP</td>
 	</tr>
 	
