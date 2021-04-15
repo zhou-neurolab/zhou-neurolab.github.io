@@ -33,6 +33,8 @@ The neural mechanisms of cognitive maps and schemas (i.e., generalized cognitive
 * How do prior experience and knowledge guide new learning and behavior through neural representations of these models?
 * How are these neural representations and their behavioral functions altered in neuropsychiatric disease conditions, such as addiction, depression, and schizophrenia?
 
+<br>
+
 ## Methodology
 <hr style="height:1px;border:none;background-color:#D3D3D3">
 
@@ -43,6 +45,8 @@ The neural mechanisms of cognitive maps and schemas (i.e., generalized cognitive
 * State-of-the-art multivariate analyses including machine learning to read specific information from both single-unit and neural-ensemble activities.
 * Neural perturbation methods such as optogenetics and chemogenetics for causal inference.
 * Computational modeling.
+
+<br>
 
 ## Beautiful units on the oscilloscope
 <hr style="height:1px;border:none;background-color:#D3D3D3">
