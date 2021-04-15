@@ -9,7 +9,7 @@ permalink: /research/
 </h4>
 
 ## Overview
-<hr style="height:1px;border:none;background-color:#D3D3D3"><br>
+<hr style="height:1px;border:none;background-color:#D3D3D3">
 
 The research interest of the lab has coalesced around a desire to understand the neural circuit mechanisms of animal behavior and cognition. We use *in vivo* electrophysiology as a primary tool, combined with complex behavioral tasks, optogenetics, and computational tools, to map neural dynamics embedded in the neural population activities—primarily in the prefrontal cortex and hippocampus—to the task or cognitive variables that underlie learning, memory, and decision-making. We also have a great interest in how these neural representations and their behavioral functions would be altered in neuropsychiatric disease conditions such as addiction, depression, and schizophrenia.
 
@@ -19,7 +19,7 @@ The research interest of the lab has coalesced around a desire to understand the
 </p>
 
 ## How do we understand the world around us? 
-<hr style="height:1px;border:none;background-color:#D3D3D3"><br>
+<hr style="height:1px;border:none;background-color:#D3D3D3">
 
 Plenty of evidence has shown that our brain is very likely to construct a mental model of the surrounding environment. Such a model (i.e., cognitive map, a term coined by Edward Tolman in the 1940s) accounts for complex relationships between various parts of the environment including sensory stimuli, events, and consequences caused by actions. It is believed that we use these models to attend, perceive, predict, learn, remember, decide, and generate actions—spanning the triad of perception, action, and cognition. Thus, to answer the question above, it is necessary to figure out how such a model is instantiated through the firing activities of many single neurons, the building blocks of our brain. 
 
@@ -34,7 +34,7 @@ The neural mechanisms of cognitive maps and schemas (i.e., generalized cognitive
 * How are these neural representations and their behavioral functions altered in neuropsychiatric disease conditions, such as addiction, depression, and schizophrenia?
 
 ## Methodology
-<hr style="height:1px;border:none;background-color:#D3D3D3"><br>
+<hr style="height:1px;border:none;background-color:#D3D3D3">
 
 To answer these questions, we use an integrative approach derived from behavioral, cognitive, systems and computational neurosciences. 
 
@@ -45,7 +45,7 @@ To answer these questions, we use an integrative approach derived from behaviora
 * Computational modeling.
 
 ## Beautiful units on the oscilloscope
-<hr style="height:1px;border:none;background-color:#D3D3D3"><br>
+<hr style="height:1px;border:none;background-color:#D3D3D3">
 
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-1.gif" />
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-2.gif" />
