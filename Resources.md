@@ -40,3 +40,9 @@ Zoom meeting ID: 581081798 password: 8675309
 Thursday 7 am (EDT), 7 pm (Beijing)<br>
 [[LINK](https://brainonline.mystrikingly.com/)] [[ZOOM LINK](https://ucl.zoom.us/j/2469477222)]<br>
 
+
+<h4 style="color:gray">World Wide Neuro</h4>
+
+[[LINK](https://www.world-wide.org/Neuro/)]
+
+
