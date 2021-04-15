@@ -42,7 +42,6 @@ Thursday 7 am (EDT), 7 pm (Beijing)<br>
 
 
 <h4 style="color:gray">World Wide Neuro</h4>
-
 [[LINK](https://www.world-wide.org/Neuro/)]
 
 
