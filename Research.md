@@ -13,10 +13,9 @@ permalink: /research/
 
 <br>The research interest of the lab has coalesced around a desire to understand the neural circuit mechanisms of animal behavior and cognition. We use *in vivo* electrophysiology as a primary tool, combined with complex behavioral tasks, optogenetics, and computational tools, to map neural dynamics embedded in the neural population activities—primarily in the prefrontal cortex and hippocampus—to the task or cognitive variables that underlie learning, memory, and decision-making. We also have a great interest in how these neural representations and their behavioral functions would be altered in neuropsychiatric disease conditions such as addiction, depression, and schizophrenia.
 
-
 <p align="left">
   <img width="800" src="/assets/methodology.png">
-</p>
+</p><br>
 
 ## How do we understand the world around us? 
 <hr style="height:1px;border:none;background-color:#D3D3D3">
@@ -31,9 +30,7 @@ The neural mechanisms of cognitive maps and schemas (i.e., generalized cognitive
 
 * How are different types of mental models—from episodic to schematic—learned and organized in the brain?
 * How do prior experience and knowledge guide new learning and behavior through neural representations of these models?
-* How are these neural representations and their behavioral functions altered in neuropsychiatric disease conditions, such as addiction, depression, and schizophrenia?
-
-<br>
+* How are these neural representations and their behavioral functions altered in neuropsychiatric disease conditions, such as addiction, depression, and schizophrenia?<br>
 
 ## Methodology
 <hr style="height:1px;border:none;background-color:#D3D3D3">
@@ -44,9 +41,7 @@ The neural mechanisms of cognitive maps and schemas (i.e., generalized cognitive
 * Large-scale *in vivo* electrophysiological recording and calcium imaging.
 * State-of-the-art multivariate analyses including machine learning to read specific information from both single-unit and neural-ensemble activities.
 * Neural perturbation methods such as optogenetics and chemogenetics for causal inference.
-* Computational modeling.
-
-<br>
+* Computational modeling.<br>
 
 ## Beautiful units on the oscilloscope
 <hr style="height:1px;border:none;background-color:#D3D3D3">
