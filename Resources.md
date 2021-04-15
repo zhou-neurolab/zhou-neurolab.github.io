@@ -25,6 +25,8 @@ permalink: /resources/
 
 * [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM) by Larry McEnerney.<br>
 * [How To Speak](https://www.youtube.com/watch?v=Unzc731iCUY) by Patrick Winston.
+ 
+<br>
 
 ## Online Seminars
 <hr style="height:1px;border:none;background-color:#D3D3D3"><br>
