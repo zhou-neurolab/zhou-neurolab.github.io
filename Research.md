@@ -15,7 +15,7 @@ permalink: /research/
 
 <p align="left">
   <img width="800" src="/assets/methodology.png">
-</p><br>
+</p>
 
 ## How do we understand the world around us? 
 <hr style="height:1px;border:none;background-color:#D3D3D3">
