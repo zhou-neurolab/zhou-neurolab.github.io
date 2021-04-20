@@ -34,7 +34,7 @@ permalink: /resources/
 <h4 style="color:gray"><br>Neuro Zoom</h4>
 
 **Monday** 8 pm (EDT), +1 day 8 am (Beijing)<br>
-[[LINK](https://sites.google.com/view/neurozoom/home)] [[ZOOM LINK](https://stanford.zoom.us/j/581081798?pwd=eVpMVVlucjVsQ2tZdy9TblRKVm9Wdz09)] [[YouTube Live](https://www.youtube.com/watch?v=Ov2ZQg4z-ZU)] <br>
+[[LINK](https://sites.google.com/view/neurozoom/home)] [[ZOOM LINK](https://stanford.zoom.us/j/581081798?pwd=eVpMVVlucjVsQ2tZdy9TblRKVm9Wdz09)] [[YouTube Live](https://www.youtube.com/channel/UC4pbkNCzb6f2qVNjHsINDgQ)] <br>
 Zoom meeting ID: 581081798 password: 8675309
 
 <h4 style="color:gray">Brain Zoom</h4>
