@@ -177,6 +177,16 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 
 	<tr>
 		<td>2021</td>
+		<td>Annual Meeting of Chinese Neuroscience Society</td>
+	</tr>
+
+	<tr>
+		<td>2021</td>
+		<td>Representational Learning Journal Club at the Max Planck Institute for Human Development</td>
+	</tr>
+
+	<tr>
+		<td>2021</td>
 		<td>NIDA IRP "Science for Nonscientists" Seminar Series</td>
 	</tr>
 
@@ -184,6 +194,11 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 		<td>2021</td>
 		<td>MIT Department of Brain and Cognitive Sciences</td>
 	</tr>
+	
+	<tr>
+		<td>2020</td>
+		<td>Institute of Neuroscience, Chinese Academy of Sciences</td>
+	</tr>	
 	
 	<tr>
 		<td>2020</td>
