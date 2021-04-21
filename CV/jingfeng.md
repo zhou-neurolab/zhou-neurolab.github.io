@@ -273,7 +273,7 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 	
 	<tr>
 		<td>2013</td>
-		<td>Chinese Society for Neuroscience (poster)</td>
+		<td>Chinese Neuroscience Society (poster)</td>
 	</tr>
 	
 </table>
