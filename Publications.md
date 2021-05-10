@@ -28,7 +28,7 @@ permalink: /publications/
 
 -	Li, Y., Zhong, W., Wang, D., Feng, Q., Liu, Z., Zhou, J., Jia, C., Hu, F., Zeng, J., Guo, Q., Fu, L., & Luo, M. (2016). Serotonin neurons in the dorsal raphe nucleus encode reward signals. **Nature Communications**, 7. [[PDF](/papers/2016_li_nat_commun.pdf)] [[LINK](https://www.nature.com/articles/ncomms10503)]
 
--	Guo, Q\*., Zhou, J\*., Feng, Q., Lin, R., Luo Q., Zeng S., Luo, M., & Fu, L. (2015). Multi-channel fiber photometry for population neuronal activity recording. **Biomedical Optics Express**. 6(10), 3919-3931. [[PDF](/papers/2015_guo_biomed_optics_express.pdf)] [[LINK](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-6-10-3919&id=326666)]
+-	Guo, Q\*., Zhou, J\*., Feng, Q., Lin, R., Luo Q., Zeng S., Luo, M., & Fu, L. (2015). Multi-channel fiber photometry for population neuronal activity recording. **Biomedical Optics Express**. 6(10), 3919-3931. [[PDF](/papers/2015_guo_boe.pdf)] [[LINK](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-6-10-3919&id=326666)]
 
 -	Luo M., Zhou J., Liu Z. (2015). Reward processing by the dorsal raphe nucleus: 5-HT and beyond. **Learning and Memory**, 22: 452-460. [[PDF](/papers/2015_luo_learn_mem.pdf)] [[LINK](http://learnmem.cshlp.org/content/22/9/452)]
 
