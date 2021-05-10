@@ -10,7 +10,7 @@ permalink: /publications/
 
 -	Zhou, J#., Gardner, M. P., & Schoenbaum, G#. (2021). Is the core function of orbitofrontal cortex to signal values or make predictions? **Current Opinion in Behavioral Sciences** 41, 1-9. [[PDF](/papers/2021_curr_opin_behav_sci.pdf)] [[LINK](https://psyarxiv.com/nzjm9/)]
 
--	Zhou, J#., Zong, W., Jia, C., Gardner, M.P.H., Schoenbaum, G#. (2021). Prospective representations in rat orbitofrontal ensembles. **Behavioral Neuroscience**. Accepted. [[PDF](/papers/2021_behv_neurosci.pdf)] [[LINK](https://doi.org/10.1101/2020.08.27.268391)]
+-	Zhou, J#., Zong, W., Jia, C., Gardner, M.P.H., Schoenbaum, G#. (2021). Prospective representations in rat orbitofrontal ensembles. **Behavioral Neuroscience**. Accepted. [[PDF](/papers/2021_behav_neurosci.pdf)] [[LINK](https://doi.org/10.1101/2020.08.27.268391)]
 
 -	Zhou, J#., Jia, C., Montesinos-Cartagena, M., Gardner, M.P.H., Zong, W., Schoenbaum, G#. (2021). Evolving schema representations in orbitofrontal ensembles during learning. **Nature**. (2020). [[PDF](/papers/2021_nature.pdf)] [[LINK](https://doi.org/10.1038/s41586-020-03061-2)]
 
