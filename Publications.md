@@ -4,11 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-<p style="color:gray">
-<h4>Copyright Notice</h4>
-The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author’s copyright. These works may not be reposted without the explicit permission of the copyright holder. (Notice borrowed from Dave Plaut/Randy O’Reilly/John Serences/Mike McDannald)
-</p>
-
 \*Co-first authors<br>#Co-corresponding authors
 
 ## 2013—2021
@@ -42,3 +37,9 @@ The documents distributed here have been provided as a means to ensure timely di
 -	Liu, Z\*., Zhou, J\*., Li, Y., Hu, F., Lu, Y., Ma, M., Feng, Q., Zhang, J., Wang, D., Zeng, J., Bao, J., Kim, J., Chen, Z., Mestikawy, S., & Luo, M. (2014). Dorsal raphe neurons signal reward through 5-HT and glutamate. **Neuron**, 81(6), 1360-1374. (*F1000 recommended*) [[LINK](https://www.cell.com/neuron/fulltext/S0896-6273(14)00108-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627314001081%3Fshowall%3Dtrue)]
 
 -	Zhan, C\*#., Zhou, J\*., Feng, Q., Zhang, J. E., Lin, S., Bao, J., Wu, P., & Luo, M#. (2013). Acute and long-term suppression of feeding behavior by POMC neurons in the brainstem and hypothalamus, respectively. **Journal of Neuroscience**, 33(8), 3624-3632. (*F1000 recommended*) [[LINK](https://www.jneurosci.org/content/33/8/3624)]
+
+
+<p style="color:gray">
+<h4>Copyright Notice</h4>
+The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author’s copyright. These works may not be reposted without the explicit permission of the copyright holder. (Notice borrowed from Dave Plaut/Randy O’Reilly/John Serences/Mike McDannald)
+</p>
