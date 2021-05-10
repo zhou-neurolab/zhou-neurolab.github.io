@@ -22,7 +22,7 @@ permalink: /publications/
 
 -	Zhou, J#., Gardner, M., Stalnaker, T., Ramus, S., Wikenheiser, A., Niv, Y., & Schoenbaum, G#. (2019). Rat orbitofrontal ensemble activity contains multiplexed but dissociable representations of value and task structure in an odor sequence task. **Current Biology**, 29(6), 897-907. (*F1000 recommended*) [[PDF](/papers/2019_curr_biol_a.pdf)] [[LINK](https://www.sciencedirect.com/science/article/pii/S0960982219300776)]
 
--	Wang, D., Li, Y., Feng, Q., Guo, Q., Zhou, J., & Luo, M. (2017). Learning shapes the aversion and reward responses of lateral habenula neurons. **eLife**, 6, e23045. [[PDF](2017_wang_elife.pdf)] [[LINK](https://elifesciences.org/articles/23045)]
+-	Wang, D., Li, Y., Feng, Q., Guo, Q., Zhou, J., & Luo, M. (2017). Learning shapes the aversion and reward responses of lateral habenula neurons. **eLife**, 6, e23045. [[PDF](/papers/2017_wang_elife.pdf)] [[LINK](https://elifesciences.org/articles/23045)]
 
 -	Zhang, J., Tan, L., Ren, Y., Liang, J., Lin, R., Feng, Q., Zhou, J., Hu, F., Ren, J., Wei, C., Yu, T., Zhuang, Y., Bettler, B., Wang, F., & Luo, M. (2016). Presynaptic excitation via GABA B receptors in habenula cholinergic neurons regulates fear memory expression. **Cell**, 166(3), 716-728. [[PDF](/papers/2016_zhang_cell.pdf)] [[LINK](https://www.sciencedirect.com/science/article/pii/S0092867416307942)]
 
