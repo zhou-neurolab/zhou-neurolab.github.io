@@ -13,6 +13,18 @@ theme: minima
 
 font-awesome:
   assets: true
+  
+asciidoctor:
+  attributes:
+    idprefix: _
+    icons: font
+    source-highlighter: coderay
+    coderay-css: style
+
+#    coderay-stylesheet: /css/coderay-asciidoctor.css
+plugins:
+  - jekyll-feed  
+  
 
 header_pages:
   - People.md
