@@ -11,6 +11,9 @@ description: Laboratory of Behavioral and Systems Neuroscience
 markdown: kramdown
 theme: minima
 
+font-awesome:
+  assets: true
+
 header_pages:
   - People.md
   - Research.md
