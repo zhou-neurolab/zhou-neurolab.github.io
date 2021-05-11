@@ -12,7 +12,7 @@ permalink: /publications/
 
 -	Zhou, J#., Zong, W., Jia, C., Gardner, M.P.H., Schoenbaum, G#. (2021). Prospective representations in rat orbitofrontal ensembles. **Behavioral Neuroscience**. Accepted. [[PDF](/papers/2021_behav_neurosci.pdf)] [[LINK](https://doi.org/10.1101/2020.08.27.268391)]
 
--	Zhou, J#., Jia, C., Montesinos-Cartagena, M., Gardner, M.P.H., Zong, W., Schoenbaum, G#. (2021). Evolving schema representations in orbitofrontal ensembles during learning. **Nature**. (2020). [[PDF](/papers/2021_nature.pdf)] [[LINK](https://doi.org/10.1038/s41586-020-03061-2)]
+-	Zhou, J#., Jia, C., Montesinos-Cartagena, M., Gardner, M.P.H., Zong, W., Schoenbaum, G#. (2021). Evolving schema representations in orbitofrontal ensembles during learning. **Nature**, 590, 606–611. [[PDF](/papers/2021_nature.pdf)] [[LINK](https://doi.org/10.1038/s41586-020-03061-2)]
 
 -	Gardner, M#., Sanchez, D., Conroy, J.S., Wikenheiser, A., Zhou, J., Schoenbaum, G#. (2020). Processing in lateral orbitofrontal cortex is required to estimate subjective preference during initial, but not established, economic choice. **Neuron**, 108, 1-12. [[PDF](/papers/2020_gardner_neuron.pdf)] [[LINK](https://www.sciencedirect.com/science/article/abs/pii/S0896627320306413)]
 
