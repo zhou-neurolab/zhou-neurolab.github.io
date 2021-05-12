@@ -38,7 +38,6 @@ permalink: /publications/
 
 -	Zhan, C\*#., Zhou, J\*., Feng, Q., Zhang, J. E., Lin, S., Bao, J., Wu, P., & Luo, M#. (2013). Acute and long-term suppression of feeding behavior by POMC neurons in the brainstem and hypothalamus, respectively. **Journal of Neuroscience**, 33(8), 3624-3632. (*F1000 recommended*) [[PDF](/papers/2013_zhan_jneuro.pdf)] [[LINK](https://www.jneurosci.org/content/33/8/3624)]
 
-
 <h4 style="color:gray"><br>Copyright Notice</h4> 
 <p style="color:gray">
 The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author’s copyright. These works may not be reposted without the explicit permission of the copyright holder.<br><br>
