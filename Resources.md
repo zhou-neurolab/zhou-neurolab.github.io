@@ -28,7 +28,7 @@ permalink: /resources/
  
 <br>
 
-<h4 style="color:gray">Talk Videos</h4>
+<h4 style="color:gray">Recorded Talks</h4>
 
 * [CBMM/MIT](https://cbmm.mit.edu/videos)<br>
  
