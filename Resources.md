@@ -28,6 +28,12 @@ permalink: /resources/
  
 <br>
 
+<h4 style="color:gray">Talk Videos</h4>
+
+* [CBMM/MIT](https://cbmm.mit.edu/videos)<br>
+ 
+<br>
+
 ## Online Seminars
 <hr style="height:1px;border:none;background-color:#D3D3D3">
 
