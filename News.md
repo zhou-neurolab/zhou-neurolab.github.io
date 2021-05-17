@@ -1,6 +1,6 @@
 ---
 title: News
 layout: home
-list_title: news
+list_title: ' '
 permalink: /news/
 ---
