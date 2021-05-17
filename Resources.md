@@ -34,10 +34,7 @@ permalink: /resources/
 
 ## Online Seminars
 <hr style="height:0; border:0; border-top:1px solid rgba(0, 0, 0, 0.1); border-bottom:1px solid rgba(255, 255, 255, 0.3)">
-    
-    
-    
-    
+
 <h4 style="color:gray"><br>Neuro Zoom</h4>
 
 **Monday** 8 pm (EDT), +1 day 8 am (Beijing)<br>
