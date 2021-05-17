@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 ## Useful Links
-<hr style="height:1px;border:none;background-color:#D3D3D3"></hr>
+<hr style="height:1px;border:none;background-color:#D3D3D3">
 
 <h4 style="color:gray"><br>Drawing</h4> 
 
@@ -33,7 +33,7 @@ permalink: /resources/
 <br>
 
 ## Online Seminars
-<hr style="height:1px;border:none;background-color:#D3D3D3"></hr>
+<hr style="height:1px;border:none;background-color:#D3D3D3">
 
 <h4 style="color:gray"><br>Neuro Zoom</h4>
 
