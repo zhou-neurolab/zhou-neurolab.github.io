@@ -13,6 +13,8 @@ theme: minima
 
 minima:
   skin: dark
+  
+show_excerpts: true  
 
 font-awesome:
   assets: true
