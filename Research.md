@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-<h4>
+<!-- <h4>
   <a href="/research/research_in_chinese/">研究概述</a>
-</h4>
+</h4> -->
 
 ## Overview
 <hr style="height:1px;border:none;background-color:#D3D3D3">
