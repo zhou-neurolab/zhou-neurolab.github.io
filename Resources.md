@@ -6,7 +6,7 @@ permalink: /resources/
 
 ## Useful Links
 <hr style="height:0; border:0; border-top:1px solid rgba(0, 0, 0, 0.1);
-border-bottom:1px solid rgba(255, 255, 255, 0.3)">
+border-bottom:1px solid rgba(255, 255, 255, 0.3)" content="Useful Links">
 
 <h4 style="color:gray"><br>Drawing</h4> 
 
