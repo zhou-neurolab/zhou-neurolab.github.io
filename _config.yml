@@ -10,6 +10,7 @@ description: Behavioral & Systems Neuroscience
 # Build settings
 markdown: kramdown
 theme: minima
+skin: dark
 
 font-awesome:
   assets: true
