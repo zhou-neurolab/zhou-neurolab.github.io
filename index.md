@@ -19,7 +19,21 @@ The lab will be started in June, 2021.
 
 <div class="html-rainbow-text" style="text-align: center">
 	<p style="display:inline-block; font-weight:bold; font-size: 20px;text-shadow: #A3A3A3 1px 1px 0px">
-	<span style="color:#c24e00">The</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#9bc200">lab</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#00c200">will</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#00c29b">be</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#004ec2">started</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#4e00c2">in</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#c2009b">June,</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#c20000">2021.</span>
+		<span style="color:#c24e00">The</span>
+		<span style="color: transparent;text-shadow: none;">&nbsp;</span>
+		<span style="color:#9bc200">lab</span>
+		<span style="color: transparent;text-shadow: none;">&nbsp;</span>
+		<span style="color:#00c200">will</span>
+		<span style="color: transparent;text-shadow: none;">&nbsp;</span>
+		<span style="color:#00c29b">be</span>
+		<span style="color: transparent;text-shadow: none;">&nbsp;</span>
+		<span style="color:#004ec2">started</span>
+		<span style="color: transparent;text-shadow: none;">&nbsp;</span>
+		<span style="color:#4e00c2">in</span>
+		<span style="color: transparent;text-shadow: none;">&nbsp;</span>
+		<span style="color:#c2009b">June,</span>
+		<span style="color: transparent;text-shadow: none;">&nbsp;</span>
+		<span style="color:#c20000">2021.</span>
 	</p>
 </div>
 	
