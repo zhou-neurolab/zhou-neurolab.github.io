@@ -11,10 +11,8 @@ layout: page
 Welcome to the Zhou Lab of Behavioral and Systems Neuroscience at the Chinese Institute for Brain Research (CIBR), Beijing. We study neural circuit mechanisms of animal behavior and cognition. On this website, you can get to know [who we are](People.md) and [what we do](Research.md), check out the [publications](Publications.md) and [news](News.md) for the latest updates, or explore useful [resources](Resources.md), [fun stuff](Fun.md), and possible [positions](Join.md) in the lab.
 
 <p style="color:gray">
-THE LAB WILL BE STARTED IN JUNE, 2021.
+The lab will be started in June, 2021.
 </p>
-
-
 
 
 <!--
