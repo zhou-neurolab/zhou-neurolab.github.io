@@ -17,7 +17,7 @@ Phone: +86-010-1234567<br>Email: [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou
 [[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1-AMNoyoc62Qs/bibliography/public/?sortby=pubDate&sdirection=descending)] [[Google Scholar](https://scholar.google.com/citations?user=ZQD-fmcAAAAJ)] [[Faculty Page](http://www.cibr.ac.cn/#/science/team/detail/547)] [[C.V.](CV/jingfeng.md)] <br clear="left" />
 
 <p style="color:gray">
-Jingfeng Zhou is currently a postdoc at the National Institute on Drug Abuse Intramural Research Program (NIDA-IRP), which is a part of the National Institutes of Health (NIH). He has accepted an offer of a tenure-track position as Assistant Investigator at the Chinese Institute for Brain Research (CIBR), Beijing. This lab website will be in use after his visiting postdoctoral fellow program at NIDA IRP ends by the end of May.
+Jingfeng Zhou is currently a postdoc at the National Institute on Drug Abuse Intramural Research Program (NIDA-IRP), which is a part of the National Institutes of Health (NIH). He has accepted an offer of a tenure-track position as the Assistant Investigator at the Chinese Institute for Brain Research (CIBR), Beijing. The lab will be started in June 2021 after his visiting postdoctoral fellowship at NIDA IRP ends in May.
 </p>
 
 
