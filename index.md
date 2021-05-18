@@ -23,7 +23,6 @@ The lab will be started in June, 2021.
 	</p>
 </div>
 	
-
 <!--
 <img align="left" width="40" style="margin-right:20px" src="/assets/hiring_icon.png" />
 北京脑中心周景峰实验室<br>
