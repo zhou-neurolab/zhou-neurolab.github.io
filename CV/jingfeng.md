@@ -179,6 +179,11 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 		<td>2021</td>
 		<td>Annual Meeting of Chinese Neuroscience Society</td>
 	</tr>
+	
+	<tr>
+		<td>2021</td>
+		<td>NIDA Research Fellow Research Meeting</td>
+	</tr>	
 
 	<tr>
 		<td>2021</td>
