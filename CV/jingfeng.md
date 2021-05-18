@@ -182,7 +182,7 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 	
 	<tr>
 		<td>2021</td>
-		<td>NIDA Research Fellow Research Meeting</td>
+		<td>NIDA Fellows Research Lunch Meeting</td>
 	</tr>	
 
 	<tr>
@@ -217,7 +217,7 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 	
 	<tr>
 		<td>2019</td>
-		<td>NIDA Research Fellow Research Meeting</td>
+		<td>NIDA Fellows Research Lunch Meeting</td>
 	</tr>
 	
 	<tr>
@@ -237,7 +237,7 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 	
 	<tr>
 		<td>2018</td>
-		<td>NIDA Research Fellow Research Meeting</td>
+		<td>NIDA Fellows Research Lunch Meeting</td>
 	</tr>
 	
 	<tr>
