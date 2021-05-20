@@ -22,7 +22,7 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 </p>
 
 <br>
-<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
+<hr style="height:1px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
 <br>
 
 <!-- ========================================================================================================================== -->
@@ -34,7 +34,7 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 <p> </p>
 
 <br>
-<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
+<hr style="height:1px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
 <br>
 
 <!-- ========================================================================================================================== -->
@@ -46,7 +46,7 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 <p> </p>
 
 <br>
-<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
+<hr style="height:1px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
 <br>
 
 
@@ -59,7 +59,7 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 <p> </p>
 
 <br>
-<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
+<hr style="height:1px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
 <br>
 
 
