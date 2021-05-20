@@ -19,44 +19,44 @@ Phone: +86-010-1234567<br>Email: [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou
 
 <p style="color:gray">
 Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Institute on Drug Abuse Intramural Research Program (NIDA-IRP), which is a part of the National Institutes of Health (NIH). He has accepted a tenure-track faculty position at the Chinese Institute for Brain Research (CIBR), Beijing. The lab will be started in June 2021 after his visiting fellowship ends in May.
-</p>
+</p><br>
+<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
+<br>
 
 <!-- ========================================================================================================================== -->
-<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
-
-
 ## Lab Manager
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 <br clear="left" />
 
-<p> </p>
+<p> </p><br>
+<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
+<br>
 
-
+<!-- ========================================================================================================================== -->
 ## Postdoctoral Fellows
-<!-- ========================================================================================================================== -->
-<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))"><br>
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 <br clear="left" />
 
-<p> </p>
+<p> </p><br>
+<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
+<br>
 
 
+<!-- ========================================================================================================================== -->
 ## Research Assistants
-<!-- ========================================================================================================================== -->
-<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))"><br>
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 <br clear="left" />
 
-<p> </p>
+<p> </p><br>
+<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
+<br>
 
 
-
-## Graduate Students
 <!-- ========================================================================================================================== -->
-<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))"><br>
+## Graduate Students
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 <br clear="left" />
