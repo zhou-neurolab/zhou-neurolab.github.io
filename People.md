@@ -69,21 +69,21 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 <!-- ========================================================================================================================== -->
 <hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))"><br>
 
-<table style="width:100%" border="0">
+<table style="width:80%" border="0">
 	
-<col style="width:25%">
+<col style="width:60%">
 <col style="width:25%">
 <col style="width:25%">
 
 <tr>
-	<td>John Doe</td>
-  <td>Postdoc Fellow</td>
+	<td>John Doe（杜约翰）</td>
+ 	<td>Postdoc Fellow</td>
 	<td>2222-2222</td>
 </tr>
 
 <tr>
-	<td>Jane Doe</td>
-  <td>Postdoc Fellow</td>
+	<td>Jane Doe（杜简）</td>
+  	<td>Postdoc Fellow</td>
 	<td>2222-2222</td>
 </tr>
 
