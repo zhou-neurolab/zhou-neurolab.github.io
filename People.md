@@ -70,11 +70,11 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 ## Alumni
 <!-- ========================================================================================================================== -->
 
-<table style="width:75%" border="0">
+<table style="width:100%" border="0">
 	
-<col style="width:25%">
-<col style="width:25%">
-<col style="width:25%">
+<col style="width:100%">
+<col style="width:100%">
+<col style="width:100%">
 
 <tr>
 	<td>John Doe（杜约翰）</td>
