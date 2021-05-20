@@ -32,7 +32,7 @@ The neural mechanisms of cognitive maps and schemas (i.e., generalized cognitive
 
 * How are different types of mental models—from episodic to schematic—learned and organized in the brain?
 * How do prior experience and knowledge guide new learning and behavior through neural representations of these models?
-* How are these neural representations and their behavioral functions altered in neuropsychiatric disease conditions, such as addiction, depression, and schizophrenia?<br>
+* How are these neural representations and their behavioral functions altered in neuropsychiatric disease conditions, such as addiction, depression, and schizophrenia?
 
 <br>
 <hr style="height:2px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
