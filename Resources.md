@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 ## Useful Links
-<hr style="height:0; border:0; border-top:1px solid rgba(0, 0, 0, 0.1); border-bottom:1px solid rgba(255, 255, 255, 0.3)">
+<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
 
 <h4 style="color:gray"><br>Drawing</h4> 
 
@@ -33,7 +33,7 @@ permalink: /resources/
 <br>
 
 ## Online Seminars
-<hr style="height:0; border:0; border-top:1px solid rgba(0, 0, 0, 0.1); border-bottom:1px solid rgba(255, 255, 255, 0.3)">
+<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
 
 <h4 style="color:gray"><br>Neuro Zoom</h4>
 
