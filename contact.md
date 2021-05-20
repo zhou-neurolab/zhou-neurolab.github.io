@@ -13,6 +13,10 @@ permalink: /contact/
 
 <br>
 
+<hr style="height:1px; border:0; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0))">
+
+<br>
+
 ## Address
 26 Science Park Road, ZGC Life Science Park<br>
 Changping, Beijing 102206, China
