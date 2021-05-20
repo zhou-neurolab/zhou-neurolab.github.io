@@ -11,8 +11,7 @@ permalink: /contact/
 <br>
 
 # 电子邮箱
-周景峰<br>
-[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
+周景峰：[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
 
 <br>
 
@@ -23,5 +22,4 @@ Changping, Beijing 102206, China
 <br>
 
 # Email
-Jingfeng Zhou<br>
-[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
+Jingfeng Zhou: [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
