@@ -17,7 +17,7 @@ The lab will be started in June, 2021.
 
 <br>
 
-<hr style="height:5px; border:0; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0))"><br>
+<hr style="width:50%; height:5px; border:0; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0))"><br>
 
 <br>
 
