@@ -3,8 +3,7 @@ layout: page
 title: People
 permalink: /people/
 ---
-## Principal Investigator
-<hr style="height:0; border:0; border-top:1px solid rgba(0, 0, 0, 0.1); border-bottom:1px solid rgba(255, 255, 255, 0.3)"><br>
+
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_head_shot.jpg" />
 
@@ -21,8 +20,7 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 </p>
 
 
-## Lab Manager
-<hr style="height:0; border:0; border-top:1px solid rgba(0, 0, 0, 0.1); border-bottom:1px solid rgba(255, 255, 255, 0.3)"><br>
+<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
@@ -30,8 +28,7 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 
 <p> </p>
 
-## Postdoctoral Fellows
-<hr style="height:0; border:0; border-top:1px solid rgba(0, 0, 0, 0.1); border-bottom:1px solid rgba(255, 255, 255, 0.3)"><br>
+<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
@@ -39,8 +36,7 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 
 <p> </p>
 
-## Research Assistants
-<hr style="height:0; border:0; border-top:1px solid rgba(0, 0, 0, 0.1); border-bottom:1px solid rgba(255, 255, 255, 0.3)"><br>
+<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
@@ -48,8 +44,7 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 
 <p> </p>
 
-## Graduate Students
-<hr style="height:0; border:0; border-top:1px solid rgba(0, 0, 0, 0.1); border-bottom:1px solid rgba(255, 255, 255, 0.3)"><br>
+<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
