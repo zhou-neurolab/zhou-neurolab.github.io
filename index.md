@@ -4,7 +4,7 @@ layout: page
 
 <p align="center">
   <a href="/cover_image/">
-    <img width="800" style="border-radius:5px; border:0px solid #6495ED" src="/assets/max_colored_dry_brush.png">
+    <img width="800" style="border-radius:8px; border:0px solid #6495ED" src="/assets/max_colored_dry_brush.png">
   </a>
 </p>
   
