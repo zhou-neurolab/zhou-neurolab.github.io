@@ -18,5 +18,4 @@ permalink: /contact/
 Changping, Beijing 102206, China
 
 ## Email
-<hr style="height:0; border:0; border-top:1px solid rgba(0, 0, 0, 0.1); border-bottom:1px solid rgba(255, 255, 255, 0.3)"><br>
 Jingfeng Zhou: [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
