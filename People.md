@@ -43,7 +43,9 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 <br clear="left" />
 
-<p> </p><br>
+<p> </p>
+
+<br>
 <hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))">
 <br>
 
