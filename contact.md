@@ -1,7 +1,7 @@
 ---
 title: 联系我们
 layout: page
-permalink: /research/contact/
+permalink: /contact/
 ---
 
 # 地址
