@@ -6,7 +6,7 @@ permalink: /resources/
 
 ## Useful Links
 
-<h4 style="color:gray"><br>Drawing</h4> 
+<h4 style="color:gray">Drawing</h4> 
 
 * Google [AutoDraw](https://www.autodraw.com/) turns your rough scribbles into beautiful icons for free.<br>
 * [SciDraw](https://scidraw.io/) provides a free repository of high quality drawings that might be useful for scientific presentations and posters.
@@ -37,7 +37,7 @@ permalink: /resources/
 
 ## Online Seminars
 
-<h4 style="color:gray"><br>Neuro Zoom</h4>
+<h4 style="color:gray">Neuro Zoom</h4>
 
 **Monday** 8 pm (EDT), +1 day 8 am (Beijing)<br>
 [[LINK](https://sites.google.com/view/neurozoom/home)] [[ZOOM LINK](https://stanford.zoom.us/j/581081798?pwd=eVpMVVlucjVsQ2tZdy9TblRKVm9Wdz09)] [[YouTube Live](https://www.youtube.com/channel/UC4pbkNCzb6f2qVNjHsINDgQ)] <br>
