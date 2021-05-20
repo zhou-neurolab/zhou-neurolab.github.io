@@ -21,7 +21,7 @@ The lab will be started in June, 2021.
 	</p>
 </div>
 
-<hr style="text-align:center; margin:auto; width:50%; height:5px; border:0; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 165, 0, 0.7), rgba(0, 0, 0, 0))">
+<hr style="text-align:center; margin:auto; width:50%; height:5px; border:0; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 94, 19, 0.6), rgba(0, 0, 0, 0))">
 
 	
 <!--
