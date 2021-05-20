@@ -10,6 +10,12 @@ permalink: /contact/
 
 <br>
 
+# 电子邮箱
+周景峰<br>
+[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
+
+<br>
+
 # Address
 26 Science Park Road, ZGC Life Science Park<br>
 Changping, Beijing 102206, China
@@ -17,5 +23,5 @@ Changping, Beijing 102206, China
 <br>
 
 # Email
-Jingfeng Zhou (周景峰)<br>
+Jingfeng Zhou<br>
 [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
