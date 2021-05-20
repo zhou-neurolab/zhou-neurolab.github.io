@@ -67,11 +67,10 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 
 ## Alumni
 <!-- ========================================================================================================================== -->
-<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))"><br>
 
-<table style="width:80%" border="0">
+<table style="width:60%" border="0">
 	
-<col style="width:60%">
+<col style="width:20%">
 <col style="width:25%">
 <col style="width:25%">
 
@@ -84,7 +83,7 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 <tr>
 	<td>Jane Doe（杜简）</td>
   	<td>Postdoc Fellow</td>
-	<td>2222-222233333333333333333333333333</td>
+	<td>2222-2222</td>
 </tr>
 
 </table>
