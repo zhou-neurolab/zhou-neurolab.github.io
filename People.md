@@ -10,7 +10,7 @@ permalink: /people/
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_head_shot.jpg" />
 
-**Jingfeng Zhou, Ph.D.**
+**Jingfeng Zhou, Ph.D.**<br>
 **周景峰**
 
 Assistant Investigator<br>
