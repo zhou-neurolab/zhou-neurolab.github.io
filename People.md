@@ -64,13 +64,15 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 
 <p> </p>
 
+<br><br>
+
 
 ## Alumni
 <!-- ========================================================================================================================== -->
 
-<table style="width:80%" border="0">
+<table style="width:75%" border="0">
 	
-<col style="width:30%">
+<col style="width:25%">
 <col style="width:25%">
 <col style="width:25%">
 
