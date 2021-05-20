@@ -23,7 +23,8 @@ The lab will be started in June, 2021.
 	</p>
 </div>
 
-<hr style="width:50%; text-align:center; height:5px; border:0; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 165, 0, 0.5), rgba(0, 0, 0, 0))">
+<hr style="text-align:center; width:50%; height:5px; border:0; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 165, 0, 0.5), rgba(0, 0, 0, 0))">
+
 	
 <!--
 <img align="left" width="40" style="margin-right:20px" src="/assets/hiring_icon.png" />
