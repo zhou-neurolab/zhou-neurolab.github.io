@@ -15,10 +15,10 @@ Welcome to the Zhou Lab of Behavioral and Systems Neuroscience at the [Chinese I
 The lab will be started in June, 2021.
 </p> -->
 
-<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(1, 0, 0, 0), rgba(0, 1, 0, 0), rgba(0.5, 0, 0.5, 0))">
+<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0); background-image: linear-gradient(to right, rgba(1, 0, 0, 1), rgba(0, 1, 0, 1), rgba(0.5, 0, 0.5, 1))">
 
 
-<p style="text-align: center; display:inline-block; font-weight:bold; font-size: 20px;text-shadow: #A3A3A3 1px 1px 0px">	
+<p style="text-align: center; display:inline-block; font-weight:bold; font-size: 20px;text-shadow: #A3A3A3 1px 1px 1px">	
 	<span style="color:#c24e00">The</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#9bc200">lab</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#00c200">will</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#00c29b">be</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#004ec2">started</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#4e00c2">in</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#c2009b">June,</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#c20000">2021.</span>
 </p>
 
