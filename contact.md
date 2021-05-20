@@ -13,7 +13,7 @@ permalink: /contact/
 
 <br>
 
-<hr style="height:1px; border:0; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0))">
+<hr style="height:1px; border:0; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0))">
 
 <br>
 
