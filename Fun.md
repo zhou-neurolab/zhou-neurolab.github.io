@@ -15,4 +15,4 @@ permalink: /fun/
 "Piled Higher and Deeper" by Jorge Cham <a href="http://phdcomics.com/">www.phdcomics.com</a>
 </p>
 
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
