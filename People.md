@@ -10,9 +10,10 @@ permalink: /people/
 
 <img align="left" width="190" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_head_shot.jpg" />
 
-**Jingfeng Zhou (周景峰), Ph.D.**
+**Jingfeng Zhou, Ph.D.**
+**周景峰**
 
-Assistant Investigator<br>Chinese Institute for Brain Research, Beijing
+Assistant Investigator<br>
 
 Phone: +86-010-1234567<br>Email: [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
 
