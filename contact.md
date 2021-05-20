@@ -11,4 +11,4 @@ permalink: /contact/
 26 Science Park Road, ZGC Life Science Park, Changping, Beijing 102206, China
 
 # Email
-jingfeng.zhou@@cibr.ac.cn
+[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
