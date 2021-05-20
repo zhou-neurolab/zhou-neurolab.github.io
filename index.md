@@ -15,7 +15,11 @@ Welcome to the Zhou Lab of Behavioral and Systems Neuroscience at the [Chinese I
 The lab will be started in June, 2021.
 </p> -->
 
-<hr style="height:1px; border:0; background: rgba(0, 0, 0, 0); background-image: linear-gradient(to right, rgba(1, 0, 0, 1), rgba(0, 1, 0, 1), rgba(0.5, 0, 0.5, 1))">
+<br>
+
+<hr style="height:5px; border:0; background: rgba(0, 0, 0, 0); background-image: linear-gradient(to right, rgba(1, 0, 0, 1), rgba(0, 1, 0, 1), rgba(0.5, 0, 0.5, 1))">
+
+<br>
 
 <div style="text-align: center">
 	<p style="text-align: center; display:inline-block; font-weight:bold; font-size: 20px;text-shadow: #A3A3A3 1px 1px 1px">	
