@@ -13,4 +13,5 @@ permalink: /research/contact/
 ZGC Life Science Park
 Changping, Beijing 102206, China
 
-# Email: jingfeng.zhou@@cibr.ac.cn
+# Email
+jingfeng.zhou@@cibr.ac.cn
