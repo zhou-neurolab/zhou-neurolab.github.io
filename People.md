@@ -69,6 +69,8 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 <!-- ========================================================================================================================== -->
 <hr style="height:1px; border:0; background: rgba(0, 0, 0, 0.02); background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0))"><br>
 
+<table style="width:100%" border="0">
+	
 <col style="width:25%">
 <col style="width:25%">
 <col style="width:25%">
@@ -84,3 +86,5 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
   <td>Postdoc Fellow</td>
 	<td>2222-2222</td>
 </tr>
+
+</table>
