@@ -5,13 +5,11 @@ permalink: /people/
 ---
 
 <!-- ========================================================================================================================== -->
-## Principal Investigator
+<img align="left" width="170" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_head_shot.jpg" />
 
-<img align="left" width="180" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_head_shot.jpg" />
+<h3>Jingfeng Zhou (周景峰), Ph.D</h3>
 
-<h2>Jingfeng Zhou (周景峰), Ph.D</h2>
-
-Assistant Investigator
+Principal Investigator
 
 Phone: +86-010-1234567<br>Email: [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>
 [[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1-AMNoyoc62Qs/bibliography/public/?sortby=pubDate&sdirection=descending)] [[Google Scholar](https://scholar.google.com/citations?user=ZQD-fmcAAAAJ)] [[Faculty Page](http://www.cibr.ac.cn/#/science/team/detail/547)] [[C.V.](CV/jingfeng.md)] <br clear="left" />
