@@ -86,11 +86,28 @@ Nunc urna nisl, dignissim id neque laoreet, finibus laoreet arcu. Integer venena
 
 <h3>Lorem Ipsum</h3>
 
-Graduate Student
+Ph.D. Student
 
 Phone: +86-010-1122334<br>Email: [lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>
 Awesome Building, Room 222
 
 <p style="color:gray">
-Nunc pharetra interdum euismod. Phasellus eget nisi nibh. Sed a ipsum quis ante dignissim vulputate non in tortor. Curabitur sodales convallis sapien sit amet accumsan. 
+Nunc pharetra interdum euismod. Phasellus eget nisi nibh. Sed a ipsum quis ante dignissim vulputate non in tortor. Curabitur sodales convallis sapien sit amet accumsan. Nulla iaculis lobortis velit in hendrerit. Proin tincidunt tortor auctor bibendum vestibulum. Phasellus mauris est, maximus eu dolor non, bibendum molestie augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 </p>
+
+
+
+<!-- ========================================================================================================================== -->
+<img align="left" width="170" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
+
+<h3>Lorem Ipsum</h3>
+
+Rotation Student
+
+Phone: +86-010-1122334<br>Email: [lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>
+Awesome Building, Room 222
+
+<p style="color:gray">
+In hac habitasse platea dictumst. Aenean facilisis metus erat, luctus sollicitudin neque mattis eu. Suspendisse commodo nunc et ligula iaculis porttitor. Duis elit turpis, egestas eu quam vitae, euismod accumsan justo. Nullam bibendum magna tortor, eget dignissim ligula eleifend quis. Curabitur eget enim ac augue mattis dapibus. Sed rhoncus tellus eu sodales commodo.
+</p>
+
