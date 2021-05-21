@@ -13,9 +13,9 @@ permalink: /contact/
 
 <p> </p>
 
+<br>
 <hr style="height:2px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
-
-<p> </p>
+<br>
 
 ## 中心简介
 
