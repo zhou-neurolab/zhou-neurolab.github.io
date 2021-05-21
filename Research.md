@@ -17,7 +17,7 @@ The research interest of the lab has coalesced around a desire to understand the
 </p>
 
 <br>
-<hr style="height:2px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
+<hr style="height:3px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
 <br>
 
 ## How do we understand the world around us? 
@@ -34,10 +34,8 @@ The neural mechanisms of cognitive maps and schemas (i.e., generalized cognitive
 * How do prior experience and knowledge guide new learning and behavior through neural representations of these models?
 * How are these neural representations and their behavioral functions altered in neuropsychiatric disease conditions, such as addiction, depression, and schizophrenia?
 
-<p> </p>
-
 <br>
-<hr style="height:2px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
+<hr style="height:3px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
 <br>
 
 ## Methodology
@@ -50,10 +48,8 @@ To answer these questions, we use an integrative approach derived from behaviora
 * Neural perturbation methods such as optogenetics and chemogenetics for causal inference.
 * Computational modeling.
 
-<p> </p>
-
 <br>
-<hr style="height:2px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
+<hr style="height:3px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
 <br>
 
 ## Beautiful units on the oscilloscope
