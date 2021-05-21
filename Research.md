@@ -17,7 +17,7 @@ The research interest of the lab has coalesced around a desire to understand the
 </p>
 
 <br>
-<hr style="height:2px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
+<hr style="height:0; border-top:0; border-right:0; border-left:0; border-bottom:2 linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
 <br>
 
 ## How do we understand the world around us? 
