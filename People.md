@@ -33,11 +33,48 @@ Lab Manager
 Phone: +86-010-1122334<br>Email: [lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>
 Awesome Building, Room 222
 
-<p style="color:gray">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper congue turpis, at commodo ipsum rhoncus eget. Maecenas imperdiet aliquet tincidunt. Etiam mattis sem a ipsum malesuada, in rhoncus lacus rhoncus. Aliquam scelerisque laoreet nibh, nec sodales nunc commodo id. Etiam efficitur sapien sit amet commodo finibus. 
-</p>
+<br>
+<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
+<br>
+
+
+<!-- ========================================================================================================================== -->
+<img align="left" width="170" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
+
+<h3>Lorem Ipsum</h3>
+
+Postdoctoral Fellow
+
+Phone: +86-010-1122334<br>Email: [lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>
+Awesome Building, Room 222
 
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
+
+
+<!-- ========================================================================================================================== -->
+<img align="left" width="170" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
+
+<h3>Lorem Ipsum</h3>
+
+Research Assistant
+
+Phone: +86-010-1122334<br>Email: [lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>
+Awesome Building, Room 222
+
+<br>
+<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
+<br>
+
+
+<!-- ========================================================================================================================== -->
+<img align="left" width="170" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
+
+<h3>Lorem Ipsum</h3>
+
+Graduate Student
+
+Phone: +86-010-1122334<br>Email: [lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>
+Awesome Building, Room 222
