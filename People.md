@@ -30,7 +30,7 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 
 Lab Manager
 
-[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 222<br>
+[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 222<br><br>
 
 <p style="color:gray">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper congue turpis, at commodo ipsum rhoncus eget. Maecenas imperdiet aliquet tincidunt. Etiam mattis sem a ipsum malesuada, in rhoncus lacus rhoncus. Aliquam scelerisque laoreet nibh, nec sodales nunc commodo id. 
@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper congue turpi
 
 Postdoctoral Fellow
 
-[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 333<br>
+[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 333<br><br>
 
 <p style="color:gray">
 Etiam efficitur sapien sit amet commodo finibus. Curabitur eu lorem aliquam, imperdiet elit pretium, semper ex. Nam fermentum lacinia tortor, ut pharetra mi. Donec a pharetra arcu. Ut vel lectus egestas, dictum sem sed, commodo ligula. Aliquam commodo eget augue at lobortis. Vivamus ac nulla ut ante vulputate volutpat et quis nisl.
@@ -67,7 +67,7 @@ Etiam efficitur sapien sit amet commodo finibus. Curabitur eu lorem aliquam, imp
 
 Research Assistant
 
-[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 444<br>
+[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 444<br><br>
 
 <p style="color:gray">
 Nunc urna nisl, dignissim id neque laoreet, finibus laoreet arcu. Integer venenatis tortor vitae ex tincidunt rutrum. Morbi molestie ex et massa vulputate, ut cursus lectus faucibus. Quisque eget consectetur ipsum. Sed mollis id orci quis condimentum. Nullam dolor sapien, sagittis at mattis eget, tempus sagittis leo. Maecenas placerat vel metus eu lobortis.
@@ -85,7 +85,7 @@ Nunc urna nisl, dignissim id neque laoreet, finibus laoreet arcu. Integer venena
 
 Ph.D. Student
 
-[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 555<br>
+[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 555<br><br>
 
 <p style="color:gray">
 Nunc pharetra interdum euismod. Phasellus eget nisi nibh. Sed a ipsum quis ante dignissim vulputate non in tortor. Curabitur sodales convallis sapien sit amet accumsan. Nulla iaculis lobortis velit in hendrerit. Proin tincidunt tortor auctor bibendum vestibulum. Phasellus mauris est, maximus eu dolor non, bibendum molestie augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -102,7 +102,7 @@ Nunc pharetra interdum euismod. Phasellus eget nisi nibh. Sed a ipsum quis ante 
 
 Rotation Student
 
-[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 666<br>
+[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 666<br><br>
 
 <p style="color:gray">
 In hac habitasse platea dictumst. Aenean facilisis metus erat, luctus sollicitudin neque mattis eu. Suspendisse commodo nunc et ligula iaculis porttitor. Duis elit turpis, egestas eu quam vitae, euismod accumsan justo. Nullam bibendum magna tortor, eget dignissim ligula eleifend quis. Curabitur eget enim ac augue mattis dapibus. Sed rhoncus tellus eu sodales commodo.
