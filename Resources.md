@@ -31,7 +31,7 @@ permalink: /resources/
  
 <br>
 
-<hr style="height:2px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
+<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
 
 <br>
 
