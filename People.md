@@ -13,7 +13,8 @@ permalink: /people/
 
 Assistant Investigator
 
-Phone: +86-010-1234567<br>Email: [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>
+Phone: +86-010-1234567<br>Email: [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
+
 [[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1-AMNoyoc62Qs/bibliography/public/?sortby=pubDate&sdirection=descending)] [[Google Scholar](https://scholar.google.com/citations?user=ZQD-fmcAAAAJ)] [[Faculty Page](http://www.cibr.ac.cn/#/science/team/detail/547)] [[C.V.](CV/jingfeng.md)] <br clear="left" />
 
 <p style="color:gray">
