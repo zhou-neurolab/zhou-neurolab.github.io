@@ -35,7 +35,7 @@ The neural mechanisms of cognitive maps and schemas (i.e., generalized cognitive
 * How are these neural representations and their behavioral functions altered in neuropsychiatric disease conditions, such as addiction, depression, and schizophrenia?
 
 <br>
-<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
+<hr style="height:0px; border:2px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
 <br>
 
 ## Methodology
@@ -49,7 +49,7 @@ To answer these questions, we use an integrative approach derived from behaviora
 * Computational modeling.
 
 <br>
-<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
+<hr style="height:0px; border:2px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))">
 <br>
 
 ## Beautiful units on the oscilloscope
