@@ -95,7 +95,9 @@ Awesome Building, Room 222
 Nunc pharetra interdum euismod. Phasellus eget nisi nibh. Sed a ipsum quis ante dignissim vulputate non in tortor. Curabitur sodales convallis sapien sit amet accumsan. Nulla iaculis lobortis velit in hendrerit. Proin tincidunt tortor auctor bibendum vestibulum. Phasellus mauris est, maximus eu dolor non, bibendum molestie augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 </p>
 
-
+<br>
+<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
+<br>
 
 <!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
