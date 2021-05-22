@@ -17,11 +17,10 @@ Principal Investigator
 [[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1-AMNoyoc62Qs/bibliography/public/?sortby=pubDate&sdirection=descending)] [[Google Scholar](https://scholar.google.com/citations?user=ZQD-fmcAAAAJ)] [[Faculty Page](http://www.cibr.ac.cn/#/science/team/detail/575)] [[C.V.](CV/jingfeng.md)]<br clear="left" />
 
 <p style="color:gray">
-2021 - present  Assistant Investigator, CIBR, Beijing
-2016 - 2021     Postdoctoral Fellow, NIH/NIDA/IRP
-2011 - 2016     Ph.D., Peking University/NIBS, Beijing
-2006 - 2010     B.S., Nankai University
-<br>
+2021 - present  Assistant Investigator, CIBR, Beijing<br>
+2016 - 2021     Postdoctoral Fellow, NIH/NIDA/IRP<br>
+2011 - 2016     Ph.D., Peking University/NIBS, Beijing<br>
+2006 - 2010     B.S., Nankai University<br>
 Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Institute on Drug Abuse Intramural Research Program (NIDA-IRP), which is a part of the National Institutes of Health (NIH). He has accepted a tenure-track faculty position at the Chinese Institute for Brain Research (CIBR), Beijing. The lab will be started in June 2021 after his visiting fellowship ends in May.
 </p>
 
