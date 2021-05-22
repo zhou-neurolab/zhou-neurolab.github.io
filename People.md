@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_head_shot.jpg" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_head_shot.jpg" />
 
 <h3>Jingfeng Zhou (周景峰), Ph.D.</h3>
 
@@ -24,7 +24,7 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
 <h3>Lorem Ipsum</h3>
 
@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper congue turpi
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
 <h3>Lorem Ipsum, Ph.D.</h3>
 
@@ -61,7 +61,7 @@ Etiam efficitur sapien sit amet commodo finibus. Curabitur eu lorem aliquam, imp
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
 <h3>Lorem Ipsum</h3>
 
@@ -79,7 +79,7 @@ Nunc urna nisl, dignissim id neque laoreet, finibus laoreet arcu. Integer venena
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
 <h3>Lorem Ipsum</h3>
 
@@ -96,7 +96,7 @@ Nunc pharetra interdum euismod. Phasellus eget nisi nibh. Sed a ipsum quis ante 
 <br>
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:30px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
 <h3>Lorem Ipsum</h3>
 
