@@ -86,6 +86,16 @@ permalink: /CV/jingfeng/
 	
 	<tr>
 		<td>2015</td>
+		<td>Merit Student, PKU</td>
+	</tr>	
+	
+	<tr>
+		<td>2015</td>
+		<td>Academic Innovation Award, PKU</td>
+	</tr>	
+	
+	<tr>
+		<td>2015</td>
 		<td>China National Scholarship</td>
 	</tr>
 
@@ -109,10 +119,6 @@ permalink: /CV/jingfeng/
 		<td>Excellent Students Award, NIBS, Beijing</td>
 	</tr>
 	
-	<tr>
-		<td>2013</td>
-		<td>Merit Student, PKU</td>
-	</tr>
 	
 	<tr>
 		<td>2013</td>
