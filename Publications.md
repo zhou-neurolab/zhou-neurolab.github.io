@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<sup>\*</sup>First authors, <sup>#</sup>Corresponding authors
+\*First authors, <sup>#</sup>Corresponding authors
 
 ## 2013—2021
 
@@ -28,15 +28,15 @@ permalink: /publications/
 
 -	Li, Y., Zhong, W., Wang, D., Feng, Q., Liu, Z., Zhou, J., Jia, C., Hu, F., Zeng, J., Guo, Q., Fu, L<sup>✉</sup>., & Luo, M<sup>#</sup>. (2016). Serotonin neurons in the dorsal raphe nucleus encode reward signals. **Nature Communications**, 7. [[PDF](/papers/2016_li_nat_commun.pdf)] [[LINK](https://www.nature.com/articles/ncomms10503)]
 
--	Guo, Q<sup>\*</sup>., Zhou, J<sup>\*</sup>., Feng, Q., Lin, R., Luo Q., Zeng S., Luo, M., & Fu, L<sup>#</sup>. (2015). Multi-channel fiber photometry for population neuronal activity recording. **Biomedical Optics Express**. 6(10), 3919-3931. [[PDF](/papers/2015_guo_boe.pdf)] [[LINK](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-6-10-3919&id=326666)]
+-	Guo, Q\*., Zhou, J\*., Feng, Q., Lin, R., Luo Q., Zeng S., Luo, M., & Fu, L<sup>#</sup>. (2015). Multi-channel fiber photometry for population neuronal activity recording. **Biomedical Optics Express**. 6(10), 3919-3931. [[PDF](/papers/2015_guo_boe.pdf)] [[LINK](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-6-10-3919&id=326666)]
 
 -	Luo M<sup>#</sup>., Zhou J., Liu Z. (2015). Reward processing by the dorsal raphe nucleus: 5-HT and beyond. **Learning and Memory**, 22: 452-460. [[PDF](/papers/2015_luo_learn_mem.pdf)] [[LINK](http://learnmem.cshlp.org/content/22/9/452)]
 
 -	Zhou, J., Jia, C., Feng, Q., Bao, J., & Luo, M<sup>#</sup>. (2015). Prospective coding of dorsal raphe reward signals by the orbitofrontal cortex. **Journal of Neuroscience**, 35(6), 2717-2730. [[PDF](/papers/2015_jneuro.pdf)] [[LINK](https://www.jneurosci.org/content/35/6/2717)]
 
--	Liu, Z<sup>\*</sup>., Zhou, J<sup>\*</sup>., Li, Y., Hu, F., Lu, Y., Ma, M., Feng, Q., Zhang, J., Wang, D., Zeng, J., Bao, J., Kim, J., Chen, Z., Mestikawy, S., & Luo, M<sup>#</sup>. (2014). Dorsal raphe neurons signal reward through 5-HT and glutamate. **Neuron**, 81(6), 1360-1374. (*F1000 recommended*) [[PDF](/papers/2014_liu_neuron.pdf)] [[LINK](https://www.cell.com/neuron/fulltext/S0896-6273(14)00108-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627314001081%3Fshowall%3Dtrue)]
+-	Liu, Z\*., Zhou, J\*., Li, Y., Hu, F., Lu, Y., Ma, M., Feng, Q., Zhang, J., Wang, D., Zeng, J., Bao, J., Kim, J., Chen, Z., Mestikawy, S., & Luo, M<sup>#</sup>. (2014). Dorsal raphe neurons signal reward through 5-HT and glutamate. **Neuron**, 81(6), 1360-1374. (*F1000 recommended*) [[PDF](/papers/2014_liu_neuron.pdf)] [[LINK](https://www.cell.com/neuron/fulltext/S0896-6273(14)00108-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627314001081%3Fshowall%3Dtrue)]
 
--	Zhan, C<sup>\*</sup><sup>#</sup>., Zhou, J<sup>\*</sup>., Feng, Q., Zhang, J. E., Lin, S., Bao, J., Wu, P., & Luo, M<sup>#</sup>. (2013). Acute and long-term suppression of feeding behavior by POMC neurons in the brainstem and hypothalamus, respectively. **Journal of Neuroscience**, 33(8), 3624-3632. (*F1000 recommended*) [[PDF](/papers/2013_zhan_jneuro.pdf)] [[LINK](https://www.jneurosci.org/content/33/8/3624)]
+-	Zhan, C\*<sup>#</sup>., Zhou, J\*., Feng, Q., Zhang, J. E., Lin, S., Bao, J., Wu, P., & Luo, M<sup>#</sup>. (2013). Acute and long-term suppression of feeding behavior by POMC neurons in the brainstem and hypothalamus, respectively. **Journal of Neuroscience**, 33(8), 3624-3632. (*F1000 recommended*) [[PDF](/papers/2013_zhan_jneuro.pdf)] [[LINK](https://www.jneurosci.org/content/33/8/3624)]
 
 <h4 style="color:gray"><br>Copyright Notice</h4> 
 <p style="color:gray">
