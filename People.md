@@ -4,6 +4,8 @@ title: People
 permalink: /people/
 ---
 
+<br>
+  
 <!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_head_shot.jpg" />
 
