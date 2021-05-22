@@ -34,7 +34,7 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 
 Lab Manager
 
-[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 222<br>
+[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 222<br clear="left" />
 </div>
 
 <p style="color:gray">
