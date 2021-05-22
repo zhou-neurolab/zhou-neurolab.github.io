@@ -26,9 +26,9 @@ permalink: /publications/
 
 -	Zhang, J., Tan, L., Ren, Y., Liang, J., Lin, R., Feng, Q., Zhou, J., Hu, F., Ren, J., Wei, C., Yu, T., Zhuang, Y., Bettler, B., Wang, F., & Luo, M<sup>#</sup>. (2016). Presynaptic excitation via GABA B receptors in habenula cholinergic neurons regulates fear memory expression. **Cell**, 166(3), 716-728. [[PDF](/papers/2016_zhang_cell.pdf)] [[LINK](https://www.sciencedirect.com/science/article/pii/S0092867416307942)]
 
--	Li, Y., Zhong, W., Wang, D., Feng, Q., Liu, Z., Zhou, J., Jia, C., Hu, F., Zeng, J., Guo, Q., Fu, L<sup>✉</sup>., & Luo, M<sup>#</sup>. (2016). Serotonin neurons in the dorsal raphe nucleus encode reward signals. **Nature Communications**, 7. [[PDF](/papers/2016_li_nat_commun.pdf)] [[LINK](https://www.nature.com/articles/ncomms10503)]
+-	Li, Y., Zhong, W., Wang, D., Feng, Q., Liu, Z., Zhou, J., Jia, C., Hu, F., Zeng, J., Guo, Q., Fu, L., & Luo, M<sup>#</sup>. (2016). Serotonin neurons in the dorsal raphe nucleus encode reward signals. **Nature Communications**, 7. [[PDF](/papers/2016_li_nat_commun.pdf)] [[LINK](https://www.nature.com/articles/ncomms10503)]
 
--	Guo, Q\*., Zhou, J\*., Feng, Q., Lin, R., Luo Q., Zeng S., Luo, M., & Fu, L<sup>#</sup>. (2015). Multi-channel fiber photometry for population neuronal activity recording. **Biomedical Optics Express**. 6(10), 3919-3931. [[PDF](/papers/2015_guo_boe.pdf)] [[LINK](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-6-10-3919&id=326666)]
+-	Guo, Q\*., Zhou, J\*., Feng, Q., Lin, R., Luo Q., Zeng S., Luo, M<sup>#</sup>., & Fu, L<sup>#</sup>. (2015). Multi-channel fiber photometry for population neuronal activity recording. **Biomedical Optics Express**. 6(10), 3919-3931. [[PDF](/papers/2015_guo_boe.pdf)] [[LINK](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-6-10-3919&id=326666)]
 
 -	Luo M<sup>#</sup>., Zhou J., Liu Z. (2015). Reward processing by the dorsal raphe nucleus: 5-HT and beyond. **Learning and Memory**, 22: 452-460. [[PDF](/papers/2015_luo_learn_mem.pdf)] [[LINK](http://learnmem.cshlp.org/content/22/9/452)]
 
