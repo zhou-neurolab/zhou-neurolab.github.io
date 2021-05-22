@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-\*Co-first authors<br>#Co-corresponding authors
+\*First authors<br><sup>✉</sup>Corresponding authors
 
 ## 2013—2021
 
