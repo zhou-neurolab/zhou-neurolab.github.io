@@ -30,11 +30,11 @@ Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Instit
 <!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
-<h3>Xinyi Sui (隋馨仪)</h3>
+<h3>Xinyi Sui (隋馨仪), M.S.</h3>
 
 Lab Manager
 
-<br><br>Awesome Building, Room 222<br clear="left" />
+[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 222<br clear="left" />
 
 <p style="color:gray">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper congue turpis, at commodo ipsum rhoncus eget. Maecenas imperdiet aliquet tincidunt. Etiam mattis sem a ipsum malesuada, in rhoncus lacus rhoncus. Aliquam scelerisque laoreet nibh, nec sodales nunc commodo id. 
