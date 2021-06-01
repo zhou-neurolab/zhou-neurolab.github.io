@@ -13,7 +13,7 @@ permalink: /people/
 
 Principal Investigator
 
-[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 111<br>
+[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Jianzan Building, Room 111<br>
 [[Google Scholar](https://scholar.google.com/citations?user=ZQD-fmcAAAAJ)] [[C.V.](CV/jingfeng.md)]<br clear="left" />
 
 <p style="color:gray">
@@ -33,10 +33,10 @@ Jingfeng Zhou has trained as a Ph.D. student at the Peking University and Nation
 
 Lab Manager
 
-[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 222<br clear="left" />
+[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Jianzan Building, Room 222<br clear="left" />
 
 <p style="color:gray">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper congue turpis, at commodo ipsum rhoncus eget. Maecenas imperdiet aliquet tincidunt. Etiam mattis sem a ipsum malesuada, in rhoncus lacus rhoncus. Aliquam scelerisque laoreet nibh, nec sodales nunc commodo id. 
+Xinyi Sui graduated from the Beijing International Studies University with a master's degree in accounting.
 </p>
 
 <br>
