@@ -27,7 +27,7 @@ Jingfeng Zhou has trained as a Ph.D. student at the Peking University and Nation
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xinyi_sui.jpg" />
 
 <h3>Xinyi Sui (隋馨仪), M.S.</h3>
 
