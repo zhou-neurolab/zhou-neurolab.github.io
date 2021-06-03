@@ -33,11 +33,9 @@ Jingfeng Zhou has trained as a Ph.D. student at the Peking University and Nation
 
 Lab Manager
 
-[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Jianzan Building, Room 222<br clear="left" />
-
 <p style="color:gray">
 Xinyi Sui graduated from the Beijing International Studies University with a master's degree in accounting.
-</p>
+</p><br clear="left" />
 
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
