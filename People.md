@@ -16,7 +16,7 @@ Principal Investigator
 [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Jianzan Building, Room 111<br>
 [[Google Scholar](https://scholar.google.com/citations?user=ZQD-fmcAAAAJ)] [Faculty Page](http://cibr.ac.cn/#/science/team/detail/575)] [[C.V.](CV/jingfeng.md)]<br clear="left" />
 
-<br>
+<p></p>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
@@ -30,7 +30,7 @@ Lab Manager
 
 Xinyi Sui graduated from the Beijing International Studies University with a master's degree in accounting.<br clear="left" />
 
-<br>
+<p></p>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
