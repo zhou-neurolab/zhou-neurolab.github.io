@@ -53,7 +53,6 @@ Postdoctoral Fellow
 Etiam efficitur sapien sit amet commodo finibus. Curabitur eu lorem aliquam, imperdiet elit pretium, semper ex. Nam fermentum lacinia tortor, ut pharetra mi. Donec a pharetra arcu. Ut vel lectus egestas, dictum sem sed, commodo ligula. Aliquam commodo eget augue at lobortis. Vivamus ac nulla ut ante vulputate volutpat et quis nisl.
 </p>
 
-<br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
@@ -72,7 +71,6 @@ Research Assistant
 Nunc urna nisl, dignissim id neque laoreet, finibus laoreet arcu. Integer venenatis tortor vitae ex tincidunt rutrum. Morbi molestie ex et massa vulputate, ut cursus lectus faucibus. Quisque eget consectetur ipsum. Sed mollis id orci quis condimentum. Nullam dolor sapien, sagittis at mattis eget, tempus sagittis leo. Maecenas placerat vel metus eu lobortis.
 </p>
 
-<br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
@@ -90,7 +88,6 @@ Ph.D. Student
 Nunc pharetra interdum euismod. Phasellus eget nisi nibh. Sed a ipsum quis ante dignissim vulputate non in tortor. Curabitur sodales convallis sapien sit amet accumsan. Nulla iaculis lobortis velit in hendrerit. Proin tincidunt tortor auctor bibendum vestibulum. Phasellus mauris est, maximus eu dolor non, bibendum molestie augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 </p>
 
-<br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
