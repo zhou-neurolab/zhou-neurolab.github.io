@@ -21,7 +21,6 @@ Principal Investigator
 Jingfeng Zhou has trained as a Ph.D. student at the Peking University and National Institute of Biological Sciences, Beijing (2011-2016), as a postdoctoral fellow at the National Institute on Drug Abuse Intramural Research Program, National Institutes of Health (2016-2021). He is now running his lab as an Assistant Investigator at the Chinese Institute for Brain Research, Beijing. 
 </p>
 
-<br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
@@ -37,7 +36,6 @@ Lab Manager
 Xinyi Sui graduated from the Beijing International Studies University with a master's degree in accounting.
 </p><br clear="left" />
 
-<br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
