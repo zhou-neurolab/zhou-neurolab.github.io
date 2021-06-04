@@ -49,9 +49,7 @@ Xinyi Sui graduated from the Beijing International Studies University with a mas
 
 Postdoctoral Fellow
 
-[lorem.ipsum@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Awesome Building, Room 333<br clear="left" />
-
 <p style="color:gray">
-Etiam efficitur sapien sit amet commodo finibus. Curabitur eu lorem aliquam, imperdiet elit pretium, semper ex. Nam fermentum lacinia tortor, ut pharetra mi. Donec a pharetra arcu. Ut vel lectus egestas, dictum sem sed, commodo ligula. Aliquam commodo eget augue at lobortis. Vivamus ac nulla ut ante vulputate volutpat et quis nisl.
-</p>
+Etiam efficitur sapien sit amet commodo finibus. Curabitur eu lorem aliquam, imperdiet elit pretium, semper ex. Nam fermentum lacinia tortor, ut pharetra mi. Donec a pharetra arcu.
+</p><br clear="left" />
 
