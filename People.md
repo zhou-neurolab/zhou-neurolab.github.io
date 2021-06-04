@@ -16,11 +16,7 @@ Principal Investigator
 [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Jianzan Building, Room 111<br>
 [[Google Scholar](https://scholar.google.com/citations?user=ZQD-fmcAAAAJ)] [Faculty Page](http://cibr.ac.cn/#/science/team/detail/575)] [[C.V.](CV/jingfeng.md)]<br clear="left" />
 
-<!--<p style="color:gray">
-Jingfeng Zhou is currently a visiting postdoctoral fellow at the National Institute on Drug Abuse Intramural Research Program (NIDA-IRP), which is a part of the National Institutes of Health (NIH). He has accepted a tenure-track faculty position at the Chinese Institute for Brain Research (CIBR), Beijing. The lab will be started in June 2021 after his visiting fellowship ends in May.
-Jingfeng Zhou has trained as a Ph.D. student at the Peking University and National Institute of Biological Sciences, Beijing (2011-2016), as a postdoctoral fellow at the National Institute on Drug Abuse Intramural Research Program, National Institutes of Health (2016-2021). He is now running his lab as an Assistant Investigator at the Chinese Institute for Brain Research, Beijing. 
-</p>-->
-
+<br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
@@ -34,6 +30,7 @@ Lab Manager
 
 Xinyi Sui graduated from the Beijing International Studies University with a master's degree in accounting.<br clear="left" />
 
+<br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
