@@ -36,11 +36,11 @@ Lab Manager
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/huixin_lin2.jpg" />
 
-<h3>Lorem Ipsum, Ph.D.</h3>
+<h3>Huixin Lin, B.S.</h3>
 
-Postdoctoral Fellow
+Rotation Student
 
-Etiam efficitur sapien sit amet commodo finibus. Curabitur eu lorem aliquam, imperdiet elit pretium, semper ex. Nam fermentum lacinia tortor, ut pharetra mi. Donec a pharetra arcu.<br clear="left" />
+Peking University.<br clear="left" />
 
