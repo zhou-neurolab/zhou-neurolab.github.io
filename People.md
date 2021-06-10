@@ -42,5 +42,5 @@ Lab Manager
 
 Rotation Student
 
-Peking University.<br clear="left" />
+Peking University<br clear="left" />
 
