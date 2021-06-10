@@ -38,7 +38,7 @@ Lab Manager
 <!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/huixin_lin2.jpg" />
 
-<h3>Huixin Lin, B.S.</h3>
+<h3>Huixin Lin（林慧欣）, B.S.</h3>
 
 Rotation Student
 
