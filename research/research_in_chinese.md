@@ -1,5 +1,5 @@
 ---
-title:
+title: 关于本实验室
 layout: page
 permalink: /research/research_in_chinese/
 ---
