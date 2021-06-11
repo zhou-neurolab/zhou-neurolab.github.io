@@ -11,6 +11,7 @@ permalink: /contact/
 ## 电子邮箱
 周景峰：[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
 
+<br>
 
 <p align="center">
   <img width="800" style="border-radius:8px; border:0px solid #6495ED" src="/assets/CIBR_pic.jpg">
