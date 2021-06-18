@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## 2013—2021
 
--	Bruch, S., McClure, P., & Zhou, J., Schoenbuam G<sup>#</sup>. & Pereira F<sup>#</sup>. (2021). Validating the representational space of deep reinforcement learning models of behavior with neural data **bioRxiv** 41, 1-9. [[PDF](/papers/2021_bioRxiv_Bruch.pdf)] [[LINK](https://www.biorxiv.org/content/10.1101/2021.06.15.448556v1.full.pdf)]
+-	Bruch, S., McClure, P., Zhou, J., Schoenbuam G<sup>#</sup>. & Pereira F<sup>#</sup>. (2021). Validating the representational space of deep reinforcement learning models of behavior with neural data **bioRxiv** 41, 1-9. [[PDF](/papers/2021_bioRxiv_Bruch.pdf)] [[LINK](https://www.biorxiv.org/content/10.1101/2021.06.15.448556v1.full.pdf)]
 
 -	Zhou, J<sup>#</sup>., Gardner, M. P., & Schoenbaum, G<sup>#</sup>. (2021). Is the core function of orbitofrontal cortex to signal values or make predictions? **Current Opinion in Behavioral Sciences** 41, 1-9. [[PDF](/papers/2021_curr_opin_behav_sci.pdf)] [[LINK](https://psyarxiv.com/nzjm9/)]
 
