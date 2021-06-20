@@ -9,7 +9,7 @@ description: Behavioral & Systems Neuroscience Laboratory
 
 # Build settings
 markdown: kramdown
-theme: architect
+theme: minima
 
 font-awesome:
   assets: true
