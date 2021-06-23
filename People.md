@@ -36,6 +36,16 @@ Lab Manager
 
 
 <!-- ========================================================================================================================== -->
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/lingwei_zhang.jpg" />
+
+<h3>Lingwei Zhang (张凌威), B.S.</h3>
+
+Research Assitant
+
+B.S. in Biological Sciences (Data Science and Technology Track), Fudan University<br clear="left" />
+
+
+<!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/huixin_lin2.jpg" />
 
 <h3>Huixin Lin (林慧欣), B.S.</h3>
