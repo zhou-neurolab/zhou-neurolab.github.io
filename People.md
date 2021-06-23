@@ -40,7 +40,7 @@ Lab Manager
 
 <h3>Lingwei Zhang (张凌威), B.S.</h3>
 
-Research Assitant
+Research Assistant
 
 B.S. in Biological Sciences (Data Science and Technology Track), Fudan University<br clear="left" />
 
