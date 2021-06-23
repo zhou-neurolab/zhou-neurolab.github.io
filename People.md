@@ -42,7 +42,7 @@ Lab Manager
 
 Research Assistant
 
-Mphil in Psychology<br>Chinese University of Hong Kong<br clear="left" />
+Mphil in Psychology<br>The Chinese University of Hong Kong<br clear="left" />
 
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
