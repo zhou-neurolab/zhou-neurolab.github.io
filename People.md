@@ -36,6 +36,20 @@ Lab Manager
 
 
 <!-- ========================================================================================================================== -->
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
+
+<h3>Aixia Song (宋爱霞), M.S.</h3>
+
+Research Assistant
+
+Mphil in Psychology<br>Chinese University of Hong Kong<br clear="left" />
+
+<br>
+<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
+<br>
+
+
+<!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/lingwei_zhang.jpg" />
 
 <h3>Lingwei Zhang (张凌威), B.S.</h3>
