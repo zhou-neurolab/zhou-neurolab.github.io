@@ -38,7 +38,7 @@ Lab Manager
 <!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
-<h3>Aixia Song (宋爱霞), M.S.</h3>
+<h3>Aixia Song (宋爱霞), Mphil</h3>
 
 Research Assistant
 
