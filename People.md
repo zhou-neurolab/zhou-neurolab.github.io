@@ -42,7 +42,7 @@ Lab Manager
 
 Research Assistant
 
-B.S. in Biological Sciences (Data Science and Technology Track), Fudan University<br clear="left" />
+B.S. in Biological Sciences (Data Science and Technology Track)<br>Fudan University<br clear="left" />
 
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
