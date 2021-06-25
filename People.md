@@ -89,5 +89,5 @@ Peking University<br clear="left" />
 
 Rotation Student
 
-Capital Normal University<br clear="left" />
+Capital Medical University<br clear="left" />
 
