@@ -85,7 +85,7 @@ Peking University<br clear="left" />
 <!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/linling_huang.png" />
 
-<h3>Linling Huang (黄林玲), B.S.</h3>
+<h3>Linling Huang (黄林铃), B.S.</h3>
 
 Rotation Student
 
