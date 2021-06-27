@@ -74,7 +74,7 @@ Mphil in Psychology<br>The Chinese University of Hong Kong<br clear="left" />
 
 Rotation Student
 
-Peking University<br clear="left" />
+Peking University & CIBR<br clear="left" />
 
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
@@ -89,5 +89,5 @@ Peking University<br clear="left" />
 
 Rotation Student
 
-Capital Medical University<br clear="left" />
+Capital Medical University & CIBR<br clear="left" />
 
