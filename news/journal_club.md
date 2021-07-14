@@ -8,7 +8,7 @@ permalink: /news/journal_club/
 <table style="width:100%" border="0">
      
 	<col style="width:15%">
-  	<col style="width:15%">
+  	<col style="width:20%">
 	<col style="width:100%">    
      
      <tr>
@@ -20,7 +20,7 @@ permalink: /news/journal_club/
      <tr>
           <td>2021/07/16</td>
           <td>Lingwei Zhang</td>
-          <td>Liu, Y., Dolan, R. J., Kurth-Nelson, Z., & Behrens, T. E. (2019). Human replay spontaneously reorganizes experience. Cell, 178(3), 640-652.<br>
+          <td>Liu, Y., Dolan, R. J., Kurth-Nelson, Z., & Behrens, T. E. (2019). Human replay spontaneously reorganizes experience. Cell, 178(3), 640-652.<br><br>
 	     Nour et al. (2021). Impaired neural replay of inferred relationships in schizophrenia. Cell.</td>
      </tr>	
 
