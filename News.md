@@ -5,4 +5,4 @@ list_title: ' '
 permalink: /news/
 ---
 
-## [Link for Journal Club](/news/journal_club/)
+## [Link for Journal Club](/news/journal_club.md)
