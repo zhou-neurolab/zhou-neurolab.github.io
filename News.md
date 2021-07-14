@@ -5,4 +5,4 @@ list_title: ' '
 permalink: /news/
 ---
 
-<h1>Journal Club</h1>
+## [Link for Journal Club](https://www.autodraw.com/)
