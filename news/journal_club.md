@@ -14,14 +14,14 @@ permalink: /news/journal_club/
      <tr>
           <td>2021/07/23</td>
           <td>Huixin Lin</td>
-          <td>Schoonover et al. (2020). Representational drift in primary olfactory cortex</td>
+          <td>Schoonover et al. (2020). Representational drift in primary olfactory cortex. Nature.</td>
      </tr>
 	
      <tr>
           <td>2021/07/16</td>
           <td>Lingwei Zhang</td>
           <td>Liu, Y., Dolan, R. J., Kurth-Nelson, Z., & Behrens, T. E. (2019). Human replay spontaneously reorganizes experience. Cell, 178(3), 640-652.<br>
-	     Nour et al. (2019). Impaired neural replay of inferred relationships in schizophrenia, Cell</td>
+	     Nour et al. (2019). Impaired neural replay of inferred relationships in schizophrenia. Cell.</td>
      </tr>	
 
      <tr>
