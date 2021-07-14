@@ -11,6 +11,14 @@ permalink: /news/journal_club/
   	<col style="width:20%">
 	<col style="width:100%">    
      
+	
+     <tr>
+          <td>2021/07/16</td>
+          <td>Lingwei Zhang</td>
+          <td>Liu, Y., Dolan, R. J., Kurth-Nelson, Z., & Behrens, T. E. (2019). Human replay spontaneously reorganizes experience. Cell, 178(3), 640-652.</td>
+     </tr>	
+	
+	
      <tr>
           <td>2021/07/09</td>
           <td>Linling Huang</td>
