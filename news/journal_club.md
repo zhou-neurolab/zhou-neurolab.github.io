@@ -23,8 +23,7 @@ permalink: /news/journal_club/
           <td>Liu, Y., Dolan, R. J., Kurth-Nelson, Z., & Behrens, T. E. (2019). Human replay spontaneously reorganizes experience. Cell, 178(3), 640-652.<br>
 	     Nour et al. (2019). Impaired neural replay of inferred relationships in schizophrenia, Cell</td>
      </tr>	
-	
-	
+
      <tr>
           <td>2021/07/09</td>
           <td>Linling Huang</td>
