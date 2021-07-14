@@ -5,4 +5,4 @@ list_title: ' '
 permalink: /news/
 ---
 
-Journal Club
+<h1>Journal Club</h1>
