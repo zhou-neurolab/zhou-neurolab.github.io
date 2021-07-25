@@ -11,6 +11,11 @@ permalink: /news/journal_club/
   	<col style="width:20%">
 	<col style="width:100%">    
      
+     <tr>
+          <td>2021/08/06</td>
+          <td>Aixia Song</td>
+          <td>Beckers, T., Miller, R. R., De Houwer, J., & Urushihara, K. (2006). Reasoning rats: forward blocking in Pavlovian animal conditioning is sensitive to constraints of causal inference. Journal of Experimental Psychology: General, 135(1), 92</td>
+     </tr>	
 	
      <tr>
           <td>2021/07/30</td>
