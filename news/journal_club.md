@@ -11,6 +11,13 @@ permalink: /news/journal_club/
   	<col style="width:20%">
 	<col style="width:100%">    
      
+	
+     <tr>
+          <td>2021/07/30</td>
+          <td>Aixia Song</td>
+          <td>Libby, A., & Buschman, T. J. (2021). Rotational dynamics reduce interference between sensory and memory representations. Nature neuroscience, 24(5), 715-726.</td>
+     </tr>	
+	
      <tr>
           <td>2021/07/23</td>
           <td>Huixin Lin</td>
