@@ -16,7 +16,8 @@ permalink: /news/journal_club/
      <tr>
           <td>2021/08/06</td>
           <td>LinLing Huang</td>
-          <td>Reinert, S., Hübener, M., Bonhoeffer, T., & Goltstein, P. M. (2021). Mouse prefrontal cortex represents learned rules for categorization. Nature, 593(7859), 411-417.</td>
+          <td>Reinert, S., Hübener, M., Bonhoeffer, T., & Goltstein, P. M. (2021). Mouse prefrontal cortex represents learned rules for categorization. Nature, 593(7859), 411-417.<br><br>Beckers, T., Miller, R. R., De Houwer, J., & Urushihara, K. (2006). Reasoning rats: forward blocking in Pavlovian animal conditioning is sensitive to constraints of causal inference. Journal of Experimental Psychology: General, 135(1), 92.</td>
+	     
      </tr>	
 	
      <tr>
