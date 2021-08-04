@@ -64,6 +64,11 @@ permalink: /CV/jingfeng/
 	
 	<col style="width:15%">
 	<col style="width:100%">
+	
+	<tr>
+		<td>2021–</td>
+		<td>Intramural funding by Chinese Institute for Brain Research, Beijing</td>
+	</tr>	
 
 	<tr>
 		<td>2020–2021</td>
