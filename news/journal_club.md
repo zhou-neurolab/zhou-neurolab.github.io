@@ -10,7 +10,15 @@ permalink: /news/journal_club/
 	<col style="width:15%">
   	<col style="width:20%">
 	<col style="width:100%">    
- 
+
+     <tr>
+          <td>2021/08/20</td>
+          <td>Lingwei Zhang</td>
+          <td>Nieh, E. H., Schottdorf, M., Freeman, N. W., Low, R. J., Lewallen, S., Koay, S. A., ... & Tank, D. W. (2021). Geometry of abstract learned knowledge in the hippocampus. Nature, 1-5.</td>
+	     
+     </tr>	
+	
+	
      <tr>
           <td>2021/08/13</td>
           <td>Fengjun Ma</td>
