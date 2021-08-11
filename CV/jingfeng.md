@@ -193,6 +193,11 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 	
 	<tr>
 		<td>2021</td>
+		<td>CIBR-CLS-IDG Summer Camp</td>
+	</tr>
+	
+	<tr>
+		<td>2021</td>
 		<td>NIDA Fellows Research Lunch Meeting</td>
 	</tr>	
 
