@@ -13,7 +13,7 @@ permalink: /news/journal_club/
 
 	
      <tr>
-          <td>2021/08/20</td>
+          <td>2021/08/27</td>
           <td>Huixin Lin</td>
           <td>Retrosplenial Cortex</td>
 	     
