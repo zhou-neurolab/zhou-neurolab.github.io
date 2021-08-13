@@ -11,6 +11,15 @@ permalink: /news/journal_club/
   	<col style="width:20%">
 	<col style="width:100%">    
 
+	
+     <tr>
+          <td>2021/08/20</td>
+          <td>Huixin Lin</td>
+          <td>Retrosplenial Cortex</td>
+	     
+     </tr>
+	
+	
      <tr>
           <td>2021/08/20</td>
           <td>Lingwei Zhang</td>
