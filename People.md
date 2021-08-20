@@ -13,7 +13,7 @@ permalink: /people/
 
 Principal Investigator
 
-[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Jianzan Building South - Floor 2<br>
+[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>South Area - Floor 2<br>
 [[Google Scholar](https://scholar.google.com/citations?user=ZQD-fmcAAAAJ)] [Faculty Page](http://cibr.ac.cn/#/science/team/detail/575)] [[C.V.](CV/jingfeng.md)]<br clear="left" />
 
 <br>
@@ -28,7 +28,7 @@ Principal Investigator
 
 Lab Manager
 
-[suixinyi@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Jianzan Building, Room 1008<br clear="left" />
+[suixinyi@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>South Area - Floor 2<br clear="left" />
 
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
