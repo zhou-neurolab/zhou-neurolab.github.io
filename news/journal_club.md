@@ -13,7 +13,7 @@ permalink: /news/journal_club/
 
 	
      <tr>
-          <td>2021/08/27</td>
+          <td>2021/08/26</td>
           <td>Huixin Lin</td>
           <td>Retrosplenial Cortex</td>
 	     
@@ -21,7 +21,7 @@ permalink: /news/journal_club/
 	
 	
      <tr>
-          <td>2021/08/20</td>
+          <td>2021/08/23</td>
           <td>Lingwei Zhang</td>
           <td>Nieh, E. H., Schottdorf, M., Freeman, N. W., Low, R. J., Lewallen, S., Koay, S. A., ... & Tank, D. W. (2021). Geometry of abstract learned knowledge in the hippocampus. Nature, 1-5.</td>
 	     
