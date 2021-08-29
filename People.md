@@ -105,6 +105,22 @@ Peking University & CIBR<br clear="left" />
 Rotation Student
 
 China Agricultural University & CIBR<br clear="left" />
+
+
+<br>
+<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
+<br>
+
+
+
+<!-- ========================================================================================================================== -->
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/hui_zheng.jpg" />
+
+<h3>Hui Zheng (郑晖), B.S.</h3>
+
+Rotation Student
+
+Peking University & CIBR<br clear="left" />
  
 
 
