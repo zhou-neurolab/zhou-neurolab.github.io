@@ -19,7 +19,7 @@ permalink: /resources/
 
 * [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3): Color advice for maps.<br>
 * [Color Schemes](https://observablehq.com/@d3/color-schemes) including every ColorBrewer scale.
-* [Cubehelix' Colour Scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) Dave Green's 'cubehelix' coloor scheme.
+* [Cubehelix' Color Scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) Dave Green's 'cubehelix' coloor scheme.
 
 <h4 style="color:gray">Writing and Speaking</h4>
 
