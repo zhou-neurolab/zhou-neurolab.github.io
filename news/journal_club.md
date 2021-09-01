@@ -11,6 +11,12 @@ permalink: /news/journal_club/
   	<col style="width:20%">
 	<col style="width:100%">    
 
+     <tr>
+          <td>2021/09/03<br>15:00</td>
+          <td>Yu Wang<br>Tsinghua U</td>
+          <td>Wang Y., Yin X., Zhang Z., Li J., Zhao W. & Guo Z., (2021) A cortico-basal ganglia-thalamo-cortical channel underlying short-term memory. Neuron, 109, 1-14.</td>
+	     
+     </tr>
 	
      <tr>
           <td>2021/08/26</td>
