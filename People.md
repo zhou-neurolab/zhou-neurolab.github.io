@@ -134,7 +134,7 @@ China Agricultural University & CIBR<br clear="left" />
 Rotation Student
 
 Peking University & CIBR<br>
-[[C.V.](https://fassial.moe/cv/)]<br clear="left" />
+[[Personal Page](https://fassial.moe/)]<br clear="left" />
  
 
 
