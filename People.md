@@ -42,7 +42,8 @@ Lab Manager
 
 Postdoctoral Fellow
 
-Ph.D. in Neuroscience<br>Tsinghua University<br clear="left" />
+Ph.D. in Neuroscience<br>Tsinghua University<br>
+[[Google Scholar](https://scholar.google.com/citations?hl=en&user=GvCpmTfyodUC)]<br clear="left" />
 
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
