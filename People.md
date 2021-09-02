@@ -132,7 +132,8 @@ China Agricultural University & CIBR<br clear="left" />
 
 Rotation Student
 
-Peking University & CIBR<br clear="left" />
+Peking University & CIBR
+[[C.V.](https://fassial.moe/cv/)]<br clear="left" />
  
 
 
