@@ -36,7 +36,7 @@ Lab Manager
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/lingwei_zhang.jpg" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/avatar.png" />
 
 <h3>Jiawei Zeng (曾佳为), Ph.D.</h3>
 
