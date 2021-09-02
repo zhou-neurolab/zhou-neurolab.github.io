@@ -35,6 +35,18 @@ Lab Manager
 <br>
 
 
+<!-- ========================================================================================================================== -->
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/lingwei_zhang.jpg" />
+
+<h3>Jiawei Zeng (曾佳为), Ph.D.</h3>
+
+Postdoctoral Fellow
+
+Ph.D. in Neuroscience<br>Tsinghua University<br clear="left" />
+
+<br>
+<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
+<br>
 
 
 <!-- ========================================================================================================================== -->
