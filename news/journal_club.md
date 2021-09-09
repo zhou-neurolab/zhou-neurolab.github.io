@@ -12,6 +12,13 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
+          <td>2021/09/10<br>3:00 pm</td>
+          <td>Jiawei Zeng</td>
+          <td>Beckers, T., Miller, R. R., De Houwer, J., & Urushihara, K. (2006). Reasoning rats: forward blocking in Pavlovian animal conditioning is sensitive to constraints of causal inference. Journal of Experimental Psychology: General, 135(1), 92.</td>
+	     
+     </tr>	
+	
+     <tr>
           <td>2021/09/07<br>1:00 pm</td>
           <td>Yu Wang<br>@Tsinghua U</td>
           <td>Wang Y., Yin X., Zhang Z., Li J., Zhao W. & Guo Z., (2021). A cortico-basal ganglia-thalamo-cortical channel underlying short-term memory. Neuron, 109, 1-14.</td>
@@ -45,7 +52,7 @@ permalink: /news/journal_club/
      <tr>
           <td>2021/08/05</td>
           <td>LinLing Huang</td>
-          <td>Reinert, S., Hübener, M., Bonhoeffer, T., & Goltstein, P. M. (2021). Mouse prefrontal cortex represents learned rules for categorization. Nature, 593(7859), 411-417.<br><br>Beckers, T., Miller, R. R., De Houwer, J., & Urushihara, K. (2006). Reasoning rats: forward blocking in Pavlovian animal conditioning is sensitive to constraints of causal inference. Journal of Experimental Psychology: General, 135(1), 92.</td>
+          <td>Reinert, S., Hübener, M., Bonhoeffer, T., & Goltstein, P. M. (2021). Mouse prefrontal cortex represents learned rules for categorization. Nature, 593(7859), 411-417.</td>
 	     
      </tr>	
 	
