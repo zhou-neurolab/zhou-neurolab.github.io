@@ -12,6 +12,13 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
+          <td>2021/09/24<br>9:00 pm</td>
+          <td>Hui Zheng</td>
+          <td>Gao, P., Trautmann, E., Yu, B., Santhanam, G., Ryu, S., Shenoy, K., & Ganguli, S. (2017). A theory of multineuronal dimensionality, dynamics and measurement. BioRxiv, 214262.</td>
+	     
+     </tr>		
+	
+     <tr>
           <td>2021/09/10<br>3:00 pm</td>
           <td>Jiawei Zeng</td>
           <td>Beckers, T., Miller, R. R., De Houwer, J., & Urushihara, K. (2006). Reasoning rats: forward blocking in Pavlovian animal conditioning is sensitive to constraints of causal inference. Journal of Experimental Psychology: General, 135(1), 92.</td>
