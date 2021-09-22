@@ -146,7 +146,7 @@ Peking University & CIBR<br>
 <!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/qianru_zhang.jpg" />
 
-<h3>Qianru Zhang (张倩如), B.S.</h3>
+<h3>Qianru Zhang (张倩如), M.S.</h3>
 
 Rotation Student
 
