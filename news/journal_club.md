@@ -12,7 +12,7 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
-          <td>2021/09/24<br>9:00 am</td>
+          <td>2021/09/26<br>3:00 pm</td>
           <td>Hui Zheng</td>
           <td>Gao, P., Trautmann, E., Yu, B., Santhanam, G., Ryu, S., Shenoy, K., & Ganguli, S. (2017). A theory of multineuronal dimensionality, dynamics and measurement. BioRxiv, 214262.</td>
 	     
