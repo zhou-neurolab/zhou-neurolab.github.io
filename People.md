@@ -150,7 +150,7 @@ Peking University & CIBR<br>
 
 Rotation Student
 
-Capital Medical University & CIBR<br>
+Capital Medical University & CIBR<br clear="left" />
 
 
 
