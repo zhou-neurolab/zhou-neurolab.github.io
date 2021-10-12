@@ -161,7 +161,7 @@ Capital Medical University & CIBR<br>
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xiao_yang.jpg" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xiao_yang.png" />
 
 <h3>Xiao Yang (杨笑), B.S.</h3>
 
