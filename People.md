@@ -80,7 +80,7 @@ Mphil in Psychology<br>The Chinese University of Hong Kong<br clear="left" />
 
 
 
-<!-- ========================================================================================================================== -->
+<!-- ========================================================================================================================== 
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/linling_huang.png" />
 
 <h3>Linling Huang (黄林铃), B.S.</h3>
@@ -92,7 +92,7 @@ Capital Medical University & CIBR<br clear="left" />
 
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
-<br>
+<br> -->
 
 
 <!-- ========================================================================================================================== 
