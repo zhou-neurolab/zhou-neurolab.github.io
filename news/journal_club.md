@@ -12,6 +12,13 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
+          <td>2021/10/15<br>1:00 pm</td>
+          <td>Qianru Zhang</td>
+          <td>Lee, J. Y., Jun, H., Soma, S., Nakazono, T., Shiraiwa, K., Dasgupta, A., ... & Igarashi, K. M. (2021). Dopamine facilitates associative memory encoding in the entorhinal cortex. Nature, 1-6.</td>
+	     
+     </tr>	
+	
+     <tr>
           <td>2021/09/26<br>3:00 pm</td>
           <td>Hui Zheng</td>
           <td>Gao, P., Trautmann, E., Yu, B., Santhanam, G., Ryu, S., Shenoy, K., & Ganguli, S. (2017). A theory of multineuronal dimensionality, dynamics and measurement. BioRxiv, 214262.</td>
