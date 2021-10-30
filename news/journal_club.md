@@ -12,6 +12,13 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
+          <td>2021/10/29<br>1:00 pm</td>
+          <td>Xiao Yang</td>
+          <td>Time cells</td>  
+     </tr>	
+	
+	
+     <tr>
           <td>2021/10/15<br>1:00 pm</td>
           <td>Qianru Zhang</td>
           <td>Lee, J. Y., Jun, H., Soma, S., Nakazono, T., Shiraiwa, K., Dasgupta, A., ... & Igarashi, K. M. (2021). Dopamine facilitates associative memory encoding in the entorhinal cortex. Nature, 1-6.</td>
