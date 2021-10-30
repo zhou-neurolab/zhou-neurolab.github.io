@@ -14,7 +14,7 @@ permalink: /news/journal_club/
      <tr>
           <td>2021/10/29<br>1:00 pm</td>
           <td>Xiao Yang</td>
-          <td>Time cells</td>  
+          <td>Time perception and temporal cognition</td>  
      </tr>	
 	
 	
