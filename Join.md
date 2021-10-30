@@ -21,3 +21,16 @@ Our lab is actively seeking postdoctoral fellows and research assistants. Please
   </p>
   
 </figure>
+
+
+<figure>
+
+  <p align="center">
+   <a href="http://www.cibr.ac.cn/">
+    <img width="800" style="border-radius:8px; border:0px solid #6495ED" src="/assets/ZGC_life_sci_park1.jpg">
+    <figcaption>Jingsi Lake, ZGC Life Science Park</figcaption>
+   </a>
+  </p>
+  
+</figure>
+
