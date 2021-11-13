@@ -12,6 +12,12 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
+          <td>2021/11/12<br>1:00 pm</td>
+          <td>Aixia Song</td>
+          <td>Basu, R., Gebauer, R., Herfurth, T., Kolb, S., Golipour, Z., Tchumatchenko, T., & Ito, H. T. (2021). The orbitofrontal cortex maps future navigational goals. Nature, 1-4.</td>  
+     </tr>	
+	
+     <tr>
           <td>2021/10/29<br>1:00 pm</td>
           <td>Xiao Yang</td>
           <td>Time perception and temporal cognition</td>  
