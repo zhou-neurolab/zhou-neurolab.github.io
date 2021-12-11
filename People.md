@@ -79,22 +79,6 @@ Mphil in Psychology<br>The Chinese University of Hong Kong<br clear="left" />
 <br>
 
 
-
-<!-- ========================================================================================================================== 
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/linling_huang.png" />
-
-<h3>Linling Huang (黄林铃), B.S.</h3>
-
-Rotation Student
-
-Capital Medical University & CIBR<br clear="left" />
-
-
-<br>
-<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
-<br> -->
-
-
 <!-- ========================================================================================================================== 
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/huixin_lin2.jpg" />
 
@@ -126,7 +110,7 @@ China Agricultural University & CIBR<br clear="left" />
 
 
 
-<!-- ========================================================================================================================== -->
+<!-- ========================================================================================================================== 
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/hui_zheng.jpg" />
 
 <h3>Hui Zheng (郑晖), B.S.</h3>
@@ -139,11 +123,11 @@ Peking University & CIBR<br>
 
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
-<br>
+<br> -->
 
 
 
-<!-- ========================================================================================================================== -->
+<!-- ========================================================================================================================== 
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/qianru_zhang.jpg" />
 
 <h3>Qianru Zhang (张倩如), M.S.</h3>
@@ -156,15 +140,30 @@ Capital Medical University & CIBR<br clear="left" />
 
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
-<br>
+<br> -->
 
 
 
-<!-- ========================================================================================================================== -->
+<!-- ========================================================================================================================== 
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xiao_yang.png" />
 
 <h3>Xiao Yang (杨笑), B.S.</h3>
 
 Rotation Student
 
-Peking University & CIBR<br>
+Peking University & CIBR<br> -->
+
+
+<br>
+<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
+<br> 
+
+<!-- ========================================================================================================================== -->
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/ke_li.png" />
+
+<h3>Ke Li (李可), B.S.</h3>
+
+Rotation Student
+
+Capital Medical University & CIBR<br> 
+
