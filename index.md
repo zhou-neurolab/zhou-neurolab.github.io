@@ -8,7 +8,7 @@ layout: page
   </a>
 </p>
   
-Welcome to the Zhou Lab of Behavioral and Systems Neuroscience at the [Chinese Institute for Brain Research (CIBR), Beijing](http://cibr.ac.cn/#/). We study neural circuit mechanisms of animal associative learning and decision-making behavior. On this website, you can get to know [who we are](People.md) and [what we do](Research.md), check out the [publications](Publications.md) and [news](News.md) for the latest updates, or explore useful [resources](Resources.md), [fun stuff](Fun.md), and possible [positions](Join.md) in the lab.
+Welcome to the Zhou Lab of Behavioral and Systems Neuroscience at the [Chinese Institute for Brain Research (CIBR), Beijing](http://cibr.ac.cn/#/). We study how brain cell activity controls associative learning and decision-making in rats and mice, with a strong belief that our research in rodents provides vital insight into how the human brain operates. On this website, you can get to know [who we are](People.md) and [what we do](Research.md), check out the [publications](Publications.md) and [news](News.md) for the latest updates, or explore useful [resources](Resources.md), [fun stuff](Fun.md), and possible [positions](Join.md) in the lab.
 
 <!--
 <p style="color:gray; font-family:Arial; display:inline-block; font-weight:bold; font-size: 20px;text-shadow: #A3A3A3 1px 1px 0px">
