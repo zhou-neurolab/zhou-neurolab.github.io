@@ -8,10 +8,9 @@ permalink: /people/
   
   
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_zhou.jpg" />
-
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_zhou.jpg" /><br>
 <h3>Jingfeng Zhou (周景峰), Ph.D.</h3>
-Principal Investigator<br>
+Principal Investigator<br><br>
 [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Jianzan Building South - Floor 2<br>
 [[Google Scholar](https://scholar.google.com/citations?user=ZQD-fmcAAAAJ)] [[Faculty Page](http://cibr.ac.cn/science/team/detail/575)] [[C.V.](CV/jingfeng.md)]<br clear="left" />
 <br>
@@ -22,9 +21,9 @@ Principal Investigator<br>
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xinyi_sui.jpg" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xinyi_sui.jpg" /><br>
 <h3>Xinyi Sui (隋馨仪), M.S.</h3>
-Lab Manager<br>
+Lab Manager<br><br>
 [suixinyi@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Jianzan Building South - Floor 2<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
@@ -34,9 +33,9 @@ Lab Manager<br>
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jiawei_zeng.jpg" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jiawei_zeng.jpg" /><br>
 <h3>Jiawei Zeng (曾佳为), Ph.D.</h3>
-Postdoctoral Fellow<br>
+Postdoctoral Fellow<br><br>
 Ph.D. in Neuroscience<br>Tsinghua University<br>
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=GvCpmTfyodUC)]<br clear="left" />
 <br>
@@ -47,9 +46,9 @@ Ph.D. in Neuroscience<br>Tsinghua University<br>
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/lingwei_zhang.jpg" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/lingwei_zhang.jpg" /><br>
 <h3>Lingwei Zhang (张凌威), B.S.</h3>
-Research Assistant<br>
+Research Assistant<br><br>
 B.S. in Biological Sciences (Data Science and Technology Track)<br>Fudan University<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
@@ -59,9 +58,9 @@ B.S. in Biological Sciences (Data Science and Technology Track)<br>Fudan Univers
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/aixia_song2.png" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/aixia_song2.png" /><br>
 <h3>Aixia Song (宋爱霞), Mphil</h3>
-Research Assistant<br>
+Research Assistant<br><br>
 Mphil in Psychology<br>The Chinese University of Hong Kong<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
@@ -71,9 +70,9 @@ Mphil in Psychology<br>The Chinese University of Hong Kong<br clear="left" />
 
 
 <!-- ========================================================================================================================== 
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/huixin_lin2.jpg" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/huixin_lin2.jpg" /><br>
 <h3>Huixin Lin (林慧欣), B.S.</h3>
-Rotation Student<br>
+Rotation Student<br><br>
 Peking University & CIBR<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
@@ -83,9 +82,9 @@ Peking University & CIBR<br clear="left" />
 
 
 <!-- ========================================================================================================================== 
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/fengjun_ma.jpg" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/fengjun_ma.jpg" /><br>
 <h3>Fengjun Ma (马凤君), M.S.</h3>
-Rotation Student<br>
+Rotation Student<br><br>
 China Agricultural University & CIBR<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
@@ -95,9 +94,9 @@ China Agricultural University & CIBR<br clear="left" />
 
 
 <!-- ========================================================================================================================== 
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/hui_zheng.jpg" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/hui_zheng.jpg" /><br>
 <h3>Hui Zheng (郑晖), B.S.</h3>
-Rotation Student<br>
+Rotation Student<br><br>
 Peking University & CIBR<br>
 [[Personal Page](https://fassial.moe/)]<br clear="left" />
 <br>
@@ -108,9 +107,9 @@ Peking University & CIBR<br>
 
 
 <!-- ========================================================================================================================== 
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/qianru_zhang.jpg" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/qianru_zhang.jpg" /><br>
 <h3>Qianru Zhang (张倩如), M.S.</h3>
-Rotation Student<br>
+Rotation Student<br><br>
 Capital Medical University & CIBR<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
@@ -120,9 +119,9 @@ Capital Medical University & CIBR<br clear="left" />
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xiao_yang.png" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xiao_yang.png" /><br>
 <h3>Xiao Yang (杨笑), B.S.</h3>
-Rotation Student<br>
+Rotation Student<br><br>
 Peking University & CIBR<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
@@ -132,7 +131,7 @@ Peking University & CIBR<br clear="left" />
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/ke_li.png" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/ke_li.png" /><br>
 <h3>Ke Li (李可), B.S.</h3>
-Rotation Student<br>
+Rotation Student<br><br>
 Capital Medical University & CIBR<br clear="left" />
