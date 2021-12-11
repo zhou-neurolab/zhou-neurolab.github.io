@@ -131,13 +131,8 @@ Peking University & CIBR<br>
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/qianru_zhang.jpg" />
 
 <h3>Qianru Zhang (张倩如), M.S.</h3>
-
 Rotation Student
-
 Capital Medical University & CIBR<br clear="left" />
-
-
-
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br> -->
@@ -146,23 +141,17 @@ Capital Medical University & CIBR<br clear="left" />
 
 <!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xiao_yang.png" />
-
 <h3>Xiao Yang (杨笑), B.S.</h3>
-
 Rotation Student
-
-Peking University & CIBR<br> 
-
+Peking University & CIBR<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br> 
 
+
+
 <!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/ke_li.png" />
-
 <h3>Ke Li (李可), B.S.</h3>
-
 Rotation Student
-
-Capital Medical University & CIBR<br> 
-
+Capital Medical University & CIBR<br clear="left" />
