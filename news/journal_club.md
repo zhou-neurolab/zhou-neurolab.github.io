@@ -23,6 +23,12 @@ permalink: /news/journal_club/
           <td>Ke Li</td>
           <td>Chung, A., Jou, C., Grau-Perales, A., Levy, E. R., Dvorak, D., Hussain, N., & Fenton, A. A. (2021). Cognitive control persistently enhances hippocampal information processing. Nature, 1-5.</td>  
      </tr>		
+
+     <tr>
+          <td>2021/11/26<br>1:00 pm</td>
+          <td>Lingwei Zhang</td>
+          <td>An introduction of animal associative learning theories.</td>  
+     </tr>		
 	
      <tr>
           <td>2021/11/12<br>1:00 pm</td>
