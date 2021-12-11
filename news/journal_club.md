@@ -11,6 +11,19 @@ permalink: /news/journal_club/
   	<col style="width:20%">
 	<col style="width:100%">    
 
+	
+     <tr>
+          <td>2021/12/10<br>9:30 pm</td>
+          <td>Jiawei Zeng</td>
+          <td>Ballesta, S., Shi, W., Conen, K. E., & Padoa-Schioppa, C. (2020). Values encoded in orbitofrontal cortex are causally related to economic choices. Nature, 588(7838), 450-453.</td>  
+     </tr>		
+	
+     <tr>
+          <td>2021/12/06<br>1:00 pm</td>
+          <td>Ke Li</td>
+          <td>Chung, A., Jou, C., Grau-Perales, A., Levy, E. R., Dvorak, D., Hussain, N., & Fenton, A. A. (2021). Cognitive control persistently enhances hippocampal information processing. Nature, 1-5.</td>  
+     </tr>		
+	
      <tr>
           <td>2021/11/12<br>1:00 pm</td>
           <td>Aixia Song</td>
