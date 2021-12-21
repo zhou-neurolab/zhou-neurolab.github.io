@@ -69,26 +69,26 @@ Mphil in Psychology<br>The Chinese University of Hong Kong<br clear="left" />
 
 
 
-<!-- ========================================================================================================================== 
+<!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/huixin_lin2.jpg" />
 <h3>Huixin Lin (林慧欣), B.S.</h3>
 Rotation Student<br><br>
 Peking University & CIBR<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
-<br> -->
+<br>
 
 
 
 
-<!-- ========================================================================================================================== 
+<!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/fengjun_ma.jpg" />
 <h3>Fengjun Ma (马凤君), M.S.</h3>
 Rotation Student<br><br>
 China Agricultural University & CIBR<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
-<br> -->
+<br>
 
 
 
@@ -106,14 +106,14 @@ Peking University & CIBR<br>
 
 
 
-<!-- ========================================================================================================================== 
+<!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/qianru_zhang.jpg" />
 <h3>Qianru Zhang (张倩如), M.S.</h3>
 Rotation Student<br><br>
 Capital Medical University & CIBR<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
-<br> -->
+<br> 
 
 
 
@@ -127,11 +127,3 @@ Peking University & CIBR<br clear="left" />
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br> 
 
-
-
-
-<!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/ke_li.png" />
-<h3>Ke Li (李可), B.S.</h3>
-Rotation Student<br><br>
-Capital Medical University & CIBR<br clear="left" />
