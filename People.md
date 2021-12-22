@@ -123,7 +123,3 @@ Capital Medical University & CIBR<br clear="left" />
 <h3>Xiao Yang (杨笑), B.S.</h3>
 Rotation Student<br><br>
 Peking University & CIBR<br clear="left" />
-<br>
-<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
-<br> 
-
