@@ -109,7 +109,7 @@ Peking University & CIBR<br>
 <!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/qianru_zhang.jpg" />
 <h3>Qianru Zhang (张倩如), M.S.</h3>
-Rotation Student<br><br>
+Ph.D. Student<br><br>
 Capital Medical University & CIBR<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
