@@ -11,9 +11,14 @@ permalink: /news/journal_club/
   	<col style="width:20%">
 	<col style="width:100%">    
 
+     <tr>
+          <td>2021/12/31<br>9:30 am</td>
+          <td>Mingyu Song@Princeton</td>
+          <td>Minimal cross-trial generalization in learning the representation of an odor-guided choice task</td>  
+     </tr>
 	
      <tr>
-          <td>2021/12/10<br>9:30 pm</td>
+          <td>2021/12/10<br>9:30 am</td>
           <td>Jiawei Zeng</td>
           <td>Ballesta, S., Shi, W., Conen, K. E., & Padoa-Schioppa, C. (2020). Values encoded in orbitofrontal cortex are causally related to economic choices. Nature, 588(7838), 450-453.</td>  
      </tr>		
