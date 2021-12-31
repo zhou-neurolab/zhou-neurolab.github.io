@@ -13,7 +13,7 @@ permalink: /news/journal_club/
 
      <tr>
           <td>2021/12/31<br>9:30 am</td>
-          <td>Mingyu Song@Princeton</td>
+          <td>Mingyu Song<br>@Princeton</td>
           <td>Minimal cross-trial generalization in learning the representation of an odor-guided choice task</td>  
      </tr>
 	
