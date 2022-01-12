@@ -4,18 +4,18 @@ title: Resources
 permalink: /resources/
 ---
 
-## Useful Links for Lab Members at CIBR
+## Useful Links for Lab Members
 
 <h4 style="color:gray">CIBR Core Facilities</h4> 
 
-* Imaging Facility [LINK](https://imaging.cibr.ac.cn/index.php)<br>
-* Instrumentation Core [LINK](https://instrumentation.cibr.ac.cn/index.php/Index/index)
-* Vector Core [LINK](http://vector.cibr.ac.cn/)
-* Animal Resources Center [LINK](http://laboratory-animal-resource-center.cibr.ac.cn/)
-* HPC Core Facility [LINK](http://translational-medicine-center.cibr.ac.cn/)
-* Genomics Center [LINK](http://genomics.cibr.ac.cn/)
-* Genetic Manipulation Core [LINK](http://genetic-manipulation.cibr.ac.cn/)
-* Translational Medicine Center [LINK](http://translational-medicine-center.cibr.ac.cn/)
+* Imaging Facility [[LINK](https://imaging.cibr.ac.cn/index.php)]
+* Instrumentation Core [[LINK](https://instrumentation.cibr.ac.cn/index.php/Index/index)]
+* Vector Core [[LINK](http://vector.cibr.ac.cn/)]
+* Animal Resources Center [[LINK](http://laboratory-animal-resource-center.cibr.ac.cn/)]
+* HPC Core Facility [[LINK](http://translational-medicine-center.cibr.ac.cn/)]
+* Genomics Center [[LINK](http://genomics.cibr.ac.cn/)]
+* Genetic Manipulation Core [[LINK](http://genetic-manipulation.cibr.ac.cn/)]
+* Translational Medicine Center [[LINK](http://translational-medicine-center.cibr.ac.cn/)]
 
 ## Other Useful Links
 
