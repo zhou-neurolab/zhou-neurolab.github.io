@@ -12,7 +12,7 @@ permalink: /resources/
 * Instrumentation Core [[LINK](https://instrumentation.cibr.ac.cn/index.php/Index/index)]
 * Vector Core [[LINK](http://vector.cibr.ac.cn/)]
 * Animal Resources Center [[LINK](http://laboratory-animal-resource-center.cibr.ac.cn/)]
-* HPC Core Facility [[LINK](http://translational-medicine-center.cibr.ac.cn/)]
+* HPC Core Facility [[LINK](http://hpc.cibr.ac.cn/)]
 * Genomics Center [[LINK](http://genomics.cibr.ac.cn/)]
 * Genetic Manipulation Core [[LINK](http://genetic-manipulation.cibr.ac.cn/)]
 * Translational Medicine Center [[LINK](http://translational-medicine-center.cibr.ac.cn/)]
