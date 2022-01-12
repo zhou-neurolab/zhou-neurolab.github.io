@@ -17,6 +17,10 @@ permalink: /resources/
 * Genetic Manipulation Core [[LINK](http://genetic-manipulation.cibr.ac.cn/)]
 * Translational Medicine Center [[LINK](http://translational-medicine-center.cibr.ac.cn/)]
 
+<br>
+<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
+<br>
+
 ## Other Useful Links
 
 <h4 style="color:gray">Drawing</h4> 
