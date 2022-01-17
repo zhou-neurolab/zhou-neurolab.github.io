@@ -8,10 +8,10 @@ permalink: /resources/
 
 <h4 style="color:gray">Lab Business</h4>
 
-* Lab Order Form [[LINK](http://10.10.11.87:5000/oo/r/mL3ReGEKkjcNS4hgDJ0GNRTrmV1sMxC2)]
-* Meeting Schedule [[LINK](http://10.10.11.87:5000/oo/r/n6xzmGOpHmmyVQcDqCGaksTnHBCeRH5g)]
-* Materials [[LINK](http://10.10.11.87:5000/oo/r/mL51lpWqq2eJD5ql93jeJVpgkDWM8elc#tid=1)]
-* Protocols [[LINK](http://10.10.11.87:5000/?launchApp=SYNO.SDS.Drive.Application#file_id=654372106089311793)]
+* Lab Order Form [[INTRANET LINK](http://10.10.11.87:5000/oo/r/mL3ReGEKkjcNS4hgDJ0GNRTrmV1sMxC2)]
+* Meeting Schedule [[INTRANET LINK](http://10.10.11.87:5000/oo/r/n6xzmGOpHmmyVQcDqCGaksTnHBCeRH5g)]
+* Materials [[INTRANET LINK](http://10.10.11.87:5000/oo/r/mL51lpWqq2eJD5ql93jeJVpgkDWM8elc#tid=1)]
+* Protocols [[INTRANET LINK](http://10.10.11.87:5000/?launchApp=SYNO.SDS.Drive.Application#file_id=654372106089311793)]
 
 <h4 style="color:gray">CIBR Core Facility Services</h4> 
 
