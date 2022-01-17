@@ -16,6 +16,12 @@ permalink: /news/journal_club/
           <td>Qianru Zhang</td>
           <td>Work on dorsal raphe 5-HT neurons by Kenji Doya lab</td>  
      </tr>	
+
+     <tr>
+          <td>2021/1/7<br>9:30 am</td>
+          <td>Fengjun Ma</td>
+          <td>Unblocking by downshift in US</td>  
+     </tr>	
 	
      <tr>
           <td>2021/12/31<br>9:30 am</td>
