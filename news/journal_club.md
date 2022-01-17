@@ -12,6 +12,12 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
+          <td>2021/1/14<br>9:30 am</td>
+          <td>Qianru Zhang</td>
+          <td>Work on dorsal raphe 5-HT neurons by Kenji Doya lab</td>  
+     </tr>	
+	
+     <tr>
           <td>2021/12/31<br>9:30 am</td>
           <td>Mingyu Song<br>@Princeton</td>
           <td>Minimal cross-trial generalization in learning the representation of an odor-guided choice task</td>  
