@@ -13,7 +13,7 @@ permalink: /resources/
 * Materials [[LINK](http://10.10.11.87:5000/oo/r/mL51lpWqq2eJD5ql93jeJVpgkDWM8elc#tid=1)]
 * Protocols [[LINK](http://10.10.11.87:5000/?launchApp=SYNO.SDS.Drive.Application#file_id=654372106089311793)]
 
-<h4 style="color:gray">CIBR Facility Services</h4> 
+<h4 style="color:gray">CIBR Core Facility Services</h4> 
 
 * Imaging Facility [[LINK](https://imaging.cibr.ac.cn/index.php)]
 * Instrumentation Core [[LINK](https://instrumentation.cibr.ac.cn/index.php/Index/index)]
