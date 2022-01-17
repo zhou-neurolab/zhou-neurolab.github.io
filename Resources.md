@@ -4,7 +4,11 @@ title: Resources
 permalink: /resources/
 ---
 
-## Useful Links for Lab Members
+## For Lab Members
+
+<h4 style="color:gray">Policies</h4>
+
+* Meeting Schedule [[LINK](http://10.10.11.87:5000/oo/r/n6xzmGOpHmmyVQcDqCGaksTnHBCeRH5g)]
 
 <h4 style="color:gray">CIBR Core Facilities</h4> 
 
