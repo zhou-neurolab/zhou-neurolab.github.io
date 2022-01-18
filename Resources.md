@@ -53,7 +53,8 @@ permalink: /resources/
 
 <h4 style="color:gray">Recorded Talks</h4>
 
-* [CBMM/MIT](https://cbmm.mit.edu/videos)<br>
+* [CBMM/MIT](https://cbmm.mit.edu/videos)
+* [Dimensionality Reduction and Population Dynamics in Neural Data](https://www.youtube.com/playlist?list=PLonWNO9SywvIKGnlOVrc-6tAGyB14lXfy)<br>
  
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
