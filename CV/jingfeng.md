@@ -67,7 +67,7 @@ permalink: /CV/jingfeng/
 
 	<tr>
 		<td>2021–2024</td>
-		<td>Nova Program of Science and Technology<br>Beijing Municipal Science and Technology Commission</td>
+		<td>Beijing Nova Program of Science and Technology<br>Beijing Municipal Science and Technology Commission</td>
 	</tr>		
 	
 	<tr>
