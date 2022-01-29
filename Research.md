@@ -68,22 +68,9 @@ To answer these questions, we use an integrative approach derived from behaviora
 <br>
 
 ## Calcium imaging in CA1 with a Gradient-Index (GRIN) lens 
-<video id="myVideo" width="320" height="176" autoplay muted>
+<video width="320" height="176" autoplay muted>
   <source src="/assets/CA1_2#_DAY4.mp4" type="video/mp4">
   <source src="/assets/CA1_2#_DAY4.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>
-
-<script>
-var vid = document.getElementById("myVideo");
-
-function getPlaySpeed() { 
-  alert(vid.playbackRate);
-} 
-
-function setPlaySpeed() { 
-  vid.playbackRate = 5;
-} 
-</script> 
-
 
