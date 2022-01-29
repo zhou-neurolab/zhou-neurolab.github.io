@@ -69,9 +69,9 @@ To answer these questions, we use an integrative approach derived from behaviora
 <br>
 
 ## GRIN lens imaging in CA1
-<video id="myVideo" width="320" height="176" controls>
+<video id="myVideo" width="320" height="176" autoplay muted>
   <source src="/assets/CA1_2#_DAY4.mp4" type="video/mp4">
-  <source src="CA1_2#_DAY4.ogg" type="video/ogg">
+  <source src="/assets/CA1_2#_DAY4.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>
 
