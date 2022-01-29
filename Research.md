@@ -63,4 +63,11 @@ To answer these questions, we use an integrative approach derived from behaviora
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-b2.gif" />
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-b3.gif" />
 
+## GRIN lens imaging in CA1
+<video width="320" height="240" controls>
+  <source src="/assets/CA1_2#_DAY4.mp4" type="video/mp4">
+  <source src="CA1_2#_DAY4.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
 
