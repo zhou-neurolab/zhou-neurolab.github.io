@@ -61,16 +61,12 @@ To answer these questions, we use an integrative approach derived from behaviora
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-5.gif" />
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-b1.gif" />
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-b2.gif" />
-<img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-b3.gif" />
+<img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-b3.gif" /><br clear="left" />
 
-<br clear="left" />
+
+<br>
 <hr style="height:2px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
 ## Calcium imaging in CA1 with a Gradient-Index (GRIN) lens 
-<video width="320" height="176" autoplay muted>
-  <source src="/assets/CA1_2#_DAY4.mp4" type="video/mp4">
-  <source src="/assets/CA1_2#_DAY4.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-
+<iframe width="480" height="360" src="/assets/CA1_2#_DAY4.mp4" frameborder="0"> </iframe>
