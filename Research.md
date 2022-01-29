@@ -64,6 +64,7 @@ To answer these questions, we use an integrative approach derived from behaviora
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-b3.gif" />
 
 <br>
+<br>
 <hr style="height:2px; border:0; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
