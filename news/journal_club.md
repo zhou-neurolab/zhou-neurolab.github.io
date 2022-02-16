@@ -12,13 +12,19 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
-          <td>2021/1/14<br>9:30 am</td>
+          <td>2022/2/18<br>9:30 am</td>
+          <td>Yuanqing Zhang</td>
+          <td>Xie et al., (2022). Geometry of sequence working memory in macaque prefrontal cortex. Science, 375(6581), 632-639.</td>  
+     </tr>	
+	
+     <tr>
+          <td>2022/1/14<br>9:30 am</td>
           <td>Qianru Zhang</td>
           <td>Work on dorsal raphe 5-HT neurons by Kenji Doya lab</td>  
      </tr>	
 
      <tr>
-          <td>2021/1/7<br>9:30 am</td>
+          <td>2022/1/7<br>9:30 am</td>
           <td>Fengjun Ma</td>
           <td>Unblocking by downshift in US</td>  
      </tr>	
