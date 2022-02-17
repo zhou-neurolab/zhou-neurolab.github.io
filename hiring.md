@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 招聘博士后和研究助理
+title: 周景峰实验室招聘博士后和研究助理
 permalink: /hiring/
 ---
 
