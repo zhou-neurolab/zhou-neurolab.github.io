@@ -8,17 +8,8 @@ permalink: /join/
 <!--[招聘实验室管理员、技术员和博士后](hiring.md)-->
 
 
-Our lab is actively seeking postdoctoral fellows and research assistants. Please get in touch ([jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)) if you're interested in joining our team.
-
-<figure>
-
-  <p align="center">
-   <a href="http://www.cibr.ac.cn/">
-    <img width="300" style="border-radius:8px; border:0px solid #6495ED" src="/assets/join_us.gif">
-   </a>
-  </p>
-  
-</figure>
+<img align="left" width="200" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/assets/join_us.gif" />
+Our lab is actively seeking postdoctoral fellows and research assistants. Please get in touch ([jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)) if you're interested in joining our team.<br clear="left" />
 
 
 <figure>
