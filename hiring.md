@@ -1,7 +1,7 @@
 
 ---
-title: 北京脑中心周景峰实验室招聘博士后和研究助理
 layout: page
+title: 北京脑中心周景峰实验室招聘博士后和研究助理
 permalink: /hiring/
 ---
 
