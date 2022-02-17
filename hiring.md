@@ -14,7 +14,7 @@ permalink: /hiring/
 
 周景峰实验室结合使用行为、认知、系统与计算神经生物学方法（复杂动物行为任务、在体多通道电生理、钙成像、光遗传学和机器学习等），研究大小鼠联合型学习和行为决策的神经环路机制。
 
-周景峰（北京脑中心研究员，博士生导师），2016年毕业于北京大学和北京生命科学研究所，并获得博士学位，之后在美国国立卫生研究院药物滥用研究所从事博士后研究至2021年。研究成果以第一作者/通讯作者（含共同）身份发表在*Nature*, *Neuron*, *Curr Biol*, *J Neurosci*, *Behav Neurosci*, *Biomed Opt Express*, *Curr Opin Behav Sci*等期刊。
+周景峰（北京脑中心研究员，博士生导师），2016年获得北京大学博士学位，2013年起在美国国立卫生研究院药物滥用研究所从事博士后研究。研究成果以第一作者或通讯作者（含共同）身份发表在*Nature*, *Neuron*, *Curr Biol*, *J Neurosci*, *Behav Neurosci*, *Biomed Opt Express*, *Curr Opin Behav Sci*等期刊。
 
 实验室网站：[https://zhoulab.cibr.ac.cn](https://zhoulab.cibr.ac.cn) 。
 
