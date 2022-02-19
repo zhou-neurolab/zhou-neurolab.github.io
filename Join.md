@@ -8,4 +8,3 @@ permalink: /join/
 Our lab is actively seeking postdoctoral fellows and research assistants. Please get in touch if you're interested in joining our team. Email: [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
 <br><br>
 For more information:<br>[招聘博士后和研究助理](hiring.md)
-<br clear="left" />
