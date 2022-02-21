@@ -55,6 +55,10 @@ permalink: /resources/
 
 * [CBMM/MIT](https://cbmm.mit.edu/videos)
 * [Dimensionality Reduction and Population Dynamics in Neural Data](https://www.youtube.com/playlist?list=PLonWNO9SywvIKGnlOVrc-6tAGyB14lXfy)<br>
+
+<h4 style="color:gray">Blogs</h4>
+
+* [Spikes and Bursts](https://spikesandbursts.wordpress.com/)
  
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
