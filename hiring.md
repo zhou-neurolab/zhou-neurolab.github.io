@@ -17,7 +17,7 @@ permalink: /hiring/
 课题组负责人周景峰2016年获得北京大学博士学位，并于同年起在美国NIH/NIDA从事博士后研究，2021年起在北京脑中心担任研究员。研究成果以第一作者或通讯作者（含共同）身份发表在*Nature*, *Neuron*, *Curr Biol*, *J Neurosci*, *Behav Neurosci*, *Biomed Opt Express*, *Curr Opin Behav Sci*等期刊。
 
 实验室网站：[https://zhoulab.cibr.ac.cn](https://zhoulab.cibr.ac.cn) <br>
-负责人简历：[CV](https://zhoulab.cibr.ac.cn/CV/jingfeng/) 
+负责人简历：[Curriculum Vitae](https://zhoulab.cibr.ac.cn/CV/jingfeng/) 
 
 ## 博士后
 
