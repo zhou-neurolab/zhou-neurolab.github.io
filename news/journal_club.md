@@ -12,6 +12,18 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
+          <td>2022/3/4<br>9:30 am</td>
+          <td>Lingwei Zhang</td>
+          <td>Williams, A. H., Kim, T. H., Wang, F., Vyas, S., Ryu, S. I., Shenoy, K. V., ... & Ganguli, S. (2018). Unsupervised discovery of demixed, low-dimensional neural dynamics across multiple timescales through tensor component analysis. Neuron, 98(6), 1099-1115.</td>  
+     </tr>	
+	
+     <tr>
+          <td>2022/2/25<br>9:30 am</td>
+          <td>Aixia Song</td>
+          <td>Costa K. M. et al., (2022). The role of the orbitofrontal cortex in creating cognitive maps. bioRxiv, 477716.</td>  
+     </tr>	
+	
+     <tr>
           <td>2022/2/18<br>9:30 am</td>
           <td>Yuanqing Zhang</td>
           <td>Xie et al., (2022). Geometry of sequence working memory in macaque prefrontal cortex. Science, 375(6581), 632-639.</td>  
