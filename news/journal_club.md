@@ -14,7 +14,7 @@ permalink: /news/journal_club/
      <tr>
           <td>2022/3/4<br>9:30 am</td>
           <td>Lingwei Zhang</td>
-          <td>Williams, A. H., Kim, T. H., Wang, F., Vyas, S., Ryu, S. I., Shenoy, K. V., ... & Ganguli, S. (2018). Unsupervised discovery of demixed, low-dimensional neural dynamics across multiple timescales through tensor component analysis. Neuron, 98(6), 1099-1115.</td>  
+          <td>Williams, A. H., et al., (2018). Unsupervised discovery of demixed, low-dimensional neural dynamics across multiple timescales through tensor component analysis. Neuron, 98(6), 1099-1115.</td>  
      </tr>	
 	
      <tr>
