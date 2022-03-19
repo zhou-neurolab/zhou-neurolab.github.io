@@ -1,5 +1,5 @@
 ---
-title: Journal Club
+title: Journal Club & Teaching
 layout: page
 permalink: /news/journal_club/
 ---
