@@ -12,9 +12,15 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
+          <td>2022/4/1<br>9:30 am</td>
+          <td>Huixin Lin</td>
+          <td>TBD</td>  
+     </tr>	
+	
+     <tr>
           <td>2022/3/25<br>9:30 am</td>
           <td>Qianru Zhang</td>
-          <td>TBD</td>  
+          <td>Stolyarova, A., & Izquierdo, A. (2017). Complementary contributions of basolateral amygdala and orbitofrontal cortex to value learning under uncertainty. Elife, 6, e27483.</td>  
      </tr>	
 	
      <tr>
