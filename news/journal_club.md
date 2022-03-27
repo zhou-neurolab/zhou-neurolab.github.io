@@ -14,7 +14,7 @@ permalink: /news/journal_club/
      <tr>
           <td>2022/4/1<br>9:30 am</td>
           <td>Huixin Lin</td>
-          <td>TBD</td>  
+          <td>Terada, S., Geiller, T., Liao, Z., O’Hare, J., Vancura, B., & Losonczy, A. (2022). Adaptive stimulus selection for consolidation in the hippocampus. Nature, 601(7892), 240-244.</td>  
      </tr>	
 	
      <tr>
