@@ -111,3 +111,8 @@ Peking University & CIBR<br>
 <h3>Qianru Zhang (张倩如), M.S.</h3>
 Ph.D. Student<br><br>
 Capital Medical University & CIBR<br clear="left" />
+<br>
+<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
+<br> -->
+
+## [Lab Alumni](/alumni/)
