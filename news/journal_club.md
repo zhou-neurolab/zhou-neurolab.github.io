@@ -12,6 +12,12 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
+          <td>2022/4/8<br>9:30 am</td>
+          <td>Aixia Song</td>
+          <td>Sheintuch, L., Geva, N., Baumer, H., Rechavi, Y., Rubin, A., & Ziv, Y. (2020). Multiple maps of the same spatial context can stably coexist in the mouse hippocampus. Curr Biol, 30(8), 1467-1476.</td>  
+     </tr>	
+	
+     <tr>
           <td>2022/4/1<br>9:30 am</td>
           <td>Huixin Lin</td>
           <td>Terada, S., Geiller, T., Liao, Z., O’Hare, J., Vancura, B., & Losonczy, A. (2022). Adaptive stimulus selection for consolidation in the hippocampus. Nature, 601(7892), 240-244.</td>  
