@@ -52,10 +52,15 @@ permalink: /CV/jingfeng/
 	</tr>
 	
 	<tr>
-		<td>2008–2010</td>
-		<td>Undergraduate Researcher, NKU, Tianjin, China, Bai Gang Lab & Qingqiu Gong Lab</td>
+		<td>2009–2010</td>
+		<td>Undergraduate Researcher, NKU, Tianjin, China, Qingqiu Gong Lab</td>
 	</tr>
 
+	<tr>
+		<td>2008–2009</td>
+		<td>Undergraduate Researcher, NKU, Tianjin, China, Bai Gang Lab</td>
+	</tr>	
+	
 </table>
 
 ## Grants
@@ -158,6 +163,16 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 	<col style="width:15%">
 	<col style="width:100%">
 
+	<tr>
+		<td>2021–present</td>
+		<td>Mentoring PhD students Huixin Lin, Fengjun Ma, and Qianru Zhang at CIBR, Beijing</td>
+	</tr>	
+
+	<tr>
+		<td>2021–present</td>
+		<td>Mentoring research assistants Lingwei Zhang and Aixia Song at CIBR, Beijing</td>
+	</tr>	
+	
 	<tr>
 		<td>2019–2021</td>
 		<td>Mentoring postdoctoral fellow Wenhui Zong at NIDA-IRP</td>
