@@ -1,5 +1,5 @@
 ---
-title: Journal Club & Teaching
+title: Journal Club & Teaching 2021
 layout: page
 permalink: /news/journal_club_2021/
 ---
