@@ -63,6 +63,8 @@ To answer these questions, we use an integrative approach derived from behaviora
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-b2.gif" />
 <img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/huge-unit-b3.gif" /><br clear="left" />
 
+
 ## Calcium imaging with GRIN Lenses
 <img align="left" height="240" style="margin-right:10px; margin-bottom:10px" src="/assets/CA1CalciumImaging.gif" />
-Credit: Huixin Lin
+<img align="left" height="120" style="margin-right:10px; margin-bottom:10px" src="/assets/CA1CalciumImaging_2.gif" /><br clear="left" />
+<br>Credit: Huixin Lin
