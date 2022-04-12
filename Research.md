@@ -67,4 +67,4 @@ To answer these questions, we use an integrative approach derived from behaviora
 ## Calcium imaging with GRIN Lenses
 <img align="left" height="240" style="margin-right:10px; margin-bottom:10px" src="/assets/CA1CalciumImaging.gif" />
 <img align="left" height="240" style="margin-right:10px; margin-bottom:10px" src="/assets/CA1CalciumImaging_2.gif" /><br clear="left" />
-Credit: Huixin Lin
+Hippocampus CA1, 30 frames/sec, 3x speed; Credit: Huixin Lin
