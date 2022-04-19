@@ -12,6 +12,12 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
+          <td>2022/4/22<br>9:30 am</td>
+          <td>Jiawei Zeng</td>
+          <td>Poo, C., Agarwal, G., Bonacchi, N., & Mainen, Z. F. (2022). Spatial maps in piriform cortex during olfactory navigation. Nature, 601(7894), 595-599.</td> 
+     </tr>		
+	
+     <tr>
           <td>2022/4/15<br>9:30 am</td>
           <td>Lingwei Zhang</td>
           <td>Kim, H. R., Malik, A. N., Mikhael, J. G., Bech, P., Tsutsui-Kimura, I., Sun, F., ... & Uchida, N. (2020). A unified framework for dopamine signals across timescales. Cell, 183(6), 1600-1616.<br>Mikhael, J. G., Kim, H. R., Uchida, N., & Gershman, S. J. (2022). The role of state uncertainty in the dynamics of dopamine. Curr Biol.</td>  
