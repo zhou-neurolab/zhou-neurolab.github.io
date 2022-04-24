@@ -11,7 +11,7 @@ permalink: /alumni/
 <h3>John Doe (XXX), B.S.</h3>
 Research Assistant, 2021-2022<br><br>
 Ph.D. Student, University of XXXX<br><br>
-*This is a template for future use.<br clear="left" />
+<em>This is a template for future use.</em><br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
