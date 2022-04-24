@@ -12,6 +12,12 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
+          <td>2022/4/29<br>9:30 am</td>
+          <td>Fengjun Ma</td>
+          <td>Second-order conditioning</td> 
+     </tr>	
+	
+     <tr>
           <td>2022/4/22<br>9:30 am</td>
           <td>Jiawei Zeng</td>
           <td>Poo, C., Agarwal, G., Bonacchi, N., & Mainen, Z. F. (2022). Spatial maps in piriform cortex during olfactory navigation. Nature, 601(7894), 595-599.</td> 
