@@ -67,6 +67,14 @@ Mphil in Psychology<br>The Chinese University of Hong Kong<br clear="left" />
 <br>
 
 
+<!-- ========================================================================================================================== -->
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/yuhang_zhu.jpg" />
+<h3>Yuhang Zhu (朱宇航), Mphil</h3>
+Research Assistant<br><br>
+B.S. in Biomedical Engineering<br>Beijing University of Technology<br clear="left" />
+<br>
+<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
+<br>
 
 
 <!-- ========================================================================================================================== -->
