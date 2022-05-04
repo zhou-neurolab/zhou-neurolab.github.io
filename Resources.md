@@ -13,6 +13,7 @@ permalink: /resources/
 * Meeting Schedule [[INTRANET](http://10.10.11.87:5000/oo/r/n6xzmGOpHmmyVQcDqCGaksTnHBCeRH5g)]
 * Materials [[INTRANET](http://10.10.11.87:5000/oo/r/mL51lpWqq2eJD5ql93jeJVpgkDWM8elc#tid=1)]
 * Protocols [[INTRANET](http://10.10.11.87:5000/?launchApp=SYNO.SDS.Drive.Application#file_id=654372106089311793)]
+* Recommended Reads [[INTRANET](http://10.10.11.87:5000/oo/r/oXgnndf1LmZEScFbw5mdJzfvgSsIHBC5)]
 
 <h4 style="color:gray">CIBR Core Facility Services</h4> 
 
