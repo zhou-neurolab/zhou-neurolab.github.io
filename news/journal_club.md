@@ -12,6 +12,12 @@ permalink: /news/journal_club/
 	<col style="width:100%">    
 
      <tr>
+          <td>2022/05/06<br>9:30 am</td>
+          <td>Qianru Zhang</td>
+          <td>Jenni, N. L., Rutledge, G., & Floresco, S. B. (2022). Distinct Medial Orbitofrontal–Striatal Circuits Support Dissociable Component Processes of Risk/Reward Decision-Making. Journal of Neuroscience, 42(13), 2743-2755.</td> 
+     </tr>	
+	
+     <tr>
           <td>2022/4/29<br>9:30 am</td>
           <td>Fengjun Ma</td>
           <td>Second-order conditioning</td> 
