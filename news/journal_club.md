@@ -11,6 +11,13 @@ permalink: /news/journal_club/
   	<col style="width:20%">
 	<col style="width:100%">    
 
+
+     <tr>
+          <td>2022/05/13<br>9:30 am</td>
+          <td>Jiamin Xu@ECNU</td>
+          <td>Recent work on hippocampus.</td> 
+     </tr>	
+	
      <tr>
           <td>2022/05/06<br>9:30 am</td>
           <td>Qianru Zhang</td>
