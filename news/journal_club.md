@@ -15,7 +15,7 @@ permalink: /news/journal_club/
      <tr>
           <td>2022/05/13<br>9:30 am</td>
           <td>Jiamin Xu<br>@ECNU</td>
-          <td>Recent work on hippocampus.</td> 
+          <td>Hippocampal sequential firing: replay and beyond.</td> 
      </tr>	
 	
      <tr>
