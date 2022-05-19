@@ -10,8 +10,19 @@ permalink: /news/journal_club/
 	<col style="width:15%">
   	<col style="width:20%">
 	<col style="width:100%">    
-
-
+	
+     <tr>
+          <td>2022/05/20<br>9:30 am</td>
+          <td>Aixia Song</td>
+          <td>Rigotti, M., Barak, O., Warden, M. R., Wang, X. J., Daw, N. D., Miller, E. K., & Fusi, S. (2013). The importance of mixed selectivity in complex cognitive tasks. Nature, 497(7451), 585-590.</td> 
+     </tr>
+	
+     <tr>
+          <td>2022/05/20<br>9:30 am</td>
+          <td>Bo Fan<br>@MED</td>
+          <td>MED associates programing.</td> 
+     </tr>
+	
      <tr>
           <td>2022/05/13<br>9:30 am</td>
           <td>Jiamin Xu<br>@ECNU</td>
