@@ -20,7 +20,7 @@ permalink: /news/journal_club/
      <tr>
           <td>2022/05/20<br>9:30 am</td>
           <td>Bo Fan<br>@MED</td>
-          <td>MED associates programing.</td> 
+          <td>MED Associates programming.</td> 
      </tr>
 	
      <tr>
