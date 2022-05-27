@@ -14,7 +14,7 @@ permalink: /news/journal_club/
      <tr>
           <td>2022/05/27<br>9:30 am</td>
           <td>Lingwei Zhang</td>
-          <td>Cohn, R., Morantte, I., & Ruta, V. (2015). Coordinated and compartmentalized neuromodulation shapes sensory processing in Drosophila. Cell, 163(7), 1742-1755.<br>Handler, A., Graham, T. G., Cohn, R., Morantte, I., Siliciano, A. F., Zeng, J., ... & Ruta, V. (2019). Distinct dopamine receptor pathways underlie the temporal sensitivity of associative learning. Cell, 178(1), 60-75.</td> 
+          <td>Cohn, R., Morantte, I., & Ruta, V. (2015). Coordinated and compartmentalized neuromodulation shapes sensory processing in Drosophila. Cell, 163(7), 1742-1755.<br><br>Handler, A., Graham, T. G., Cohn, R., Morantte, I., Siliciano, A. F., Zeng, J., ... & Ruta, V. (2019). Distinct dopamine receptor pathways underlie the temporal sensitivity of associative learning. Cell, 178(1), 60-75.</td> 
      </tr>	
 	
      <tr>
