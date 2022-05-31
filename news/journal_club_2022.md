@@ -1,7 +1,7 @@
 ---
 title: Journal Club & Teaching
 layout: page
-permalink: /news/journal_club/
+permalink: /news/journal_club_2022/
 ---
 
 
@@ -121,5 +121,5 @@ permalink: /news/journal_club/
       
 </table>
 
-[[2022](/news/journal_club/)] [[2021](/news/journal_club_2021/)]
+[[2022](/news/journal_club_2022/)] [[2021](/news/journal_club_2021/)]
 
