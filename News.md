@@ -5,4 +5,4 @@ list_title: ' '
 permalink: /news/
 ---
 
-## [ [Journal Club & Teaching](/news/journal_club.md) ]
+## [ [Journal Club & Teaching](/news/journal_club_2022.md) ]
