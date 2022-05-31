@@ -134,4 +134,4 @@ permalink: /news/journal_club_2021/
       
 </table>
 
-[[2022](/news/journal_club/)] [[2021](/news/journal_club_2021/)]
+[[2022](/news/journal_club_2022/)] [[2021](/news/journal_club_2021/)]
