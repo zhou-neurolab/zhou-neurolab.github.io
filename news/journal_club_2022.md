@@ -11,6 +11,13 @@ permalink: /news/journal_club_2022/
   	<col style="width:20%">
 	<col style="width:100%">    
 
+	
+     <tr>
+          <td>2022/06/10<br>9:30 am</td>
+          <td>Jiawei Zeng</td>
+          <td>Fine, J. M., Johnston, W. J., Yoo, S. B. M., Ebitz, R. B., & Hayden, B. Y. (2022). Subspace orthogonalization as a mechanism for binding values to space. arXiv preprint arXiv:2205.06769.</td> 
+     </tr>	
+	
      <tr>
           <td>2022/05/27<br>9:30 am</td>
           <td>Lingwei Zhang</td>
