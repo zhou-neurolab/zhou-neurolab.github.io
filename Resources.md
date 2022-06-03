@@ -60,6 +60,10 @@ permalink: /resources/
 <h4 style="color:gray">Blogs</h4>
 
 * [Spikes and Bursts](https://spikesandbursts.wordpress.com/)
+
+<h4 style="color:gray">Podcasts</h4>
+
+* [Neuroscientists Talk Shop](http://snrp.utsa.edu/Podcast/Podcast.html)
  
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
