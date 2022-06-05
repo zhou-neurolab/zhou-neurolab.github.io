@@ -63,7 +63,7 @@ permalink: /resources/
 
 <h4 style="color:gray">Podcasts</h4>
 
-* [Neuroscientists Talk Shop](http://snrp.utsa.edu/Podcast/Podcast.html): showcases the current research of internationally renowned guest Neuroscientists.
+* [Neuroscientists Talk Shop](http://snrp.utsa.edu/Podcast/Podcast.html) showcases the current research of internationally renowned guest Neuroscientists.
 * [Brain Inspired](http://snrp.utsa.edu/Podcast/Podcast.html): A podcast where neuroscience and AI converge.
  
 <br>
