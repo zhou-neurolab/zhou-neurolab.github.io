@@ -32,6 +32,10 @@ permalink: /resources/
 
 ## Other Useful Links
 
+<h4 style="color:gray">Data analysis</h4> 
+
+* [The Neural Decoding Toolbox](http://www.readout.info/) provides an easy way to do decoding analyses on neural data.<br>
+
 <h4 style="color:gray">Drawing</h4> 
 
 * Google [AutoDraw](https://www.autodraw.com/) turns your rough scribbles into beautiful icons for free.<br>
