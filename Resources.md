@@ -32,7 +32,7 @@ permalink: /resources/
 
 ## Other Useful Links
 
-<h4 style="color:gray">Data analysis</h4> 
+<h4 style="color:gray">Data Analysis</h4> 
 
 * [The Neural Decoding Toolbox](http://www.readout.info/) provides an easy way to do decoding analyses on neural data.<br>
 
