@@ -17,23 +17,23 @@ permalink: /news/journal_club_2022/
           <td>Fengjun Ma</td>
           <td>Inter-are interactions at the neural population level.<br><br>
 	     References:<br>
-		  Semedo, J. D., Gokcen, E., Machens, C. K., Kohn, A., & Byron, M. Y. (2020). Statistical methods for dissecting interactions between brain areas. Curr Opin in Neurobiol, 65, 59-69.<br><br>
-		  Semedo, J. D., Zandvakili, A., Machens, C. K., Byron, M. Y., & Kohn, A. (2019). Cortical areas interact through a communication subspace. Neuron, 102(1), 249-259.<br><br>
+		  Semedo, J. D., Gokcen, E., Machens, C. K., Kohn, A., & Byron, M. Y. (2020). Statistical methods for dissecting interactions between brain areas. <b>Curr Opin in Neurobiol</b>, 65, 59-69.<br><br>
+		  Semedo, J. D., Zandvakili, A., Machens, C. K., Byron, M. Y., & Kohn, A. (2019). Cortical areas interact through a communication subspace. <b>Neuron</b>, 102(1), 249-259.<br><br>
 		  Semedo, J. D., Jasper, A. I., Zandvakili, A., Krishna, A., Aschner, A., Machens, C. K., ... & Yu, B. M. (2022). Feedforward and feedback interactions between visual cortical areas use different population activity patterns. Nat Commun, 13(1), 1-14.<br><br>
-		  Ebrahimi, S., Lecoq, J., Rumyantsev, O., Tasci, T., Zhang, Y., Irimia, C., ... & Schnitzer, M. J. (2022). Emergent reliability in sensory cortical coding and inter-area communication. Nature, 605(7911), 713-721.
+		  Ebrahimi, S., Lecoq, J., Rumyantsev, O., Tasci, T., Zhang, Y., Irimia, C., ... & Schnitzer, M. J. (2022). Emergent reliability in sensory cortical coding and inter-area communication. <b>Nature</b>, 605(7911), 713-721.
 	     </td> 
      </tr>	
 	
      <tr>
           <td>2022/06/10<br>9:30 am</td>
           <td>Jiawei Zeng</td>
-          <td>Fine, J. M., Johnston, W. J., Yoo, S. B. M., Ebitz, R. B., & Hayden, B. Y. (2022). Subspace orthogonalization as a mechanism for binding values to space. arXiv preprint arXiv:2205.06769.</td> 
+          <td>Fine, J. M., Johnston, W. J., Yoo, S. B. M., Ebitz, R. B., & Hayden, B. Y. (2022). Subspace orthogonalization as a mechanism for binding values to space. <b>arXiv</b>, 2205.06769.</td> 
      </tr>	
 	
      <tr>
           <td>2022/05/27<br>9:30 am</td>
           <td>Lingwei Zhang</td>
-          <td>Cohn, R., Morantte, I., & Ruta, V. (2015). Coordinated and compartmentalized neuromodulation shapes sensory processing in Drosophila. Cell, 163(7), 1742-1755.<br><br>Handler, A., Graham, T. G., Cohn, R., Morantte, I., Siliciano, A. F., Zeng, J., ... & Ruta, V. (2019). Distinct dopamine receptor pathways underlie the temporal sensitivity of associative learning. Cell, 178(1), 60-75.</td> 
+          <td>Cohn, R., Morantte, I., & Ruta, V. (2015). Coordinated and compartmentalized neuromodulation shapes sensory processing in Drosophila. Cell, 163(7), 1742-1755.<br><br>Handler, A., Graham, T. G., Cohn, R., Morantte, I., Siliciano, A. F., Zeng, J., ... & Ruta, V. (2019). Distinct dopamine receptor pathways underlie the temporal sensitivity of associative learning. <b>Cell</b>, 178(1), 60-75.</td> 
      </tr>	
 	
      <tr>
