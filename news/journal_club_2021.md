@@ -20,13 +20,13 @@ permalink: /news/journal_club_2021/
      <tr>
           <td>2021/12/10<br>9:30 am</td>
           <td>Jiawei Zeng</td>
-          <td>Ballesta, S., Shi, W., Conen, K. E., & Padoa-Schioppa, C. (2020). Values encoded in orbitofrontal cortex are causally related to economic choices. Nature, 588(7838), 450-453.</td>  
+          <td>Ballesta, S., Shi, W., Conen, K. E., & Padoa-Schioppa, C. (2020). Values encoded in orbitofrontal cortex are causally related to economic choices. <b>Nature</b>, 588(7838), 450-453.</td>  
      </tr>		
 	
      <tr>
           <td>2021/12/06<br>1:00 pm</td>
           <td>Ke Li</td>
-          <td>Chung, A., Jou, C., Grau-Perales, A., Levy, E. R., Dvorak, D., Hussain, N., & Fenton, A. A. (2021). Cognitive control persistently enhances hippocampal information processing. Nature, 1-5.</td>  
+          <td>Chung, A., Jou, C., Grau-Perales, A., Levy, E. R., Dvorak, D., Hussain, N., & Fenton, A. A. (2021). Cognitive control persistently enhances hippocampal information processing. <b>Nature</b>, 1-5.</td>  
      </tr>		
 
      <tr>
@@ -38,7 +38,7 @@ permalink: /news/journal_club_2021/
      <tr>
           <td>2021/11/12<br>1:00 pm</td>
           <td>Aixia Song</td>
-          <td>Basu, R., Gebauer, R., Herfurth, T., Kolb, S., Golipour, Z., Tchumatchenko, T., & Ito, H. T. (2021). The orbitofrontal cortex maps future navigational goals. Nature, 1-4.</td>  
+          <td>Basu, R., Gebauer, R., Herfurth, T., Kolb, S., Golipour, Z., Tchumatchenko, T., & Ito, H. T. (2021). The orbitofrontal cortex maps future navigational goals. <b>Nature</b>, 1-4.</td>  
      </tr>	
 	
      <tr>
@@ -51,28 +51,28 @@ permalink: /news/journal_club_2021/
      <tr>
           <td>2021/10/15<br>1:00 pm</td>
           <td>Qianru Zhang</td>
-          <td>Lee, J. Y., Jun, H., Soma, S., Nakazono, T., Shiraiwa, K., Dasgupta, A., ... & Igarashi, K. M. (2021). Dopamine facilitates associative memory encoding in the entorhinal cortex. Nature, 1-6.</td>
+          <td>Lee, J. Y., Jun, H., Soma, S., Nakazono, T., Shiraiwa, K., Dasgupta, A., ... & Igarashi, K. M. (2021). Dopamine facilitates associative memory encoding in the entorhinal cortex. <b>Nature</b>, 1-6.</td>
 	     
      </tr>	
 	
      <tr>
           <td>2021/09/26<br>3:00 pm</td>
           <td>Hui Zheng</td>
-          <td>Gao, P., Trautmann, E., Yu, B., Santhanam, G., Ryu, S., Shenoy, K., & Ganguli, S. (2017). A theory of multineuronal dimensionality, dynamics and measurement. BioRxiv, 214262.</td>
+          <td>Gao, P., Trautmann, E., Yu, B., Santhanam, G., Ryu, S., Shenoy, K., & Ganguli, S. (2017). A theory of multineuronal dimensionality, dynamics and measurement. <b>bioRxiv</b>, 214262.</td>
 	     
      </tr>		
 	
      <tr>
           <td>2021/09/10<br>3:00 pm</td>
           <td>Jiawei Zeng</td>
-          <td>Beckers, T., Miller, R. R., De Houwer, J., & Urushihara, K. (2006). Reasoning rats: forward blocking in Pavlovian animal conditioning is sensitive to constraints of causal inference. Journal of Experimental Psychology: General, 135(1), 92.</td>
+          <td>Beckers, T., Miller, R. R., De Houwer, J., & Urushihara, K. (2006). Reasoning rats: forward blocking in Pavlovian animal conditioning is sensitive to constraints of causal inference. <b>J Exp Psych: General</b>, 135(1), 92.</td>
 	     
      </tr>	
 	
      <tr>
           <td>2021/09/07<br>1:00 pm</td>
           <td>Yu Wang<br>@Tsinghua U</td>
-          <td>Wang Y., Yin X., Zhang Z., Li J., Zhao W. & Guo Z., (2021). A cortico-basal ganglia-thalamo-cortical channel underlying short-term memory. Neuron, 109, 1-14.</td>
+          <td>Wang Y., Yin X., Zhang Z., Li J., Zhao W. & Guo Z., (2021). A cortico-basal ganglia-thalamo-cortical channel underlying short-term memory. <b>Neuron</b>, 109, 1-14.</td>
 	     
      </tr>
 	
@@ -87,7 +87,7 @@ permalink: /news/journal_club_2021/
      <tr>
           <td>2021/08/23<br>1:00 pm</td>
           <td>Lingwei Zhang</td>
-          <td>Nieh, E. H., Schottdorf, M., Freeman, N. W., Low, R. J., Lewallen, S., Koay, S. A., ... & Tank, D. W. (2021). Geometry of abstract learned knowledge in the hippocampus. Nature, 1-5.</td>
+          <td>Nieh, E. H., Schottdorf, M., Freeman, N. W., Low, R. J., Lewallen, S., Koay, S. A., ... & Tank, D. W. (2021). Geometry of abstract learned knowledge in the hippocampus. <b>Nature</b>, 1-5.</td>
 	     
      </tr>	
 	
@@ -95,7 +95,7 @@ permalink: /news/journal_club_2021/
      <tr>
           <td>2021/08/13<br>1:00 pm</td>
           <td>Fengjun Ma</td>
-          <td>Jin, S. W., & Lee, I. (2021). Differential encoding of place value between the dorsal and intermediate hippocampus. Current Biology.</td>
+          <td>Jin, S. W., & Lee, I. (2021). Differential encoding of place value between the dorsal and intermediate hippocampus. <b>Curr Biol</b>.</td>
 	     
      </tr>
 	
@@ -103,33 +103,33 @@ permalink: /news/journal_club_2021/
      <tr>
           <td>2021/08/05<br>1:00 pm</td>
           <td>LinLing Huang</td>
-          <td>Reinert, S., Hübener, M., Bonhoeffer, T., & Goltstein, P. M. (2021). Mouse prefrontal cortex represents learned rules for categorization. Nature, 593(7859), 411-417.</td>
+          <td>Reinert, S., Hübener, M., Bonhoeffer, T., & Goltstein, P. M. (2021). Mouse prefrontal cortex represents learned rules for categorization. <b>Nature</b>, 593(7859), 411-417.</td>
 	     
      </tr>	
 	
      <tr>
           <td>2021/07/30<br>1:00 pm</td>
           <td>Aixia Song</td>
-          <td>Libby, A., & Buschman, T. J. (2021). Rotational dynamics reduce interference between sensory and memory representations. Nature neuroscience, 24(5), 715-726.</td>
+          <td>Libby, A., & Buschman, T. J. (2021). Rotational dynamics reduce interference between sensory and memory representations. <b>Nat Neurosci</b>, 24(5), 715-726.</td>
      </tr>	
 	
      <tr>
           <td>2021/07/23<br>1:00 pm</td>
           <td>Huixin Lin</td>
-          <td>Schoonover et al. (2021). Representational drift in primary olfactory cortex. Nature.</td>
+          <td>Schoonover et al. (2021). Representational drift in primary olfactory cortex. <b>Nature</b>.</td>
      </tr>
 	
      <tr>
           <td>2021/07/16<br>1:00 pm</td>
           <td>Lingwei Zhang</td>
           <td>Liu, Y., Dolan, R. J., Kurth-Nelson, Z., & Behrens, T. E. (2019). Human replay spontaneously reorganizes experience. Cell, 178(3), 640-652.<br><br>
-	     Nour et al. (2021). Impaired neural replay of inferred relationships in schizophrenia. Cell.</td>
+	     Nour et al. (2021). Impaired neural replay of inferred relationships in schizophrenia. <b>Cell</b>.</td>
      </tr>	
 
      <tr>
           <td>2021/07/09<br>1:00 pm</td>
           <td>Linling Huang</td>
-          <td>Steinberg, E. E., Keiflin, R., Boivin, J. R., Witten, I. B., Deisseroth, K., & Janak, P. H. (2013). A causal link between prediction errors, dopamine neurons and learning. Nature neuroscience, 16(7), 966-973.</td>
+          <td>Steinberg, E. E., Keiflin, R., Boivin, J. R., Witten, I. B., Deisseroth, K., & Janak, P. H. (2013). A causal link between prediction errors, dopamine neurons and learning. <b>Nat Neurosci</b>, 16(7), 966-973.</td>
      </tr>
       
 </table>
