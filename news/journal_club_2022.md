@@ -15,11 +15,11 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/06/17<br>9:30 am</td>
           <td>Fengjun Ma</td>
-          <td>Inter-brain region interactions at the level of neural populations.<br>
+          <td>Inter-are interactions at the neural population level.<br><br>
 	     References:<br>
-		  Semedo, J. D., Gokcen, E., Machens, C. K., Kohn, A., & Byron, M. Y. (2020). Statistical methods for dissecting interactions between brain areas. Current opinion in neurobiology, 65, 59-69.<br>
-		  Semedo, J. D., Zandvakili, A., Machens, C. K., Byron, M. Y., & Kohn, A. (2019). Cortical areas interact through a communication subspace. Neuron, 102(1), 249-259.<br>
-		  Semedo, J. D., Jasper, A. I., Zandvakili, A., Krishna, A., Aschner, A., Machens, C. K., ... & Yu, B. M. (2022). Feedforward and feedback interactions between visual cortical areas use different population activity patterns. Nature communications, 13(1), 1-14.<br>
+		  Semedo, J. D., Gokcen, E., Machens, C. K., Kohn, A., & Byron, M. Y. (2020). Statistical methods for dissecting interactions between brain areas. Current opinion in neurobiology, 65, 59-69.<br><br>
+		  Semedo, J. D., Zandvakili, A., Machens, C. K., Byron, M. Y., & Kohn, A. (2019). Cortical areas interact through a communication subspace. Neuron, 102(1), 249-259.<br><br>
+		  Semedo, J. D., Jasper, A. I., Zandvakili, A., Krishna, A., Aschner, A., Machens, C. K., ... & Yu, B. M. (2022). Feedforward and feedback interactions between visual cortical areas use different population activity patterns. Nature communications, 13(1), 1-14.<br><br>
 		  Ebrahimi, S., Lecoq, J., Rumyantsev, O., Tasci, T., Zhang, Y., Irimia, C., ... & Schnitzer, M. J. (2022). Emergent reliability in sensory cortical coding and inter-area communication. Nature, 605(7911), 713-721.
 	     </td> 
      </tr>	
