@@ -17,9 +17,9 @@ permalink: /news/journal_club_2022/
           <td>Fengjun Ma</td>
           <td>Inter-are interactions at the neural population level.<br><br>
 	     References:<br>
-		  Semedo, J. D., Gokcen, E., Machens, C. K., Kohn, A., & Byron, M. Y. (2020). Statistical methods for dissecting interactions between brain areas. Current opinion in neurobiology, 65, 59-69.<br><br>
+		  Semedo, J. D., Gokcen, E., Machens, C. K., Kohn, A., & Byron, M. Y. (2020). Statistical methods for dissecting interactions between brain areas. Curr Opin in Neurobiol, 65, 59-69.<br><br>
 		  Semedo, J. D., Zandvakili, A., Machens, C. K., Byron, M. Y., & Kohn, A. (2019). Cortical areas interact through a communication subspace. Neuron, 102(1), 249-259.<br><br>
-		  Semedo, J. D., Jasper, A. I., Zandvakili, A., Krishna, A., Aschner, A., Machens, C. K., ... & Yu, B. M. (2022). Feedforward and feedback interactions between visual cortical areas use different population activity patterns. Nature communications, 13(1), 1-14.<br><br>
+		  Semedo, J. D., Jasper, A. I., Zandvakili, A., Krishna, A., Aschner, A., Machens, C. K., ... & Yu, B. M. (2022). Feedforward and feedback interactions between visual cortical areas use different population activity patterns. Nat Commun, 13(1), 1-14.<br><br>
 		  Ebrahimi, S., Lecoq, J., Rumyantsev, O., Tasci, T., Zhang, Y., Irimia, C., ... & Schnitzer, M. J. (2022). Emergent reliability in sensory cortical coding and inter-area communication. Nature, 605(7911), 713-721.
 	     </td> 
      </tr>	
@@ -57,7 +57,7 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/05/06<br>9:30 am</td>
           <td>Qianru Zhang</td>
-          <td>Jenni, N. L., Rutledge, G., & Floresco, S. B. (2022). Distinct Medial Orbitofrontal–Striatal Circuits Support Dissociable Component Processes of Risk/Reward Decision-Making. Journal of Neuroscience, 42(13), 2743-2755.</td> 
+          <td>Jenni, N. L., Rutledge, G., & Floresco, S. B. (2022). Distinct Medial Orbitofrontal–Striatal Circuits Support Dissociable Component Processes of Risk/Reward Decision-Making. J Neurosci, 42(13), 2743-2755.</td> 
      </tr>	
 	
      <tr>
@@ -99,7 +99,7 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/3/18<br>9:30 am</td>
           <td>Fengjun Ma</td>
-          <td>Solié, C., Girard, B., Righetti, B., Tapparel, M., & Bellone, C. (2022). VTA dopamine neuron activity encodes social interaction and promotes reinforcement learning through social prediction error. Nature neuroscience, 25(1), 86-97.</td>  
+          <td>Solié, C., Girard, B., Righetti, B., Tapparel, M., & Bellone, C. (2022). VTA dopamine neuron activity encodes social interaction and promotes reinforcement learning through social prediction error. Nat neurosci, 25(1), 86-97.</td>  
      </tr>	
 	
      <tr>
