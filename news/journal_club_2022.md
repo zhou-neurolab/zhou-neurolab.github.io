@@ -11,7 +11,12 @@ permalink: /news/journal_club_2022/
   	<col style="width:20%">
 	<col style="width:100%">    
 
-
+     <tr>
+          <td>2022/06/24<br>9:30 am</td>
+          <td>Yuhang Zhu</td>
+          <td>Balewski, Z. Z., Knudsen, E. B., & Wallis, J. D. (2022). Fast and slow contributions to decision-making in corticostriatal circuits. <b>Neuron</b>, available online 6 May 2022</td> 
+     </tr>
+	
      <tr>
           <td>2022/06/17<br>9:30 am</td>
           <td>Fengjun Ma</td>
