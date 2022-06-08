@@ -105,7 +105,7 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/3/11<br>9:30 am</td>
           <td>Jiawei Zeng</td>
-          <td>Rose, M. C., Styr, B., Schmid, T. A., Elie, J. E., & Yartsev, M. M. (2021). Cortical representation of group social communication in bats. Science, 374(6566), eaba9584.<br><br>Báez-Mendoza, R., Mastrobattista, E. P., Wang, A. J., & Williams, Z. M. (2021). Social agent identity cells in the prefrontal cortex of interacting groups of primates. <b>Science</b>, 374(6566), eabb4149.</td>  
+          <td>Rose, M. C., Styr, B., Schmid, T. A., Elie, J. E., & Yartsev, M. M. (2021). Cortical representation of group social communication in bats. <b>Science</b>, 374(6566), eaba9584.<br><br>Báez-Mendoza, R., Mastrobattista, E. P., Wang, A. J., & Williams, Z. M. (2021). Social agent identity cells in the prefrontal cortex of interacting groups of primates. <b>Science</b>, 374(6566), eabb4149.</td>  
      </tr>		
 	
      <tr>
