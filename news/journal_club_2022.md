@@ -15,7 +15,7 @@ permalink: /news/journal_club_2022/
           <td>2022/07/15<br>9:30 am</td>
           <td>Aixia Song</td>
           <td>Sherringtonian vs. Hopfieldian views on cognition (tentative).<br><br>
-		  References:
+		  References:<br>
 		  Raposo, D., Kaufman, M. T. & Churchland, A. K. (2014). A category-free neural population supports evolving demands during decision-making. <b>Nat. Neurosci.</b>, 17, 1784–1792.<br><br>
 		  Hirokawa, J., Vaughan, A., Masset, P., Ott, T. & Kepecs, A. (2019). Frontal cortex neuron types categorically encode single decision variables. <b>Nature</b>, 576, 446–451.<br><br>
 		  Dubreuil, A., Valente, A., Beiran, M., Mastrogiuseppe, F., & Ostojic, S. (2022). The role of population structure in computations through neural dynamics. <b>Nat Neurosci.</b> <br><br>
