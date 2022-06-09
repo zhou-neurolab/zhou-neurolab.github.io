@@ -12,6 +12,36 @@ permalink: /news/journal_club_2022/
 	<col style="width:100%">    
 
      <tr>
+          <td>2022/07/15<br>9:30 am</td>
+          <td>Aixia Song</td>
+          <td>Sherringtonian vs. Hopfieldian views on cognition (tentative).<br><br>
+		  References:<br><br>
+		  Raposo, D., Kaufman, M. T. & Churchland, A. K. (2014). A category-free neural population supports evolving demands during decision-making. Nat. Neurosci., 17, 1784–1792.<br><br>
+		  Hirokawa, J., Vaughan, A., Masset, P., Ott, T. & Kepecs, A. (2019). Frontal cortex neuron types categorically encode single decision variables. Nature, 576, 446–451.<br><br>
+		  Dubreuil, A., Valente, A., Beiran, M., Mastrogiuseppe, F., & Ostojic, S. (2022). The role of population structure in computations through neural dynamics. Nat Neurosci. <br><br>
+		  Barack, D. L., & Krakauer, J. W. (2021). Two views on the cognitive brain. <b>Nat Rev Neurosci</b>, 22(6), 359-371.<br><br>
+	     </td> 
+     </tr>		
+	
+     <tr>
+          <td>2022/07/08<br>9:30 am</td>
+          <td>Huixin Lin</td>
+          <td>Wide-field imaging.</td> 
+     </tr>		
+	
+     <tr>
+          <td>2022/07/01<br>9:30 am</td>
+          <td>Qianru Zhang</td>
+          <td>TBD.</td> 
+     </tr>		
+	
+     <tr>
+          <td>2022/06/24<br>9:30 am</td>
+          <td>Yuhang Zhu</td>
+          <td>Balewski, Z. Z., Knudsen, E. B., & Wallis, J. D. (2022). Fast and slow contributions to decision-making in corticostriatal circuits. <b>Neuron</b>, available online 6 May 2022.</td> 
+     </tr>	
+	
+     <tr>
           <td>2022/06/24<br>9:30 am</td>
           <td>Yuhang Zhu</td>
           <td>Balewski, Z. Z., Knudsen, E. B., & Wallis, J. D. (2022). Fast and slow contributions to decision-making in corticostriatal circuits. <b>Neuron</b>, available online 6 May 2022.</td> 
