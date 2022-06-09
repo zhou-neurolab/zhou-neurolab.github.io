@@ -16,9 +16,9 @@ permalink: /news/journal_club_2022/
           <td>Aixia Song</td>
           <td>Sherringtonian vs. Hopfieldian views on cognition (tentative).<br><br>
 		  References:<br><br>
-		  Raposo, D., Kaufman, M. T. & Churchland, A. K. (2014). A category-free neural population supports evolving demands during decision-making. Nat. Neurosci., 17, 1784–1792.<br><br>
-		  Hirokawa, J., Vaughan, A., Masset, P., Ott, T. & Kepecs, A. (2019). Frontal cortex neuron types categorically encode single decision variables. Nature, 576, 446–451.<br><br>
-		  Dubreuil, A., Valente, A., Beiran, M., Mastrogiuseppe, F., & Ostojic, S. (2022). The role of population structure in computations through neural dynamics. Nat Neurosci. <br><br>
+		  Raposo, D., Kaufman, M. T. & Churchland, A. K. (2014). A category-free neural population supports evolving demands during decision-making. <b>Nat. Neurosci.</b>, 17, 1784–1792.<br><br>
+		  Hirokawa, J., Vaughan, A., Masset, P., Ott, T. & Kepecs, A. (2019). Frontal cortex neuron types categorically encode single decision variables. <b>Nature</b>, 576, 446–451.<br><br>
+		  Dubreuil, A., Valente, A., Beiran, M., Mastrogiuseppe, F., & Ostojic, S. (2022). The role of population structure in computations through neural dynamics. <b>Nat Neurosci.</b> <br><br>
 		  Barack, D. L., & Krakauer, J. W. (2021). Two views on the cognitive brain. <b>Nat Rev Neurosci</b>, 22(6), 359-371.<br><br>
 	     </td> 
      </tr>		
