@@ -14,7 +14,7 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/07/22<br>9:30 am</td>
           <td>Lingwei Zhang</td>
-          <td>Dimensionality reduction in brain-machine interface studies.</td> 
+          <td>Finding low-dimensional neural dynamics for brain-machine interface studies.</td> 
      </tr>	
 	
      <tr>
