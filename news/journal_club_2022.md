@@ -12,6 +12,12 @@ permalink: /news/journal_club_2022/
 	<col style="width:100%">    
 
      <tr>
+          <td>2022/07/22<br>9:30 am</td>
+          <td>Lingwei Zhang</td>
+          <td>Dimensionality reduction in brain-machine interface studies.</td> 
+     </tr>	
+	
+     <tr>
           <td>2022/07/15<br>9:30 am</td>
           <td>Aixia Song</td>
           <td>Sherringtonian vs. Hopfieldian views on cognition (tentative).<br><br>
@@ -32,7 +38,7 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/07/01<br>9:30 am</td>
           <td>Qianru Zhang</td>
-          <td>TBD.</td> 
+          <td>Cook, J. R., Li, H., Nguyen, B., Huang, H. H., Mahdavian, P., Kirchgessner, M. A., ... & Jin, X. (2022). Secondary auditory cortex mediates a sensorimotor mechanism for action timing. <b>Nat Neurosci</b>, 25(3), 330-344.</td> 
      </tr>		
 	
      <tr>
