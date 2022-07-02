@@ -32,7 +32,7 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/07/08<br>9:30 am</td>
           <td>Chi Ren<br>@UCSD</td>
-          <td>Wide-field imaging.</td> 
+          <td>Cortex-wide activity of excitatory/inhibitory neurons during motor learning.</td> 
      </tr>		
 	
      <tr>
