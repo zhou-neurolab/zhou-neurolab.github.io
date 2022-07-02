@@ -31,8 +31,8 @@ permalink: /news/journal_club_2022/
 	
      <tr>
           <td>2022/07/08<br>9:30 am</td>
-          <td>Huixin Lin</td>
-          <td>Wide-field imaging for cortical functional connectivity studies.</td> 
+          <td>Chi Ren<br>@UCSD</td>
+          <td>Wide-field imaging.</td> 
      </tr>		
 	
      <tr>
