@@ -14,8 +14,8 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/07/29<br>9:30 am</td>
           <td>Jiawei Zeng</td>
-          <td>Liberti, W. A., Schmid, T. A., Forli, A., Snyder, M., & Yartsev, M. M. (2022). A stable hippocampal code in freely flying bats. Nature, 604(7904), 98-103.<br><br>
-	     Wirtshafter, H. S., & Disterhoft, J. F. (2022). In Vivo Multi-Day Calcium Imaging of CA1 Hippocampus in Freely Moving Rats Reveals a High Preponderance of Place Cells with Consistent Place Fields. Journal of Neuroscience, 42(22), 4538-4554.</td> 
+          <td>Liberti, W. A., Schmid, T. A., Forli, A., Snyder, M., & Yartsev, M. M. (2022). A stable hippocampal code in freely flying bats. <b>Nature</b>, 604(7904), 98-103.<br><br>
+	     Wirtshafter, H. S., & Disterhoft, J. F. (2022). In Vivo Multi-Day Calcium Imaging of CA1 Hippocampus in Freely Moving Rats Reveals a High Preponderance of Place Cells with Consistent Place Fields. <b>J Neurosci</b>, 42(22), 4538-4554.</td> 
      </tr>	
 	
      <tr>
