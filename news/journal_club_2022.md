@@ -25,9 +25,15 @@ permalink: /news/journal_club_2022/
      </tr>	
 	
      <tr>
-          <td>2022/07/15<br>9:30 am</td>
+          <td>2022/07/15<br>13:00 am</td>
           <td>Huixin Lin</td>
           <td>Wide-field calcium imaging.</td> 
+     </tr>	
+	
+     <tr>
+          <td>2022/07/15<br>9:30 am</td>
+          <td>Mengxi Yun<br>@Harvard Medical School</td>
+          <td>Distinct roles of the orbitofrontal cortex, ventral striatum, and midbrain dopamine neurons of non-human primates in economic decision-making.</td> 
      </tr>		
 	
      <tr>
