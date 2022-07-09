@@ -19,13 +19,13 @@ permalink: /news/journal_club_2022/
      </tr>	
 	
      <tr>
-          <td>2022/07/22<br>9:30 am</td>
+          <td>2022/07/22<br>10:30 am</td>
           <td>Lingwei Zhang</td>
           <td>Finding low-dimensional neural dynamics for brain-machine interface studies.</td> 
      </tr>	
 	
      <tr>
-          <td>2022/07/15<br>13:00 am</td>
+          <td>2022/07/22<br>9:30 am</td>
           <td>Huixin Lin</td>
           <td>Wide-field calcium imaging.</td> 
      </tr>	
