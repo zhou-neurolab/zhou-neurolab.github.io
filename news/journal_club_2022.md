@@ -27,7 +27,9 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/07/22<br>10:30 am</td>
           <td>Lingwei Zhang</td>
-          <td>Finding low-dimensional neural dynamics for brain-machine interface studies.</td> 
+          <td>Sadtler, P. T., Quick, K. M., Golub, M. D., Chase, S. M., Ryu, S. I., Tyler-Kabara, E. C., ... & Batista, A. P. (2014). Neural constraints on learning. <b>Nature</b>, 512(7515), 423-426.<br><br>
+	     Golub, M. D., Sadtler, P. T., Oby, E. R., Quick, K. M., Ryu, S. I., Tyler-Kabara, E. C., ... & Yu, B. M. (2018). Learning by neural reassociation. <b>Nat Neurosci</b>, 21(4), 607-616.<br><br></td> 
+	     Hennig, J. A., Oby, E. R., Golub, M. D., Bahureksa, L. A., Sadtler, P. T., Quick, K. M., ... & Yu, B. M. (2021). Learning is shaped by abrupt changes in neural engagement. <b>Nat Neurosci</b>, 24(5), 727-736.
      </tr>		
 	
      <tr>
