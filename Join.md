@@ -5,7 +5,7 @@ permalink: /join/
 ---
 
 <p align="center">
-  <img width="200" style="margin-right:50px; border-radius:8px; border:0px solid #6495ED" src="/assets/zhoulab_logo_square.png">
+  <img width="200" style="border-radius:8px; border:0px solid #6495ED" src="/assets/zhoulab_logo_square.png">
   <img width="300" style="border-radius:8px; border:0px solid #6495ED" src="/assets/welcome_to_join_us.gif">
 </p>
 
