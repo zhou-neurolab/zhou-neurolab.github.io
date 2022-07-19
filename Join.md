@@ -5,10 +5,9 @@ permalink: /join/
 ---
 
 
-<img align="left" width="200" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/assets/zhoulab_logo_square.png" /><br><br>
-
+<img align="left" width="300" style="margin-right:25px; border-radius: 8px; border: 0px solid #FF5E13;" src="/assets/zhoulab_logo_square.png" />
 <img align="left" width="300" style="margin-right:25px; border-radius: 8px; border: 0px solid #FF5E13;" src="/assets/welcome_to_join_us.gif" />
+<br><br>
 Our lab is actively seeking postdoctoral fellows and research assistants. Please get in touch if you're interested in joining our team. Email: [jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)
 <br><br>
 For more information:<br>[招聘博士后和研究助理（2022年）](hiring.md)
-<br clear="left" />
