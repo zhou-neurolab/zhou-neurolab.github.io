@@ -12,6 +12,12 @@ permalink: /news/journal_club_2022/
 	<col style="width:100%">    
 
      <tr>
+          <td>2022/08/05<br>9:30 am</td>
+          <td>Fengjun Ma</td>
+          <td>Yadav, N., Noble, C., Niemeyer, J. E., Terceros, A., Victor, J., Liston, C., & Rajasethupathy, P. (2022). Prefrontal feature representations drive memory recall. <b>Nature</b>, 1-8.</td> 
+     </tr>	
+	
+     <tr>
           <td>2022/07/29<br>10:30 am</td>
           <td>Jiawei Zeng</td>
           <td>Liberti, W. A., Schmid, T. A., Forli, A., Snyder, M., & Yartsev, M. M. (2022). A stable hippocampal code in freely flying bats. <b>Nature</b>, 604(7904), 98-103.<br><br>
