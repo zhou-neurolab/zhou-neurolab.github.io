@@ -12,15 +12,21 @@ permalink: /news/journal_club_2022/
 	<col style="width:100%">    
 
      <tr>
-          <td>2022/08/12<br>9:30 am</td>
+          <td>2022/08/19<br>9:30 am</td>
           <td>Yuhang Zhu</td>
           <td>Athalye, V. R., Santos, F. J., Carmena, J. M., & Costa, R. M. (2018). Evidence for a neural law of effect. <b>Science</b>, 359(6379), 1024-1029.</td> 
      </tr>		
 	
      <tr>
-          <td>2022/08/05<br>9:30 am</td>
+          <td>2022/08/012<br>9:30 am</td>
           <td>Fengjun Ma</td>
           <td>Yadav, N., Noble, C., Niemeyer, J. E., Terceros, A., Victor, J., Liston, C., & Rajasethupathy, P. (2022). Prefrontal feature representations drive memory recall. <b>Nature</b>, 1-8.</td> 
+     </tr>
+	
+     <tr>
+          <td>2022/08/05<br>9:30 am</td>
+          <td>Zhewei Zhang<br>@NIDA-IRP</td>
+          <td>Zhang, Z., Yin, C. & Yang, T. (2022). Evidence accumulation occurs locally in the parietal cortex. <b>Nat Commun</b>, 13, 4426.</td> 
      </tr>	
 	
      <tr>
