@@ -12,15 +12,22 @@ permalink: /news/journal_club_2022/
 	<col style="width:100%">    
 
      <tr>
-          <td>2022/08/19<br>9:30 am</td>
+          <td>2022/08/26<br>9:30 am</td>
           <td>Yuhang Zhu</td>
           <td>Athalye, V. R., Santos, F. J., Carmena, J. M., & Costa, R. M. (2018). Evidence for a neural law of effect. <b>Science</b>, 359(6379), 1024-1029.</td> 
      </tr>		
+
+     <tr>
+          <td>2022/08/19<br>9:30 am</td>
+          <td>Qianru Zhang</td>
+          <td>Kutlu, M.G., Zachry, J.E., Melugin, P.R. et al. (2022). Dopamine signaling in the nucleus accumbens core mediates latent inhibition. <b>Nat Neurosci</b> 25, 1071–1081.</td> 
+     </tr>	
 	
      <tr>
           <td>2022/08/012<br>9:30 am</td>
           <td>Fengjun Ma</td>
-          <td>Yadav, N., Noble, C., Niemeyer, J. E., Terceros, A., Victor, J., Liston, C., & Rajasethupathy, P. (2022). Prefrontal feature representations drive memory recall. <b>Nature</b>, 1-8.</td> 
+          <td>Yadav, N., Noble, C., Niemeyer, J. E., Terceros, A., Victor, J., Liston, C., & Rajasethupathy, P. (2022). Prefrontal feature representations drive memory recall. <b>Nature</b>, 1-8.<br><br>
+	     Costa, K. M., Sengupta, A., & Schoenbaum, G. (2021). The orbitofrontal cortex is necessary for learning to ignore. Current Biology, 31(12), 2652-2657.</td> 
      </tr>
 	
      <tr>
