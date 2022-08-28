@@ -12,7 +12,7 @@ permalink: /news/journal_club_2022/
 	<col style="width:100%">    
 
      <tr>
-          <td>2022/08/26<br>9:30 am</td>
+          <td>2022/09/02<br>9:30 am</td>
           <td>Yuhang Zhu</td>
           <td>Athalye, V. R., Santos, F. J., Carmena, J. M., & Costa, R. M. (2018). Evidence for a neural law of effect. <b>Science</b>, 359(6379), 1024-1029.</td> 
      </tr>		
