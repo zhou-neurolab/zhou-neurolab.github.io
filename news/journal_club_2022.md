@@ -14,7 +14,8 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/09/02<br>9:30 am</td>
           <td>Yuhang Zhu</td>
-          <td>Athalye, V. R., Santos, F. J., Carmena, J. M., & Costa, R. M. (2018). Evidence for a neural law of effect. <b>Science</b>, 359(6379), 1024-1029.</td> 
+          <td>Athalye, V. R., Santos, F. J., Carmena, J. M., & Costa, R. M. (2018). Evidence for a neural law of effect. <b>Science</b>, 359(6379), 1024-1029.<br><br>
+	     Koralek, A. C., Jin, X., Long II, J. D., Costa, R. M., & Carmena, J. M. (2012). Corticostriatal plasticity is necessary for learning intentional neuroprosthetic skills. <b>Nature</b>, 483(7389), 331-335.</td> 
      </tr>		
 
      <tr>
