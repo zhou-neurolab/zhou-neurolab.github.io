@@ -12,6 +12,24 @@ permalink: /news/journal_club_2022/
 	<col style="width:100%">    
 
      <tr>
+          <td>2022/09/23<br>9:30 am</td>
+          <td>Junli Liliu<br>@ NYU Shanghai</td>
+          <td>Motor planning beyond 2-alternative forced choice: does rat frontal orienting field represent goals or actions?</td> 
+     </tr>		
+	
+     <tr>
+          <td>2022/09/16<br>9:30 am</td>
+          <td>Peiyu Jiang</td>
+          <td>Miller, K. J., Botvinick, M. M., & Brody, C. D. (2022). Value representations in the rodent orbitofrontal cortex drive learning, not choice. <b>Elife</b>, 11, e64575.</td> 
+     </tr>	
+	
+     <tr>
+          <td>2022/09/09<br>9:30 am</td>
+          <td>Huixin Lin</td>
+          <td>Introduction of several commonly used computational neuroscience models learned from CNeuro 2022 @ Tsinghua U this summer.</td> 
+     </tr>		
+	
+     <tr>
           <td>2022/09/02<br>9:30 am</td>
           <td>Yuhang Zhu</td>
           <td>Koralek, A. C., Jin, X., Long II, J. D., Costa, R. M., & Carmena, J. M. (2012). Corticostriatal plasticity is necessary for learning intentional neuroprosthetic skills. <b>Nature</b>, 483(7389), 331-335.<br><br>
