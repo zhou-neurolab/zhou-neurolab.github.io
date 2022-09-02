@@ -71,6 +71,11 @@ permalink: /CV/jingfeng/
 	<col style="width:100%">
 
 	<tr>
+		<td>2022–2027</td>
+		<td>China Brain Project (Program for Young Scientists)<br>Ministry of Science and Technology</td>
+	</tr>	
+	
+	<tr>
 		<td>2021–2024</td>
 		<td>Beijing Nova Program of Science and Technology<br>Beijing Municipal Science and Technology Commission</td>
 	</tr>		
