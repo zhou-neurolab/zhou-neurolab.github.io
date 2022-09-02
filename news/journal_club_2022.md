@@ -13,7 +13,7 @@ permalink: /news/journal_club_2022/
 
      <tr>
           <td>2022/09/23<br>9:30 am</td>
-          <td>Junli Liliu<br>@ NYU Shanghai</td>
+          <td>Junli Liliu<br>@NYU Shanghai</td>
           <td>Motor planning beyond 2-alternative forced choice: does rat frontal orienting field represent goals or actions?</td> 
      </tr>		
 	
