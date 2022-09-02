@@ -207,6 +207,16 @@ Cell, Nature Neuroscience, Neuron, Nature Communications, Current Biology, eLife
 	<col style="width:100%">
 
 	<tr>
+		<td>2022</td>
+		<td>Institute of Genetics and Developmental Biology, CAS</td>
+	</tr>	
+	
+	<tr>
+		<td>2022</td>
+		<td>Tsinghua University Department of Electrical Engineering</td>
+	</tr>	
+	
+	<tr>
 		<td>2021</td>
 		<td>Annual Meeting of Chinese Neuroscience Society</td>
 	</tr>
