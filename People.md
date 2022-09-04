@@ -11,7 +11,7 @@ permalink: /people/
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/jingfeng_zhou.jpg" />
 <h3>Jingfeng Zhou (周景峰), Ph.D.</h3>
 Principal Investigator<br><br>
-[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Jianzan Building South - Floor 2<br>
+[jingfeng.zhou@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>A619<br>
 [[Google Scholar](https://scholar.google.com/citations?user=ZQD-fmcAAAAJ)] [[Faculty Page](http://cibr.ac.cn/science/team/detail/575)] [[C.V.](CV/jingfeng.md)]<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
@@ -24,7 +24,7 @@ Principal Investigator<br><br>
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xinyi_sui.jpg" />
 <h3>Xinyi Sui (隋馨仪), M.S.</h3>
 Lab Manager<br><br>
-[suixinyi@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Jianzan Building South - Floor 2<br clear="left" />
+[suixinyi@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>A6<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
