@@ -24,7 +24,7 @@ Principal Investigator<br><br>
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xinyi_sui.jpg" />
 <h3>Xinyi Sui (隋馨仪), M.S.</h3>
 Lab Manager<br><br>
-[suixinyi@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>A6<br clear="left" />
+[suixinyi@cibr.ac.cn](mailto:jingfeng.zhou@cibr.ac.cn)<br>Floor A6<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
