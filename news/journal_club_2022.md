@@ -26,7 +26,9 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/09/09<br>9:30 am</td>
           <td>Huixin Lin</td>
-          <td>Introduction of several commonly used computational neuroscience models learned from CNeuro 2022 @ Tsinghua U this summer.</td> 
+          <td>Murakami, M., Shteingart, H., Loewenstein, Y., & Mainen, Z. F. (2017). Distinct sources of deterministic and stochastic components of action timing decisions in rodent frontal cortex. <b>Neuron</b>, 94(4), 908-919.<br><br>
+	     Zhang, Z., Cheng, Z., Lin, Z., Nie, C., & Yang, T. (2018). A neural network model for the orbitofrontal cortex and task space acquisition during reinforcement learning. <b>PLOS Comp Biol</b>, 14(1), e1005925.<br><br>
+	     Ramírez-Ruiz, J., Grytskyy, D., & Moreno-Bote, R. (2022). Seeking entropy: complex behavior from intrinsic motivation to occupy action-state path space. arXiv preprint <b>arXiv</b>:2205.10316.</td> 
      </tr>		
 	
      <tr>
