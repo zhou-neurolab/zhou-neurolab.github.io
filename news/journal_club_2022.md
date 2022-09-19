@@ -11,6 +11,19 @@ permalink: /news/journal_club_2022/
   	<col style="width:20%">
 	<col style="width:100%">    
 
+	
+     <tr>
+          <td>2022/10/8<br>9:30 am</td>
+          <td>Zhaoyang Yin</td>
+          <td>d’Aquin, S., Szonyi, A., Mahn, M., Krabbe, S., Gründemann, J., & Lüthi, A. (2022). Compartmentalized dendritic plasticity during associative learning. <b>Science</b>, 376(6590), eabf7052.</td> 
+     </tr>	
+	
+     <tr>
+          <td>2022/09/30<br>9:30 am</td>
+          <td>Fengjun Ma</td>
+          <td>Li, D. C., Dighe, N. M., Barbee, B. R., Pitts, E. G., Kochoian, B., Blumenthal, S. A., ... & Gourley, S. L. (2022). A molecularly integrated amygdalo-fronto-striatal network coordinates flexible learning and memory. <b>Nat Neurosci</b>, 1-12.</td> 
+     </tr>		
+	
      <tr>
           <td>2022/09/26<br>9:30 am</td>
           <td>Junli Liliu<br>@NYU Shanghai</td>
