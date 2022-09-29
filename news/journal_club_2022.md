@@ -11,6 +11,23 @@ permalink: /news/journal_club_2022/
   	<col style="width:20%">
 	<col style="width:100%">    
 
+     <tr>
+          <td>2022/10/28<br>9:30 am</td>
+          <td>Jiali Ma</td>
+          <td>Millard, S. J., Hoang, I. B., Greer, Z., O'Connor, S. L., Wassum, K. M., James, M. H., ... & Sharpe, M. J. (2022). The cognitive basis of intracranial self-stimulation of midbrain dopamine neurons. <b>bioRxiv</b>.</td> 
+     </tr>		
+	
+     <tr>
+          <td>2022/10/21<br>9:30 am</td>
+          <td>Jiawei Zeng</td>
+          <td>Low, R. J., Lewallen, S., Aronov, D., Nevers, R., & Tank, D. W. (2018). Probing variability in a cognitive map using manifold inference from neural dynamics. <b>bioRxiv</b>, 418939.</td> 
+     </tr>		
+	
+     <tr>
+          <td>2022/10/14<br>9:30 am</td>
+          <td>Yuhang Zhu</td>
+          <td>Dunn, T. W., Marshall, J. D., Severson, K. S., Aldarondo, D. E., Hildebrand, D. G., Chettih, S. N., ... & Ölveczky, B. P. (2021). Geometric deep learning enables 3D kinematic profiling across species and environments. <b>Nat Methods</b>, 18(5), 564-573.</td> 
+     </tr>	
 	
      <tr>
           <td>2022/10/8<br>9:30 am</td>
