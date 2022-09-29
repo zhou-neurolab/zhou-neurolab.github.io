@@ -14,7 +14,7 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/10/28<br>9:30 am</td>
           <td>Jiali Ma</td>
-          <td>Millard, S. J., Hoang, I. B., Greer, Z., O'Connor, S. L., Wassum, K. M., James, M. H., ... & Sharpe, M. J. (2022). The cognitive basis of intracranial self-stimulation of midbrain dopamine neurons. <b>bioRxiv</b>.</td> 
+          <td>Millard, S. J., Hoang, I. B., Greer, Z., O'Connor, S. L., Wassum, K. M., James, M. H., ... & Sharpe, M. J. (2022). The cognitive basis of intracranial self-stimulation of midbrain dopamine neurons. <b>bioRxiv</b>, 503670.</td> 
      </tr>		
 	
      <tr>
