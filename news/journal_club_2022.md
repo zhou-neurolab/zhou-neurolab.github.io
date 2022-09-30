@@ -15,7 +15,7 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/11/04<br>9:30 am</td>
           <td>Qianru Zhang</td>
-          <td>Samborska, V., Butler, J., Walton, M., Behrens, T. E., & Akam, T. (2022). Complementary task representations in hippocampus and prefrontal cortex for generalizing the structure of problems. <b>Nat Neuro</br>.</td> 
+          <td>Samborska, V., Butler, J., Walton, M., Behrens, T. E., & Akam, T. (2022). Complementary task representations in hippocampus and prefrontal cortex for generalizing the structure of problems. <b>Nat Neuro</b>, https://doi.org/10.1038/s41593-022-01149-8.</td> 
      </tr>	
 	
      <tr>
