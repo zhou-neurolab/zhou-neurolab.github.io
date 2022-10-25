@@ -13,7 +13,7 @@ permalink: /news/journal_club_2022/
 	
 	
      <tr>
-          <td>2022/11/21<br>9:30 am</td>
+          <td>2022/11/11<br>9:30 am</td>
           <td>Huixin Lin</td>
           <td>Theories on contingency learning - R. Rescorla vs. R. Miller</td> 
      </tr>
