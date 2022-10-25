@@ -9,8 +9,9 @@ permalink: /news/journal_club_2022/
      
 	<col style="width:15%">
   	<col style="width:20%">
-	<col style="width:100%">    
-
+	<col style="width:100%">
+	
+	
 <tr>
           <td>2022/11/11<br>9:30 am</td>
           <td>Huixin Lin</td>
