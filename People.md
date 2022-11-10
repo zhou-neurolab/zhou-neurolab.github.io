@@ -94,7 +94,7 @@ Capital Medical University & CIBR<br clear="left" />
 
 <!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/zhaoyang_yin.jpg" />
-<h3>Zhaoyang Yin (殷召阳)</h3>
+<h3>Zhaoyang Yin (殷召阳), M.S.</h3>
 Ph.D. Student<br><br>
 Capital Medical University & CIBR<br clear="left" />
 <br>
