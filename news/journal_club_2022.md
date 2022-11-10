@@ -13,17 +13,23 @@ permalink: /news/journal_club_2022/
 	
 	
      <tr>
-          <td>2022/11/18<br>9:30 am</td>
+          <td>2022/11/23<br>1:00 pm</td>
           <td>Fengjun Ma</td>
           <td>Attention models in associative learning</td> 
      </tr>	
 	
      <tr>
-          <td>2022/11/11<br>9:30 am</td>
+          <td>2022/11/16<br>1:00 pm</td>
           <td>Huixin Lin</td>
           <td>Theories on contingency learning - R. Rescorla vs. R. Miller</td> 
      </tr>
-		
+	
+     <tr>
+          <td>2022/11/11<br>9:00 am</td>
+          <td>Jingfeng Zhou</td>
+          <td>An introduction of associative learning theories in animals</td> 
+     </tr>	
+	
      <tr>
           <td>2022/11/04<br>9:30 am</td>
           <td>Qianru Zhang</td>
