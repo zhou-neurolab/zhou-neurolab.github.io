@@ -51,6 +51,14 @@ B.S. in Biomedical Engineering<br>Beijing University of Technology<br clear="lef
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
 
+<!-- ========================================================================================================================== -->
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xinmiao_wang.jpg" />
+<h3>Xinmiao Wang (王鑫淼)</h3>
+Animal Care Manager<br><br>
+<br clear="left" />
+<br>
+<hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
+<br>
 
 <!-- ========================================================================================================================== -->
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/huixin_lin2.jpg" />
@@ -85,10 +93,10 @@ Capital Medical University & CIBR<br clear="left" />
 
 
 <!-- ========================================================================================================================== -->
-<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/xinmiao_wang.jpg" />
-<h3>Xinmiao Wang (王鑫淼)</h3>
-Animal Care Manager<br><br>
-<br clear="left" />
+<img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/zhaoyang_yin.jpg" />
+<h3>Zhaoyang Yin (殷召阳)</h3>
+Ph.D. Student<br><br>
+Capital Medical University & CIBR<br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
