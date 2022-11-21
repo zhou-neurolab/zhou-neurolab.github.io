@@ -47,7 +47,7 @@ Ph.D. in Neuroscience<br>Tsinghua University<br>
 <img align="left" width="170" style="margin-right:25px; border-radius: 50%; border: 0px solid #6495ED;" src="/people/yingjun_tang.jpg" />
 <h3>Yingjun Tang (汤颖君), Ph.D.</h3>
 Postdoctoral Fellow<br><br>
-Ph.D. in Neuroscience<br>Tsinghua University<br><br><br clear="left" />
+Ph.D. in Neuroscience<br>Tsinghua University<br><br clear="left" />
 <br>
 <hr style="height:2px; border:1px; background-image: linear-gradient(to right, rgba(255, 94, 19, 0), rgba(255, 94, 19, 0.6), rgba(255, 94, 19, 0))" />
 <br>
