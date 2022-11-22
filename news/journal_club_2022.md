@@ -11,6 +11,17 @@ permalink: /news/journal_club_2022/
   	<col style="width:20%">
 	<col style="width:100%">
 	
+     <tr>
+          <td>2022/12/07<br>1:00 pm</td>
+          <td>Zhaoyang Yin</td>
+          <td>Fu, Z., Beam, D., Chung, J. M., Reed, C. M., Mamelak, A. N., Adolphs, R., & Rutishauser, U. (2022). The geometry of domain-general performance monitoring in the human medial frontal cortex. <b>Science</b>, 376(6593), eabm9922.</td> 
+     </tr>
+	
+     <tr>
+          <td>2022/11/30<br>2:00 pm</td>
+          <td>Zhaonan Zhang<br>@U of Toulouse</td>
+          <td>Food wanting is mediated by transient activation of dopaminergic signaling in the honey bee brain</td> 
+     </tr>	
 	
      <tr>
           <td>2022/11/23<br>1:00 pm</td>
