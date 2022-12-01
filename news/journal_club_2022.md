@@ -12,14 +12,20 @@ permalink: /news/journal_club_2022/
 	<col style="width:100%">
 
      <tr>
+          <td>2022/01/04<br>1:00 pm</td>
+          <td>Jiawei Zeng</td>
+          <td>TBD</td> 
+     </tr>	
+	
+     <tr>
           <td>2022/12/28<br>1:00 pm</td>
-          <td>Qianru Zhang</td>
+          <td>Huixin Lin</td>
           <td>TBD</td> 
      </tr>	
 	
      <tr>
           <td>2022/12/21<br>1:00 pm</td>
-          <td>Jiali Ma</td>
+          <td>Qianru Zhang</td>
           <td>TBD</td> 
      </tr>		
 	
