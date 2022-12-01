@@ -13,7 +13,7 @@ permalink: /news/journal_club_2022/
 
      <tr>
           <td>2022/12/28<br>1:00 pm</td>
-          <td>Q</td>
+          <td>Qianru Zhang</td>
           <td>TBD</td> 
      </tr>	
 	
