@@ -10,6 +10,24 @@ permalink: /news/journal_club_2022/
 	<col style="width:15%">
   	<col style="width:20%">
 	<col style="width:100%">
+
+     <tr>
+          <td>2022/12/28<br>1:00 pm</td>
+          <td>Q</td>
+          <td>TBD</td> 
+     </tr>	
+	
+     <tr>
+          <td>2022/12/21<br>1:00 pm</td>
+          <td>Jiali Ma</td>
+          <td>TBD</td> 
+     </tr>		
+	
+     <tr>
+          <td>2022/12/14<br>1:00 pm</td>
+          <td>Yuhang Zhu</td>
+          <td>An Introduction to Machine-Computer Interfaces</td> 
+     </tr>	
 	
      <tr>
           <td>2022/12/07<br>1:00 pm</td>
