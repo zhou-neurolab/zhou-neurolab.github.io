@@ -26,7 +26,7 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/12/14<br>1:00 pm</td>
           <td>Yuhang Zhu</td>
-          <td>An Introduction to Machine-Computer Interfaces</td> 
+          <td>An Introduction to Brain-Machine Interfaces</td> 
      </tr>	
 	
      <tr>
