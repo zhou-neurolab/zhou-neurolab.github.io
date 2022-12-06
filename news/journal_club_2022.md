@@ -20,7 +20,7 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/12/21<br>1:00 pm</td>
           <td>Qianru Zhang</td>
-          <td>TBD</td> 
+          <td>Yu, Q., Bi, Z., Jiang, S., Yan, B., Chen, H., Wang, Y., ... & Zhang, J. (2022). Visual cortex encodes timing information in humans and mice. <b>Neuron</b>, available online.</td> 
      </tr>		
 	
      <tr>
