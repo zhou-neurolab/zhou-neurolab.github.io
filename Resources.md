@@ -56,6 +56,7 @@ permalink: /resources/
 <h4 style="color:gray">Recorded Talks</h4>
 
 * [CBMM/MIT](https://cbmm.mit.edu/videos)
+* [GT Neuro Seminar Series](https://smartech.gatech.edu/handle/1853/55889)<br>
 * [Dimensionality Reduction and Population Dynamics in Neural Data](https://www.youtube.com/playlist?list=PLonWNO9SywvIKGnlOVrc-6tAGyB14lXfy)<br>
 
 <h4 style="color:gray">Blogs</h4>
