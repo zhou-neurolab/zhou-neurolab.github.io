@@ -14,7 +14,7 @@ permalink: /news/journal_club_2022/
      <tr>
           <td>2022/12/28<br>1:00 pm</td>
           <td>Huixin Lin</td>
-          <td>TBD</td> 
+          <td>Jeong, H., Taylor, A., Floeder, J. R., Lohmann, M., Mihalas, S., Wu, B., ... & Namboodiri, V. M. K. (2022). Mesolimbic dopamine release conveys causal associations. <b>Science</b>, eabq6740.</td> 
      </tr>	
 	
      <tr>
