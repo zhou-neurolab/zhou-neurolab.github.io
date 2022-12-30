@@ -314,5 +314,5 @@ permalink: /news/journal_club_2022/
       
 </table>
 
-[[2022](/news/journal_club_2022/)] [[2021](/news/journal_club_2021/)]
+[[2023](/news/journal_club_2023/)] [[2022](/news/journal_club_2022/)] [[2021](/news/journal_club_2021/)]
 
