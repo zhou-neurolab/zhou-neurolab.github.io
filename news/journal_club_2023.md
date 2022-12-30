@@ -20,7 +20,8 @@ permalink: /news/journal_club_2023/
      <tr>
           <td>2023/01/04<br>1:00 pm</td>
           <td>Jiawei Zeng</td>
-          <td>TBD</td> 
+          <td>Gauthier, J. L., & Tank, D. W. (2018). A dedicated population for reward coding in the hippocampus. <b>Neuron</b>, 99(1), 179-193.<br><br>
+	     Jarzebowski, P., Hay, Y. A., Grewe, B. F., & Paulsen, O. (2022). Different encoding of reward location in dorsal and intermediate hippocampus. <b>Curr Biol</b>, 32(4), 834-841.</td> 
      </tr>		
 	
       
