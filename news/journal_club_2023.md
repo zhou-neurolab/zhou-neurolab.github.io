@@ -10,6 +10,12 @@ permalink: /news/journal_club_2023/
 	<col style="width:15%">
   	<col style="width:20%">
 	<col style="width:100%">
+
+     <tr>
+          <td>2023/02/03<br>9:30 am</td>
+          <td>Qiyue Zhang</td>
+          <td>TBD</td> 
+     </tr>	
 	
      <tr>
           <td>2023/01/11<br>1:00 pm</td>
