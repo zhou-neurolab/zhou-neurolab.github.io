@@ -47,6 +47,7 @@ permalink: /resources/
 * [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3): Color advice for maps.<br>
 * [Color Schemes](https://observablehq.com/@d3/color-schemes) including every ColorBrewer scale.
 * [Cubehelix' Color Scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) Dave Green's 'cubehelix' coloor scheme.
+* [Color Palettes](https://colorpalettes.net/) Created by Alex Romanuke, a designer, colorist, and photographer.
 * [Coblis - Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) Getting to know what it looks like to be colorblind to improve the readability of color images in to-be-published journal papers.
 
 <h4 style="color:gray">Writing and Speaking</h4>
